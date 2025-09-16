@@ -1,0 +1,552 @@
+country_code,country_name,year,gini_coefficient,data_source
+AR,Argentina,1995,0.6389344971260114,calculated_from_percentiles
+AR,Argentina,1996,0.6389344974649802,calculated_from_percentiles
+AR,Argentina,1997,0.6389345011819894,calculated_from_percentiles
+AR,Argentina,1998,0.6389345007912848,calculated_from_percentiles
+AR,Argentina,1999,0.6389344992068917,calculated_from_percentiles
+AR,Argentina,2000,0.6389344985520276,calculated_from_percentiles
+AR,Argentina,2001,0.6620048924943192,calculated_from_percentiles
+AR,Argentina,2002,0.6683971450972652,calculated_from_percentiles
+AR,Argentina,2003,0.6209292987797195,calculated_from_percentiles
+AR,Argentina,2004,0.60422337253893,calculated_from_percentiles
+AR,Argentina,2005,0.5939894506656815,calculated_from_percentiles
+AR,Argentina,2006,0.5805279561932591,calculated_from_percentiles
+AR,Argentina,2007,0.5900500537885756,calculated_from_percentiles
+AR,Argentina,2008,0.5896118741191956,calculated_from_percentiles
+AR,Argentina,2009,0.5706471307525262,calculated_from_percentiles
+AR,Argentina,2010,0.5727368918742619,calculated_from_percentiles
+AR,Argentina,2011,0.5567669693058581,calculated_from_percentiles
+AR,Argentina,2012,0.5379156841633188,calculated_from_percentiles
+AR,Argentina,2013,0.5427273006233373,calculated_from_percentiles
+AR,Argentina,2014,0.5519773337059988,calculated_from_percentiles
+AR,Argentina,2015,0.5610269113208274,calculated_from_percentiles
+AR,Argentina,2016,0.5700972900956209,calculated_from_percentiles
+AR,Argentina,2017,0.5508016039451913,calculated_from_percentiles
+AR,Argentina,2018,0.5570236792582686,calculated_from_percentiles
+AR,Argentina,2019,0.5773664281670154,calculated_from_percentiles
+AR,Argentina,2020,0.5969182108804975,calculated_from_percentiles
+AR,Argentina,2021,0.5577139910817612,calculated_from_percentiles
+AR,Argentina,2022,0.5464450252272073,calculated_from_percentiles
+AR,Argentina,2023,0.5464450233532524,calculated_from_percentiles
+AU,Australia,1995,0.4545097166889315,calculated_from_percentiles
+AU,Australia,1996,0.45239229114596824,calculated_from_percentiles
+AU,Australia,1997,0.450806017197402,calculated_from_percentiles
+AU,Australia,1998,0.45818275924140583,calculated_from_percentiles
+AU,Australia,1999,0.4608417728262285,calculated_from_percentiles
+AU,Australia,2000,0.46383737600998454,calculated_from_percentiles
+AU,Australia,2001,0.456940523947854,calculated_from_percentiles
+AU,Australia,2002,0.4712981985053257,calculated_from_percentiles
+AU,Australia,2003,0.46651769743798066,calculated_from_percentiles
+AU,Australia,2004,0.47088393537146844,calculated_from_percentiles
+AU,Australia,2005,0.47735473547247975,calculated_from_percentiles
+AU,Australia,2006,0.47838391239699296,calculated_from_percentiles
+AU,Australia,2007,0.47739715297221774,calculated_from_percentiles
+AU,Australia,2008,0.48391339436237524,calculated_from_percentiles
+AU,Australia,2009,0.4845579992169816,calculated_from_percentiles
+AU,Australia,2010,0.4829729757797607,calculated_from_percentiles
+AU,Australia,2011,0.48296859122510194,calculated_from_percentiles
+AU,Australia,2012,0.4836848566656643,calculated_from_percentiles
+AU,Australia,2013,0.48388997312811266,calculated_from_percentiles
+AU,Australia,2014,0.48434383694058714,calculated_from_percentiles
+AU,Australia,2015,0.4857107734516547,calculated_from_percentiles
+AU,Australia,2016,0.4788716228591392,calculated_from_percentiles
+AU,Australia,2017,0.48360443888863325,calculated_from_percentiles
+AU,Australia,2018,0.47574883099920195,calculated_from_percentiles
+AU,Australia,2019,0.47841730906282454,calculated_from_percentiles
+AU,Australia,2020,0.4784176481349197,calculated_from_percentiles
+AU,Australia,2021,0.4784174637237758,calculated_from_percentiles
+AU,Australia,2022,0.4784177813556967,calculated_from_percentiles
+AU,Australia,2023,0.4784174706941714,calculated_from_percentiles
+BR,Brazil,1995,0.6831585529787703,calculated_from_percentiles
+BR,Brazil,1996,0.6831585030529308,calculated_from_percentiles
+BR,Brazil,1997,0.6831582941304164,calculated_from_percentiles
+BR,Brazil,1998,0.6831580825578472,calculated_from_percentiles
+BR,Brazil,1999,0.6831585428904459,calculated_from_percentiles
+BR,Brazil,2000,0.6831587370679345,calculated_from_percentiles
+BR,Brazil,2001,0.6831581048101188,calculated_from_percentiles
+BR,Brazil,2002,0.6892751347839776,calculated_from_percentiles
+BR,Brazil,2003,0.6835328915762573,calculated_from_percentiles
+BR,Brazil,2004,0.6760663391124986,calculated_from_percentiles
+BR,Brazil,2005,0.6911330374670573,calculated_from_percentiles
+BR,Brazil,2006,0.6898297713428988,calculated_from_percentiles
+BR,Brazil,2007,0.6763352360132417,calculated_from_percentiles
+BR,Brazil,2008,0.6769094493726187,calculated_from_percentiles
+BR,Brazil,2009,0.6739864886028841,calculated_from_percentiles
+BR,Brazil,2010,0.6785079884834582,calculated_from_percentiles
+BR,Brazil,2011,0.6830123493508732,calculated_from_percentiles
+BR,Brazil,2012,0.6757130713367978,calculated_from_percentiles
+BR,Brazil,2013,0.668321083055492,calculated_from_percentiles
+BR,Brazil,2014,0.6705968118283876,calculated_from_percentiles
+BR,Brazil,2015,0.6792075101862729,calculated_from_percentiles
+BR,Brazil,2016,0.6822703161128811,calculated_from_percentiles
+BR,Brazil,2017,0.6796595560210885,calculated_from_percentiles
+BR,Brazil,2018,0.6784774913615829,calculated_from_percentiles
+BR,Brazil,2019,0.6695629559506289,calculated_from_percentiles
+BR,Brazil,2020,0.6993805533943872,calculated_from_percentiles
+BR,Brazil,2021,0.6960235325201509,calculated_from_percentiles
+BR,Brazil,2022,0.6892917105600036,calculated_from_percentiles
+BR,Brazil,2023,0.6892918902209001,calculated_from_percentiles
+CA,Canada,1995,0.47505867062383966,calculated_from_percentiles
+CA,Canada,1996,0.4800166337557715,calculated_from_percentiles
+CA,Canada,1997,0.4862741612837762,calculated_from_percentiles
+CA,Canada,1998,0.4878721790366153,calculated_from_percentiles
+CA,Canada,1999,0.4887804056383539,calculated_from_percentiles
+CA,Canada,2000,0.49778840581525796,calculated_from_percentiles
+CA,Canada,2001,0.4943569776528618,calculated_from_percentiles
+CA,Canada,2002,0.49632264025440986,calculated_from_percentiles
+CA,Canada,2003,0.49917109003336524,calculated_from_percentiles
+CA,Canada,2004,0.5032466035419172,calculated_from_percentiles
+CA,Canada,2005,0.5065928726199685,calculated_from_percentiles
+CA,Canada,2006,0.5101271786012014,calculated_from_percentiles
+CA,Canada,2007,0.5101276788064035,calculated_from_percentiles
+CA,Canada,2008,0.5034343773273842,calculated_from_percentiles
+CA,Canada,2009,0.49309664438708045,calculated_from_percentiles
+CA,Canada,2010,0.4981608855442915,calculated_from_percentiles
+CA,Canada,2011,0.49753839581708614,calculated_from_percentiles
+CA,Canada,2012,0.49293933571436066,calculated_from_percentiles
+CA,Canada,2013,0.49361495677614997,calculated_from_percentiles
+CA,Canada,2014,0.4907282810544319,calculated_from_percentiles
+CA,Canada,2015,0.4895959194705841,calculated_from_percentiles
+CA,Canada,2016,0.4786086171755112,calculated_from_percentiles
+CA,Canada,2017,0.48387584599030975,calculated_from_percentiles
+CA,Canada,2018,0.4804854868497648,calculated_from_percentiles
+CA,Canada,2019,0.4790426115632479,calculated_from_percentiles
+CA,Canada,2020,0.4928142837382983,calculated_from_percentiles
+CA,Canada,2021,0.4953487010547809,calculated_from_percentiles
+CA,Canada,2022,0.495347656264545,calculated_from_percentiles
+CA,Canada,2023,0.49534735878330993,calculated_from_percentiles
+CN,China,1995,0.473388126188384,calculated_from_percentiles
+CN,China,1996,0.4672871322893507,calculated_from_percentiles
+CN,China,1997,0.46692042191076166,calculated_from_percentiles
+CN,China,1998,0.46798338509803916,calculated_from_percentiles
+CN,China,1999,0.47731285680991475,calculated_from_percentiles
+CN,China,2000,0.4940838512688528,calculated_from_percentiles
+CN,China,2001,0.5034300107347229,calculated_from_percentiles
+CN,China,2002,0.5309492472476508,calculated_from_percentiles
+CN,China,2003,0.5392502556298593,calculated_from_percentiles
+CN,China,2004,0.5424702752848772,calculated_from_percentiles
+CN,China,2005,0.5542835481392995,calculated_from_percentiles
+CN,China,2006,0.5555153621167641,calculated_from_percentiles
+CN,China,2007,0.5585623505119288,calculated_from_percentiles
+CN,China,2008,0.5587937529367575,calculated_from_percentiles
+CN,China,2009,0.5592476089955116,calculated_from_percentiles
+CN,China,2010,0.5630994680268084,calculated_from_percentiles
+CN,China,2011,0.5611550240311647,calculated_from_percentiles
+CN,China,2012,0.5495791314613911,calculated_from_percentiles
+CN,China,2013,0.5586408005094636,calculated_from_percentiles
+CN,China,2014,0.5511264762391694,calculated_from_percentiles
+CN,China,2015,0.5519774951279224,calculated_from_percentiles
+CN,China,2016,0.5460761884030801,calculated_from_percentiles
+CN,China,2017,0.5538429621304481,calculated_from_percentiles
+CN,China,2018,0.5516231251475872,calculated_from_percentiles
+CN,China,2019,0.5503449191634011,calculated_from_percentiles
+CN,China,2020,0.5566484638031197,calculated_from_percentiles
+CN,China,2021,0.5577640492906935,calculated_from_percentiles
+CN,China,2022,0.5608960578881084,calculated_from_percentiles
+CN,China,2023,0.560896404025141,calculated_from_percentiles
+DE,Germany,1995,0.4004005265915571,calculated_from_percentiles
+DE,Germany,1996,0.4102465045950746,calculated_from_percentiles
+DE,Germany,1997,0.4011039822412418,calculated_from_percentiles
+DE,Germany,1998,0.41333155915602604,calculated_from_percentiles
+DE,Germany,1999,0.4245789256021658,calculated_from_percentiles
+DE,Germany,2000,0.41322609131904264,calculated_from_percentiles
+DE,Germany,2001,0.4130629541713614,calculated_from_percentiles
+DE,Germany,2002,0.41826372005159684,calculated_from_percentiles
+DE,Germany,2003,0.40856094759608896,calculated_from_percentiles
+DE,Germany,2004,0.42140417260194074,calculated_from_percentiles
+DE,Germany,2005,0.4470965461635149,calculated_from_percentiles
+DE,Germany,2006,0.44990805161279046,calculated_from_percentiles
+DE,Germany,2007,0.4603518556001064,calculated_from_percentiles
+DE,Germany,2008,0.4590422510027309,calculated_from_percentiles
+DE,Germany,2009,0.46418751709973927,calculated_from_percentiles
+DE,Germany,2010,0.4599055457334318,calculated_from_percentiles
+DE,Germany,2011,0.4632014023486164,calculated_from_percentiles
+DE,Germany,2012,0.4626744387125947,calculated_from_percentiles
+DE,Germany,2013,0.4807140315905162,calculated_from_percentiles
+DE,Germany,2014,0.4817038755762275,calculated_from_percentiles
+DE,Germany,2015,0.48037974166903596,calculated_from_percentiles
+DE,Germany,2016,0.476377432310062,calculated_from_percentiles
+DE,Germany,2017,0.4735627450510279,calculated_from_percentiles
+DE,Germany,2018,0.47084417994057826,calculated_from_percentiles
+DE,Germany,2019,0.4682022439825366,calculated_from_percentiles
+DE,Germany,2020,0.46689867053168543,calculated_from_percentiles
+DE,Germany,2021,0.4668990123946726,calculated_from_percentiles
+DE,Germany,2022,0.466898994766897,calculated_from_percentiles
+DE,Germany,2023,0.46689807958089014,calculated_from_percentiles
+FR,France,1995,0.4210461579386745,calculated_from_percentiles
+FR,France,1996,0.4293553331655827,calculated_from_percentiles
+FR,France,1997,0.43463598751836485,calculated_from_percentiles
+FR,France,1998,0.43987585652387573,calculated_from_percentiles
+FR,France,1999,0.4382788648938112,calculated_from_percentiles
+FR,France,2000,0.43972802440315084,calculated_from_percentiles
+FR,France,2001,0.4386836034141256,calculated_from_percentiles
+FR,France,2002,0.4417938542442319,calculated_from_percentiles
+FR,France,2003,0.4461867697806088,calculated_from_percentiles
+FR,France,2004,0.4523986350693696,calculated_from_percentiles
+FR,France,2005,0.451490591079426,calculated_from_percentiles
+FR,France,2006,0.44820811042122655,calculated_from_percentiles
+FR,France,2007,0.4568950204758212,calculated_from_percentiles
+FR,France,2008,0.46041472063254685,calculated_from_percentiles
+FR,France,2009,0.44656224953225265,calculated_from_percentiles
+FR,France,2010,0.4500063686838651,calculated_from_percentiles
+FR,France,2011,0.44835422715648554,calculated_from_percentiles
+FR,France,2012,0.4405451505580168,calculated_from_percentiles
+FR,France,2013,0.4372123572715171,calculated_from_percentiles
+FR,France,2014,0.43616933227021404,calculated_from_percentiles
+FR,France,2015,0.44590429570416246,calculated_from_percentiles
+FR,France,2016,0.4443646733974479,calculated_from_percentiles
+FR,France,2017,0.44617092858828855,calculated_from_percentiles
+FR,France,2018,0.45187176222694736,calculated_from_percentiles
+FR,France,2019,0.4490472203745841,calculated_from_percentiles
+FR,France,2020,0.44708840465960886,calculated_from_percentiles
+FR,France,2021,0.4556053477679719,calculated_from_percentiles
+FR,France,2022,0.4522145788369176,calculated_from_percentiles
+FR,France,2023,0.4522150849544817,calculated_from_percentiles
+GB,United Kingdom,1995,0.44685227323776977,calculated_from_percentiles
+GB,United Kingdom,1996,0.4548799282808059,calculated_from_percentiles
+GB,United Kingdom,1997,0.45012383943154466,calculated_from_percentiles
+GB,United Kingdom,1998,0.4577707825484393,calculated_from_percentiles
+GB,United Kingdom,1999,0.46352403450677837,calculated_from_percentiles
+GB,United Kingdom,2000,0.47633192247740297,calculated_from_percentiles
+GB,United Kingdom,2001,0.45714134453426913,calculated_from_percentiles
+GB,United Kingdom,2002,0.4547672998122344,calculated_from_percentiles
+GB,United Kingdom,2003,0.4693815933101343,calculated_from_percentiles
+GB,United Kingdom,2004,0.46162133765227586,calculated_from_percentiles
+GB,United Kingdom,2005,0.47356221404938525,calculated_from_percentiles
+GB,United Kingdom,2006,0.4782116837987006,calculated_from_percentiles
+GB,United Kingdom,2007,0.4723455125703685,calculated_from_percentiles
+GB,United Kingdom,2008,0.46843880714913155,calculated_from_percentiles
+GB,United Kingdom,2009,0.48979628857837476,calculated_from_percentiles
+GB,United Kingdom,2010,0.4463681039211167,calculated_from_percentiles
+GB,United Kingdom,2011,0.4687871882811334,calculated_from_percentiles
+GB,United Kingdom,2012,0.4805180127372388,calculated_from_percentiles
+GB,United Kingdom,2013,0.4956482342880132,calculated_from_percentiles
+GB,United Kingdom,2014,0.4753986372298439,calculated_from_percentiles
+GB,United Kingdom,2015,0.4650515445295451,calculated_from_percentiles
+GB,United Kingdom,2016,0.46328170396717705,calculated_from_percentiles
+GB,United Kingdom,2017,0.46187008237525085,calculated_from_percentiles
+GB,United Kingdom,2018,0.46293669423694994,calculated_from_percentiles
+GB,United Kingdom,2019,0.46084295349420046,calculated_from_percentiles
+GB,United Kingdom,2020,0.4667630756785085,calculated_from_percentiles
+GB,United Kingdom,2021,0.46676366376882417,calculated_from_percentiles
+GB,United Kingdom,2022,0.4667634376277364,calculated_from_percentiles
+GB,United Kingdom,2023,0.4667629146735941,calculated_from_percentiles
+ID,Indonesia,1995,0.5690462921643236,calculated_from_percentiles
+ID,Indonesia,1996,0.5743762154833343,calculated_from_percentiles
+ID,Indonesia,1997,0.5259421098874703,calculated_from_percentiles
+ID,Indonesia,1998,0.4731499020896316,calculated_from_percentiles
+ID,Indonesia,1999,0.4640848849181234,calculated_from_percentiles
+ID,Indonesia,2000,0.46623269924421573,calculated_from_percentiles
+ID,Indonesia,2001,0.47738107612381153,calculated_from_percentiles
+ID,Indonesia,2002,0.47891756046874456,calculated_from_percentiles
+ID,Indonesia,2003,0.48012423533599213,calculated_from_percentiles
+ID,Indonesia,2004,0.49700013787037467,calculated_from_percentiles
+ID,Indonesia,2005,0.5088248640341855,calculated_from_percentiles
+ID,Indonesia,2006,0.49838867078971505,calculated_from_percentiles
+ID,Indonesia,2007,0.5084160509516129,calculated_from_percentiles
+ID,Indonesia,2008,0.5602368231817169,calculated_from_percentiles
+ID,Indonesia,2009,0.5723456030188669,calculated_from_percentiles
+ID,Indonesia,2010,0.5224044479135159,calculated_from_percentiles
+ID,Indonesia,2011,0.5376861722598327,calculated_from_percentiles
+ID,Indonesia,2012,0.5282780847043593,calculated_from_percentiles
+ID,Indonesia,2013,0.5200074342590584,calculated_from_percentiles
+ID,Indonesia,2014,0.5202455928951929,calculated_from_percentiles
+ID,Indonesia,2015,0.534353712415355,calculated_from_percentiles
+ID,Indonesia,2016,0.5210726442978667,calculated_from_percentiles
+ID,Indonesia,2017,0.5131357543302443,calculated_from_percentiles
+ID,Indonesia,2018,0.5739247072264395,calculated_from_percentiles
+ID,Indonesia,2019,0.5739247129306302,calculated_from_percentiles
+ID,Indonesia,2020,0.573924710181688,calculated_from_percentiles
+ID,Indonesia,2021,0.5739247101687828,calculated_from_percentiles
+ID,Indonesia,2022,0.5739247102467053,calculated_from_percentiles
+ID,Indonesia,2023,0.5739247102038841,calculated_from_percentiles
+IN,India,1995,0.4571604532580559,calculated_from_percentiles
+IN,India,1996,0.4537415212283046,calculated_from_percentiles
+IN,India,1997,0.45993628880253923,calculated_from_percentiles
+IN,India,1998,0.4638651168030211,calculated_from_percentiles
+IN,India,1999,0.4656837997094987,calculated_from_percentiles
+IN,India,2000,0.46860054069081214,calculated_from_percentiles
+IN,India,2001,0.4783560964931912,calculated_from_percentiles
+IN,India,2002,0.48826937656629343,calculated_from_percentiles
+IN,India,2003,0.49833441586714344,calculated_from_percentiles
+IN,India,2004,0.5085439448419589,calculated_from_percentiles
+IN,India,2005,0.5188907671197305,calculated_from_percentiles
+IN,India,2006,0.5294689204057277,calculated_from_percentiles
+IN,India,2007,0.5402771732973322,calculated_from_percentiles
+IN,India,2008,0.5513011320987558,calculated_from_percentiles
+IN,India,2009,0.5625237191834951,calculated_from_percentiles
+IN,India,2010,0.573926389366733,calculated_from_percentiles
+IN,India,2011,0.5883477199075138,calculated_from_percentiles
+IN,India,2012,0.5948493455262596,calculated_from_percentiles
+IN,India,2013,0.5964684798380044,calculated_from_percentiles
+IN,India,2014,0.6027164110310435,calculated_from_percentiles
+IN,India,2015,0.6074943740935671,calculated_from_percentiles
+IN,India,2016,0.6186566019868367,calculated_from_percentiles
+IN,India,2017,0.622957346198264,calculated_from_percentiles
+IN,India,2018,0.6128529517144197,calculated_from_percentiles
+IN,India,2019,0.6077700974102642,calculated_from_percentiles
+IN,India,2020,0.5946958981624427,calculated_from_percentiles
+IN,India,2021,0.5967087655058092,calculated_from_percentiles
+IN,India,2022,0.6044597648966028,calculated_from_percentiles
+IN,India,2023,0.6044606316630244,calculated_from_percentiles
+IT,Italy,1995,0.4749097761164158,calculated_from_percentiles
+IT,Italy,1996,0.4806362373595887,calculated_from_percentiles
+IT,Italy,1997,0.481737017590262,calculated_from_percentiles
+IT,Italy,1998,0.49224629908552986,calculated_from_percentiles
+IT,Italy,1999,0.4898225153294643,calculated_from_percentiles
+IT,Italy,2000,0.4959254138492971,calculated_from_percentiles
+IT,Italy,2001,0.5000484884724007,calculated_from_percentiles
+IT,Italy,2002,0.49521736673123007,calculated_from_percentiles
+IT,Italy,2003,0.4969223287079003,calculated_from_percentiles
+IT,Italy,2004,0.5005880114000236,calculated_from_percentiles
+IT,Italy,2005,0.4896479252287842,calculated_from_percentiles
+IT,Italy,2006,0.49126051533427717,calculated_from_percentiles
+IT,Italy,2007,0.49229090123024577,calculated_from_percentiles
+IT,Italy,2008,0.47861512295139585,calculated_from_percentiles
+IT,Italy,2009,0.4793470152787839,calculated_from_percentiles
+IT,Italy,2010,0.48671492044786646,calculated_from_percentiles
+IT,Italy,2011,0.49271327279526755,calculated_from_percentiles
+IT,Italy,2012,0.4985042106641395,calculated_from_percentiles
+IT,Italy,2013,0.5020575898501223,calculated_from_percentiles
+IT,Italy,2014,0.5000153853948588,calculated_from_percentiles
+IT,Italy,2015,0.4946972003473128,calculated_from_percentiles
+IT,Italy,2016,0.5060196018392857,calculated_from_percentiles
+IT,Italy,2017,0.5108968155476044,calculated_from_percentiles
+IT,Italy,2018,0.5127820838113335,calculated_from_percentiles
+IT,Italy,2019,0.5111237480720867,calculated_from_percentiles
+IT,Italy,2020,0.5089649592344436,calculated_from_percentiles
+IT,Italy,2021,0.5089655694244835,calculated_from_percentiles
+IT,Italy,2022,0.5089649838548995,calculated_from_percentiles
+IT,Italy,2023,0.5089657942267657,calculated_from_percentiles
+JP,Japan,1995,0.4627941601396597,calculated_from_percentiles
+JP,Japan,1996,0.47394149571357924,calculated_from_percentiles
+JP,Japan,1997,0.4725173143630703,calculated_from_percentiles
+JP,Japan,1998,0.4752163131721976,calculated_from_percentiles
+JP,Japan,1999,0.48134526057325144,calculated_from_percentiles
+JP,Japan,2000,0.4930699735986199,calculated_from_percentiles
+JP,Japan,2001,0.5039964973374137,calculated_from_percentiles
+JP,Japan,2002,0.5138248919455843,calculated_from_percentiles
+JP,Japan,2003,0.5207663151495625,calculated_from_percentiles
+JP,Japan,2004,0.5298508093840628,calculated_from_percentiles
+JP,Japan,2005,0.530732424221239,calculated_from_percentiles
+JP,Japan,2006,0.53143607772452,calculated_from_percentiles
+JP,Japan,2007,0.5330527351743362,calculated_from_percentiles
+JP,Japan,2008,0.5239899071411906,calculated_from_percentiles
+JP,Japan,2009,0.5034597920179086,calculated_from_percentiles
+JP,Japan,2010,0.5039717145056501,calculated_from_percentiles
+JP,Japan,2011,0.50153444288229,calculated_from_percentiles
+JP,Japan,2012,0.5026735661683754,calculated_from_percentiles
+JP,Japan,2013,0.5051972617798269,calculated_from_percentiles
+JP,Japan,2014,0.5047693386484382,calculated_from_percentiles
+JP,Japan,2015,0.5061332949180849,calculated_from_percentiles
+JP,Japan,2016,0.5052632043645143,calculated_from_percentiles
+JP,Japan,2017,0.5047456479199586,calculated_from_percentiles
+JP,Japan,2018,0.5047456478433268,calculated_from_percentiles
+JP,Japan,2019,0.5047456470170884,calculated_from_percentiles
+JP,Japan,2020,0.504745648364274,calculated_from_percentiles
+JP,Japan,2021,0.5047456482949233,calculated_from_percentiles
+JP,Japan,2022,0.5047456498255124,calculated_from_percentiles
+JP,Japan,2023,0.5047456475666103,calculated_from_percentiles
+KR,South Korea,1995,0.33331332009666503,calculated_from_percentiles
+KR,South Korea,1996,0.3578110877239893,calculated_from_percentiles
+KR,South Korea,1997,0.3408142737483315,calculated_from_percentiles
+KR,South Korea,1998,0.3475083549744653,calculated_from_percentiles
+KR,South Korea,1999,0.357511632076958,calculated_from_percentiles
+KR,South Korea,2000,0.36849478637221034,calculated_from_percentiles
+KR,South Korea,2001,0.37966106992853144,calculated_from_percentiles
+KR,South Korea,2002,0.3960400178704755,calculated_from_percentiles
+KR,South Korea,2003,0.40278127100527694,calculated_from_percentiles
+KR,South Korea,2004,0.41414404407991356,calculated_from_percentiles
+KR,South Korea,2005,0.42532480103904613,calculated_from_percentiles
+KR,South Korea,2006,0.4561470334803608,calculated_from_percentiles
+KR,South Korea,2007,0.46845167358785667,calculated_from_percentiles
+KR,South Korea,2008,0.47465355826936406,calculated_from_percentiles
+KR,South Korea,2009,0.4682947615962244,calculated_from_percentiles
+KR,South Korea,2010,0.4844976292964871,calculated_from_percentiles
+KR,South Korea,2011,0.47871377250506797,calculated_from_percentiles
+KR,South Korea,2012,0.47209198322674684,calculated_from_percentiles
+KR,South Korea,2013,0.4604796178371602,calculated_from_percentiles
+KR,South Korea,2014,0.4641184617830223,calculated_from_percentiles
+KR,South Korea,2015,0.47020944250232866,calculated_from_percentiles
+KR,South Korea,2016,0.4803186147682199,calculated_from_percentiles
+KR,South Korea,2017,0.49200116277785555,calculated_from_percentiles
+KR,South Korea,2018,0.49894171620200334,calculated_from_percentiles
+KR,South Korea,2019,0.4642050528196445,calculated_from_percentiles
+KR,South Korea,2020,0.4630740991681599,calculated_from_percentiles
+KR,South Korea,2021,0.44018455277478674,calculated_from_percentiles
+KR,South Korea,2022,0.4401845527907884,calculated_from_percentiles
+KR,South Korea,2023,0.4401845528780499,calculated_from_percentiles
+MX,Mexico,1995,0.6950240955269711,calculated_from_percentiles
+MX,Mexico,1996,0.6950241388690568,calculated_from_percentiles
+MX,Mexico,1997,0.6950240575595217,calculated_from_percentiles
+MX,Mexico,1998,0.6950241045949946,calculated_from_percentiles
+MX,Mexico,1999,0.6950240636316342,calculated_from_percentiles
+MX,Mexico,2000,0.6950240863256083,calculated_from_percentiles
+MX,Mexico,2001,0.6950241158688519,calculated_from_percentiles
+MX,Mexico,2002,0.6950240702676389,calculated_from_percentiles
+MX,Mexico,2003,0.7101833662102747,calculated_from_percentiles
+MX,Mexico,2004,0.7253571262726786,calculated_from_percentiles
+MX,Mexico,2005,0.7221135609215155,calculated_from_percentiles
+MX,Mexico,2006,0.7188564514762934,calculated_from_percentiles
+MX,Mexico,2007,0.7363120345872718,calculated_from_percentiles
+MX,Mexico,2008,0.7537693126672578,calculated_from_percentiles
+MX,Mexico,2009,0.7471682338405032,calculated_from_percentiles
+MX,Mexico,2010,0.7405537837321385,calculated_from_percentiles
+MX,Mexico,2011,0.7466772806178773,calculated_from_percentiles
+MX,Mexico,2012,0.7527921678816857,calculated_from_percentiles
+MX,Mexico,2013,0.7505380778471038,calculated_from_percentiles
+MX,Mexico,2014,0.7482899194684842,calculated_from_percentiles
+MX,Mexico,2015,0.7437852522061665,calculated_from_percentiles
+MX,Mexico,2016,0.7392778030895644,calculated_from_percentiles
+MX,Mexico,2017,0.7466555320968278,calculated_from_percentiles
+MX,Mexico,2018,0.7540631204899519,calculated_from_percentiles
+MX,Mexico,2019,0.7460305072264277,calculated_from_percentiles
+MX,Mexico,2020,0.7380278434391652,calculated_from_percentiles
+MX,Mexico,2021,0.7223098878656806,calculated_from_percentiles
+MX,Mexico,2022,0.7065978177251355,calculated_from_percentiles
+MX,Mexico,2023,0.7065977864178278,calculated_from_percentiles
+RU,Russia,1995,0.5584181674826296,calculated_from_percentiles
+RU,Russia,1996,0.6313742709521678,calculated_from_percentiles
+RU,Russia,1997,0.5890765236282993,calculated_from_percentiles
+RU,Russia,1998,0.5602014350093805,calculated_from_percentiles
+RU,Russia,1999,0.5783882744611613,calculated_from_percentiles
+RU,Russia,2000,0.5983268853346606,calculated_from_percentiles
+RU,Russia,2001,0.6048575171926267,calculated_from_percentiles
+RU,Russia,2002,0.5899024587080637,calculated_from_percentiles
+RU,Russia,2003,0.5931186895250494,calculated_from_percentiles
+RU,Russia,2004,0.5859887541647668,calculated_from_percentiles
+RU,Russia,2005,0.5794199658086148,calculated_from_percentiles
+RU,Russia,2006,0.5938498392549627,calculated_from_percentiles
+RU,Russia,2007,0.5950432192393007,calculated_from_percentiles
+RU,Russia,2008,0.6091078519976955,calculated_from_percentiles
+RU,Russia,2009,0.5830586272459577,calculated_from_percentiles
+RU,Russia,2010,0.5456590610847508,calculated_from_percentiles
+RU,Russia,2011,0.5615453852840133,calculated_from_percentiles
+RU,Russia,2012,0.5432998841010515,calculated_from_percentiles
+RU,Russia,2013,0.5575142211877264,calculated_from_percentiles
+RU,Russia,2014,0.5404530208743299,calculated_from_percentiles
+RU,Russia,2015,0.5371861860938014,calculated_from_percentiles
+RU,Russia,2016,0.5398535538609142,calculated_from_percentiles
+RU,Russia,2017,0.5361762609831275,calculated_from_percentiles
+RU,Russia,2018,0.5429973144866953,calculated_from_percentiles
+RU,Russia,2019,0.5440816507338866,calculated_from_percentiles
+RU,Russia,2020,0.5788087249292961,calculated_from_percentiles
+RU,Russia,2021,0.5788141064035439,calculated_from_percentiles
+RU,Russia,2022,0.5788140993219966,calculated_from_percentiles
+RU,Russia,2023,0.5788140854312835,calculated_from_percentiles
+SA,Saudi Arabia,1995,0.6330248160170444,calculated_from_percentiles
+SA,Saudi Arabia,1996,0.6330246961278948,calculated_from_percentiles
+SA,Saudi Arabia,1997,0.6330247221052525,calculated_from_percentiles
+SA,Saudi Arabia,1998,0.6330246941741798,calculated_from_percentiles
+SA,Saudi Arabia,1999,0.6330246771859609,calculated_from_percentiles
+SA,Saudi Arabia,2000,0.633024800165437,calculated_from_percentiles
+SA,Saudi Arabia,2001,0.6330246365913119,calculated_from_percentiles
+SA,Saudi Arabia,2002,0.6330247300836251,calculated_from_percentiles
+SA,Saudi Arabia,2003,0.6330248005409995,calculated_from_percentiles
+SA,Saudi Arabia,2004,0.6330247995338962,calculated_from_percentiles
+SA,Saudi Arabia,2005,0.6330246542695408,calculated_from_percentiles
+SA,Saudi Arabia,2006,0.6330247708771654,calculated_from_percentiles
+SA,Saudi Arabia,2007,0.6330246571460534,calculated_from_percentiles
+SA,Saudi Arabia,2008,0.6330247170390972,calculated_from_percentiles
+SA,Saudi Arabia,2009,0.6330246893362311,calculated_from_percentiles
+SA,Saudi Arabia,2010,0.6330246912849171,calculated_from_percentiles
+SA,Saudi Arabia,2011,0.6330246298834717,calculated_from_percentiles
+SA,Saudi Arabia,2012,0.633024691028512,calculated_from_percentiles
+SA,Saudi Arabia,2013,0.6330248366184636,calculated_from_percentiles
+SA,Saudi Arabia,2014,0.6330248320345762,calculated_from_percentiles
+SA,Saudi Arabia,2015,0.6330249160511567,calculated_from_percentiles
+SA,Saudi Arabia,2016,0.6330248805682693,calculated_from_percentiles
+SA,Saudi Arabia,2017,0.6330248977811831,calculated_from_percentiles
+SA,Saudi Arabia,2018,0.6330246243175195,calculated_from_percentiles
+SA,Saudi Arabia,2019,0.6330247699303516,calculated_from_percentiles
+SA,Saudi Arabia,2020,0.6330247644643505,calculated_from_percentiles
+SA,Saudi Arabia,2021,0.6330247198431529,calculated_from_percentiles
+SA,Saudi Arabia,2022,0.6330247249308663,calculated_from_percentiles
+SA,Saudi Arabia,2023,0.6330246622501591,calculated_from_percentiles
+TR,Turkey,1995,0.6135010667875126,calculated_from_percentiles
+TR,Turkey,1996,0.6134143199211038,calculated_from_percentiles
+TR,Turkey,1997,0.6133269971674344,calculated_from_percentiles
+TR,Turkey,1998,0.6132394550242246,calculated_from_percentiles
+TR,Turkey,1999,0.6131513802808604,calculated_from_percentiles
+TR,Turkey,2000,0.6130628142770675,calculated_from_percentiles
+TR,Turkey,2001,0.6129737028298139,calculated_from_percentiles
+TR,Turkey,2002,0.6128841552106505,calculated_from_percentiles
+TR,Turkey,2003,0.6043590587809,calculated_from_percentiles
+TR,Turkey,2004,0.5916034018120422,calculated_from_percentiles
+TR,Turkey,2005,0.5699483758516231,calculated_from_percentiles
+TR,Turkey,2006,0.554381348717724,calculated_from_percentiles
+TR,Turkey,2007,0.5481996642364867,calculated_from_percentiles
+TR,Turkey,2008,0.5574740122230495,calculated_from_percentiles
+TR,Turkey,2009,0.57539953095607,calculated_from_percentiles
+TR,Turkey,2010,0.5635011859961714,calculated_from_percentiles
+TR,Turkey,2011,0.5666152102073818,calculated_from_percentiles
+TR,Turkey,2012,0.5648517689079395,calculated_from_percentiles
+TR,Turkey,2013,0.5523414805462612,calculated_from_percentiles
+TR,Turkey,2014,0.5704803982945891,calculated_from_percentiles
+TR,Turkey,2015,0.5765076868633776,calculated_from_percentiles
+TR,Turkey,2016,0.5756549418571575,calculated_from_percentiles
+TR,Turkey,2017,0.5796403021658574,calculated_from_percentiles
+TR,Turkey,2018,0.5817685305019284,calculated_from_percentiles
+TR,Turkey,2019,0.5665215834058384,calculated_from_percentiles
+TR,Turkey,2020,0.5830374108586067,calculated_from_percentiles
+TR,Turkey,2021,0.5704522947180064,calculated_from_percentiles
+TR,Turkey,2022,0.5913075447316504,calculated_from_percentiles
+TR,Turkey,2023,0.6117733628875248,calculated_from_percentiles
+US,United States,1995,0.5246128984349284,calculated_from_percentiles
+US,United States,1996,0.5319180915946435,calculated_from_percentiles
+US,United States,1997,0.5382123322832899,calculated_from_percentiles
+US,United States,1998,0.5397170227033684,calculated_from_percentiles
+US,United States,1999,0.5430750785506873,calculated_from_percentiles
+US,United States,2000,0.5465739884354426,calculated_from_percentiles
+US,United States,2001,0.540138304067064,calculated_from_percentiles
+US,United States,2002,0.5365432262910748,calculated_from_percentiles
+US,United States,2003,0.5404254185369762,calculated_from_percentiles
+US,United States,2004,0.5474317142999149,calculated_from_percentiles
+US,United States,2005,0.5581758410913118,calculated_from_percentiles
+US,United States,2006,0.5644333872056007,calculated_from_percentiles
+US,United States,2007,0.561050853492896,calculated_from_percentiles
+US,United States,2008,0.5589103467950276,calculated_from_percentiles
+US,United States,2009,0.5534581350275052,calculated_from_percentiles
+US,United States,2010,0.5641317154004242,calculated_from_percentiles
+US,United States,2011,0.569687458750245,calculated_from_percentiles
+US,United States,2012,0.5807208720367076,calculated_from_percentiles
+US,United States,2013,0.5739868777483712,calculated_from_percentiles
+US,United States,2014,0.5807792954832357,calculated_from_percentiles
+US,United States,2015,0.5798583489249594,calculated_from_percentiles
+US,United States,2016,0.5818069045581853,calculated_from_percentiles
+US,United States,2017,0.5772120458618502,calculated_from_percentiles
+US,United States,2018,0.5803806782122745,calculated_from_percentiles
+US,United States,2019,0.5772487096478196,calculated_from_percentiles
+US,United States,2020,0.5704965609618036,calculated_from_percentiles
+US,United States,2021,0.579837459103768,calculated_from_percentiles
+US,United States,2022,0.5850413866514228,calculated_from_percentiles
+US,United States,2023,0.5836118097095624,calculated_from_percentiles
+ZA,South Africa,1995,0.5536893291043046,calculated_from_percentiles
+ZA,South Africa,1996,0.5665223768442038,calculated_from_percentiles
+ZA,South Africa,1997,0.5793554713813182,calculated_from_percentiles
+ZA,South Africa,1998,0.5921890975962416,calculated_from_percentiles
+ZA,South Africa,1999,0.6050229375663934,calculated_from_percentiles
+ZA,South Africa,2000,0.6178567528116876,calculated_from_percentiles
+ZA,South Africa,2001,0.6229287851774263,calculated_from_percentiles
+ZA,South Africa,2002,0.6280011431058554,calculated_from_percentiles
+ZA,South Africa,2003,0.6334316144992047,calculated_from_percentiles
+ZA,South Africa,2004,0.6279371452095492,calculated_from_percentiles
+ZA,South Africa,2005,0.6389662114065112,calculated_from_percentiles
+ZA,South Africa,2006,0.6566669955862356,calculated_from_percentiles
+ZA,South Africa,2007,0.6842222737858784,calculated_from_percentiles
+ZA,South Africa,2008,0.6693945625655396,calculated_from_percentiles
+ZA,South Africa,2009,0.6610244456268969,calculated_from_percentiles
+ZA,South Africa,2010,0.6863199795900053,calculated_from_percentiles
+ZA,South Africa,2011,0.698697901225841,calculated_from_percentiles
+ZA,South Africa,2012,0.7345467348600307,calculated_from_percentiles
+ZA,South Africa,2013,0.7353192625556262,calculated_from_percentiles
+ZA,South Africa,2014,0.7360915494570333,calculated_from_percentiles
+ZA,South Africa,2015,0.7360915350322508,calculated_from_percentiles
+ZA,South Africa,2016,0.7360916157317245,calculated_from_percentiles
+ZA,South Africa,2017,0.7360916388075155,calculated_from_percentiles
+ZA,South Africa,2018,0.7360916271875577,calculated_from_percentiles
+ZA,South Africa,2019,0.7360916284493713,calculated_from_percentiles
+ZA,South Africa,2020,0.7360917216414864,calculated_from_percentiles
+ZA,South Africa,2021,0.7360917118193413,calculated_from_percentiles
+ZA,South Africa,2022,0.7360917061112079,calculated_from_percentiles
+ZA,South Africa,2023,0.7360916931801351,calculated_from_percentiles

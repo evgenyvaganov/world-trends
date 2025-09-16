@@ -1,0 +1,76 @@
+{
+  "extraction_info": {
+    "source": "World Inequality Database (WID)",
+    "extraction_date": "2025-09-16T05:51:23.139759",
+    "target_period": "1995-2024",
+    "countries": "G20 nations",
+    "total_countries": 19
+  },
+  "datasets": {
+    "ppp_income_g20.csv": {
+      "description": "Real PPP income per person (2021 ICP baseline)",
+      "source_variable": "aptinc992 (pre-tax PPP income, adults)",
+      "percentile": "p0p100 (total population)",
+      "unit": "2021 PPP USD",
+      "columns": [
+        "country_code",
+        "country_name",
+        "year",
+        "ppp_income_2021"
+      ]
+    },
+    "wealth_distribution_g20.csv": {
+      "description": "Net worth distribution by percentile brackets",
+      "source_variable": "shweal992 (wealth shares, adults)",
+      "percentiles": [
+        "bottom_10pct",
+        "bottom_50pct",
+        "top_50pct",
+        "top_10pct",
+        "top_1pct"
+      ],
+      "unit": "Share of total wealth (0-1)",
+      "columns": [
+        "country_code",
+        "country_name",
+        "year",
+        "percentile_group",
+        "wealth_share"
+      ]
+    },
+    "inequality_gini_g20.csv": {
+      "description": "Gini coefficients calculated from income percentile data",
+      "calculation_method": "Approximated from available income percentiles",
+      "unit": "Gini coefficient (0-1, higher = more unequal)",
+      "columns": [
+        "country_code",
+        "country_name",
+        "year",
+        "gini_coefficient",
+        "data_source"
+      ],
+      "note": "Simplified calculation - may not match official Gini statistics"
+    }
+  },
+  "country_codes": {
+    "AR": "Argentina",
+    "AU": "Australia",
+    "BR": "Brazil",
+    "CA": "Canada",
+    "CN": "China",
+    "FR": "France",
+    "DE": "Germany",
+    "IN": "India",
+    "ID": "Indonesia",
+    "IT": "Italy",
+    "JP": "Japan",
+    "KR": "South Korea",
+    "MX": "Mexico",
+    "RU": "Russia",
+    "SA": "Saudi Arabia",
+    "ZA": "South Africa",
+    "TR": "Turkey",
+    "GB": "United Kingdom",
+    "US": "United States"
+  }
+}

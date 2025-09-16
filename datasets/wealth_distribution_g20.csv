@@ -1,0 +1,3190 @@
+country_code,country_name,year,percentile_group,wealth_share
+AR,Argentina,1995,bottom_10pct,-0.014
+AR,Argentina,1995,bottom_50pct,0.0374
+AR,Argentina,1995,top_10pct,0.6186
+AR,Argentina,1995,top_1pct,0.2758
+AR,Argentina,1995,top_50pct,0.9626
+AR,Argentina,1996,bottom_10pct,-0.014
+AR,Argentina,1996,bottom_50pct,0.0374
+AR,Argentina,1996,top_10pct,0.6186
+AR,Argentina,1996,top_1pct,0.2758
+AR,Argentina,1996,top_50pct,0.9626
+AR,Argentina,1997,bottom_10pct,-0.014
+AR,Argentina,1997,bottom_50pct,0.0374
+AR,Argentina,1997,top_10pct,0.6186
+AR,Argentina,1997,top_1pct,0.2758
+AR,Argentina,1997,top_50pct,0.9626
+AR,Argentina,1998,bottom_10pct,-0.014
+AR,Argentina,1998,bottom_50pct,0.0374
+AR,Argentina,1998,top_10pct,0.6187
+AR,Argentina,1998,top_1pct,0.2759
+AR,Argentina,1998,top_50pct,0.9626
+AR,Argentina,1999,bottom_10pct,-0.014
+AR,Argentina,1999,bottom_50pct,0.0375
+AR,Argentina,1999,top_10pct,0.6186
+AR,Argentina,1999,top_1pct,0.2758
+AR,Argentina,1999,top_50pct,0.9625
+AR,Argentina,2000,bottom_10pct,-0.014
+AR,Argentina,2000,bottom_50pct,0.0375
+AR,Argentina,2000,top_10pct,0.6186
+AR,Argentina,2000,top_1pct,0.2757
+AR,Argentina,2000,top_50pct,0.9625
+AR,Argentina,2001,bottom_10pct,-0.0141
+AR,Argentina,2001,bottom_50pct,0.0361
+AR,Argentina,2001,top_10pct,0.6288
+AR,Argentina,2001,top_1pct,0.2875
+AR,Argentina,2001,top_50pct,0.9639
+AR,Argentina,2002,bottom_10pct,-0.0142
+AR,Argentina,2002,bottom_50pct,0.0351
+AR,Argentina,2002,top_10pct,0.6354000000000001
+AR,Argentina,2002,top_1pct,0.2952
+AR,Argentina,2002,top_50pct,0.9649
+AR,Argentina,2003,bottom_10pct,-0.0141
+AR,Argentina,2003,bottom_50pct,0.0381
+AR,Argentina,2003,top_10pct,0.6136
+AR,Argentina,2003,top_1pct,0.2701
+AR,Argentina,2003,top_50pct,0.9619
+AR,Argentina,2004,bottom_10pct,-0.0143
+AR,Argentina,2004,bottom_50pct,0.0392
+AR,Argentina,2004,top_10pct,0.6031000000000001
+AR,Argentina,2004,top_1pct,0.2583
+AR,Argentina,2004,top_50pct,0.9608
+AR,Argentina,2005,bottom_10pct,-0.0145
+AR,Argentina,2005,bottom_50pct,0.0398
+AR,Argentina,2005,top_10pct,0.5971000000000001
+AR,Argentina,2005,top_1pct,0.2516
+AR,Argentina,2005,top_50pct,0.9602
+AR,Argentina,2006,bottom_10pct,-0.0146
+AR,Argentina,2006,bottom_50pct,0.0401
+AR,Argentina,2006,top_10pct,0.5942000000000001
+AR,Argentina,2006,top_1pct,0.2484
+AR,Argentina,2006,top_50pct,0.9599
+AR,Argentina,2007,bottom_10pct,-0.0144
+AR,Argentina,2007,bottom_50pct,0.0395
+AR,Argentina,2007,top_10pct,0.6001000000000001
+AR,Argentina,2007,top_1pct,0.2549
+AR,Argentina,2007,top_50pct,0.9605
+AR,Argentina,2008,bottom_10pct,-0.0144
+AR,Argentina,2008,bottom_50pct,0.0395
+AR,Argentina,2008,top_10pct,0.6004
+AR,Argentina,2008,top_1pct,0.2552
+AR,Argentina,2008,top_50pct,0.9605
+AR,Argentina,2009,bottom_10pct,-0.0147
+AR,Argentina,2009,bottom_50pct,0.0402
+AR,Argentina,2009,top_10pct,0.5917
+AR,Argentina,2009,top_1pct,0.2457
+AR,Argentina,2009,top_50pct,0.9598
+AR,Argentina,2010,bottom_10pct,-0.0146
+AR,Argentina,2010,bottom_50pct,0.04
+AR,Argentina,2010,top_10pct,0.5947
+AR,Argentina,2010,top_1pct,0.2489
+AR,Argentina,2010,top_50pct,0.96
+AR,Argentina,2011,bottom_10pct,-0.0148
+AR,Argentina,2011,bottom_50pct,0.0403
+AR,Argentina,2011,top_10pct,0.5911000000000001
+AR,Argentina,2011,top_1pct,0.245
+AR,Argentina,2011,top_50pct,0.9597
+AR,Argentina,2012,bottom_10pct,-0.015
+AR,Argentina,2012,bottom_50pct,0.0406
+AR,Argentina,2012,top_10pct,0.5863
+AR,Argentina,2012,top_1pct,0.2399
+AR,Argentina,2012,top_50pct,0.9594
+AR,Argentina,2013,bottom_10pct,-0.015
+AR,Argentina,2013,bottom_50pct,0.0405
+AR,Argentina,2013,top_10pct,0.5875
+AR,Argentina,2013,top_1pct,0.2412
+AR,Argentina,2013,top_50pct,0.9595
+AR,Argentina,2014,bottom_10pct,-0.0149
+AR,Argentina,2014,bottom_50pct,0.0405
+AR,Argentina,2014,top_10pct,0.5877
+AR,Argentina,2014,top_1pct,0.2413
+AR,Argentina,2014,top_50pct,0.9595
+AR,Argentina,2015,bottom_10pct,-0.0147
+AR,Argentina,2015,bottom_50pct,0.0402
+AR,Argentina,2015,top_10pct,0.5924
+AR,Argentina,2015,top_1pct,0.2464
+AR,Argentina,2015,top_50pct,0.9598
+AR,Argentina,2016,bottom_10pct,-0.0144
+AR,Argentina,2016,bottom_50pct,0.0396
+AR,Argentina,2016,top_10pct,0.5995
+AR,Argentina,2016,top_1pct,0.2543
+AR,Argentina,2016,top_50pct,0.9604
+AR,Argentina,2017,bottom_10pct,-0.0147
+AR,Argentina,2017,bottom_50pct,0.0402
+AR,Argentina,2017,top_10pct,0.5926
+AR,Argentina,2017,top_1pct,0.2466
+AR,Argentina,2017,top_50pct,0.9598
+AR,Argentina,2018,bottom_10pct,-0.0146
+AR,Argentina,2018,bottom_50pct,0.0401
+AR,Argentina,2018,top_10pct,0.5937
+AR,Argentina,2018,top_1pct,0.2479
+AR,Argentina,2018,top_50pct,0.9599
+AR,Argentina,2019,bottom_10pct,-0.0143
+AR,Argentina,2019,bottom_50pct,0.0393
+AR,Argentina,2019,top_10pct,0.6021000000000001
+AR,Argentina,2019,top_1pct,0.2571
+AR,Argentina,2019,top_50pct,0.9607
+AR,Argentina,2020,bottom_10pct,-0.0143
+AR,Argentina,2020,bottom_50pct,0.0394
+AR,Argentina,2020,top_10pct,0.6017
+AR,Argentina,2020,top_1pct,0.2567
+AR,Argentina,2020,top_50pct,0.9606
+AR,Argentina,2021,bottom_10pct,-0.0146
+AR,Argentina,2021,bottom_50pct,0.04
+AR,Argentina,2021,top_10pct,0.5943
+AR,Argentina,2021,top_1pct,0.2485
+AR,Argentina,2021,top_50pct,0.96
+AR,Argentina,2022,bottom_10pct,-0.0147
+AR,Argentina,2022,bottom_50pct,0.0401
+AR,Argentina,2022,top_10pct,0.5931000000000001
+AR,Argentina,2022,top_1pct,0.2472
+AR,Argentina,2022,top_50pct,0.9599
+AR,Argentina,2023,bottom_10pct,-0.0147
+AR,Argentina,2023,bottom_50pct,0.0401
+AR,Argentina,2023,top_10pct,0.5933
+AR,Argentina,2023,top_1pct,0.2475
+AR,Argentina,2023,top_50pct,0.9599
+AU,Australia,1995,bottom_10pct,-0.0158
+AU,Australia,1995,bottom_50pct,0.041
+AU,Australia,1995,top_10pct,0.5748
+AU,Australia,1995,top_1pct,0.228
+AU,Australia,1995,top_50pct,0.959
+AU,Australia,1996,bottom_10pct,-0.0158
+AU,Australia,1996,bottom_50pct,0.041
+AU,Australia,1996,top_10pct,0.5749000000000001
+AU,Australia,1996,top_1pct,0.228
+AU,Australia,1996,top_50pct,0.959
+AU,Australia,1997,bottom_10pct,-0.0159
+AU,Australia,1997,bottom_50pct,0.041
+AU,Australia,1997,top_10pct,0.5747
+AU,Australia,1997,top_1pct,0.2278
+AU,Australia,1997,top_50pct,0.959
+AU,Australia,1998,bottom_10pct,-0.0158
+AU,Australia,1998,bottom_50pct,0.0409
+AU,Australia,1998,top_10pct,0.5749000000000001
+AU,Australia,1998,top_1pct,0.2281
+AU,Australia,1998,top_50pct,0.9591
+AU,Australia,1999,bottom_10pct,-0.0158
+AU,Australia,1999,bottom_50pct,0.0409
+AU,Australia,1999,top_10pct,0.5749000000000001
+AU,Australia,1999,top_1pct,0.2281
+AU,Australia,1999,top_50pct,0.9591
+AU,Australia,2000,bottom_10pct,-0.0158
+AU,Australia,2000,bottom_50pct,0.0409
+AU,Australia,2000,top_10pct,0.5753
+AU,Australia,2000,top_1pct,0.2285
+AU,Australia,2000,top_50pct,0.9591
+AU,Australia,2001,bottom_10pct,-0.0158
+AU,Australia,2001,bottom_50pct,0.0409
+AU,Australia,2001,top_10pct,0.5752
+AU,Australia,2001,top_1pct,0.2283
+AU,Australia,2001,top_50pct,0.9591
+AU,Australia,2002,bottom_10pct,-0.0158
+AU,Australia,2002,bottom_50pct,0.0409
+AU,Australia,2002,top_10pct,0.5759000000000001
+AU,Australia,2002,top_1pct,0.2291
+AU,Australia,2002,top_50pct,0.9591
+AU,Australia,2003,bottom_10pct,-0.0158
+AU,Australia,2003,bottom_50pct,0.0409
+AU,Australia,2003,top_10pct,0.5758
+AU,Australia,2003,top_1pct,0.229
+AU,Australia,2003,top_50pct,0.9591
+AU,Australia,2004,bottom_10pct,-0.0157
+AU,Australia,2004,bottom_50pct,0.0409
+AU,Australia,2004,top_10pct,0.5766
+AU,Australia,2004,top_1pct,0.2298
+AU,Australia,2004,top_50pct,0.9591
+AU,Australia,2005,bottom_10pct,-0.0157
+AU,Australia,2005,bottom_50pct,0.0409
+AU,Australia,2005,top_10pct,0.5771000000000001
+AU,Australia,2005,top_1pct,0.2303
+AU,Australia,2005,top_50pct,0.9591
+AU,Australia,2006,bottom_10pct,-0.0156
+AU,Australia,2006,bottom_50pct,0.0409
+AU,Australia,2006,top_10pct,0.5773
+AU,Australia,2006,top_1pct,0.2305
+AU,Australia,2006,top_50pct,0.9591
+AU,Australia,2007,bottom_10pct,-0.0156
+AU,Australia,2007,bottom_50pct,0.0409
+AU,Australia,2007,top_10pct,0.5777
+AU,Australia,2007,top_1pct,0.2309
+AU,Australia,2007,top_50pct,0.9591
+AU,Australia,2008,bottom_10pct,-0.0156
+AU,Australia,2008,bottom_50pct,0.0409
+AU,Australia,2008,top_10pct,0.5780000000000001
+AU,Australia,2008,top_1pct,0.2313
+AU,Australia,2008,top_50pct,0.9591
+AU,Australia,2009,bottom_10pct,-0.0155
+AU,Australia,2009,bottom_50pct,0.0409
+AU,Australia,2009,top_10pct,0.5797
+AU,Australia,2009,top_1pct,0.233
+AU,Australia,2009,top_50pct,0.9591
+AU,Australia,2010,bottom_10pct,-0.0155
+AU,Australia,2010,bottom_50pct,0.0409
+AU,Australia,2010,top_10pct,0.5789000000000001
+AU,Australia,2010,top_1pct,0.2322
+AU,Australia,2010,top_50pct,0.9591
+AU,Australia,2011,bottom_10pct,-0.0155
+AU,Australia,2011,bottom_50pct,0.0409
+AU,Australia,2011,top_10pct,0.5798
+AU,Australia,2011,top_1pct,0.233
+AU,Australia,2011,top_50pct,0.9591
+AU,Australia,2012,bottom_10pct,-0.0155
+AU,Australia,2012,bottom_50pct,0.0408
+AU,Australia,2012,top_10pct,0.5802
+AU,Australia,2012,top_1pct,0.2339
+AU,Australia,2012,top_50pct,0.9592
+AU,Australia,2013,bottom_10pct,-0.0155
+AU,Australia,2013,bottom_50pct,0.0407
+AU,Australia,2013,top_10pct,0.5803
+AU,Australia,2013,top_1pct,0.2347
+AU,Australia,2013,top_50pct,0.9593
+AU,Australia,2014,bottom_10pct,-0.0154
+AU,Australia,2014,bottom_50pct,0.0407
+AU,Australia,2014,top_10pct,0.5811000000000001
+AU,Australia,2014,top_1pct,0.2361
+AU,Australia,2014,top_50pct,0.9593
+AU,Australia,2015,bottom_10pct,-0.0155
+AU,Australia,2015,bottom_50pct,0.0408
+AU,Australia,2015,top_10pct,0.5794
+AU,Australia,2015,top_1pct,0.2335
+AU,Australia,2015,top_50pct,0.9592
+AU,Australia,2016,bottom_10pct,-0.0156
+AU,Australia,2016,bottom_50pct,0.0409
+AU,Australia,2016,top_10pct,0.5776
+AU,Australia,2016,top_1pct,0.2311
+AU,Australia,2016,top_50pct,0.9591
+AU,Australia,2017,bottom_10pct,-0.0155
+AU,Australia,2017,bottom_50pct,0.0408
+AU,Australia,2017,top_10pct,0.5796
+AU,Australia,2017,top_1pct,0.2341
+AU,Australia,2017,top_50pct,0.9592
+AU,Australia,2018,bottom_10pct,-0.0155
+AU,Australia,2018,bottom_50pct,0.0406
+AU,Australia,2018,top_10pct,0.5806
+AU,Australia,2018,top_1pct,0.2367
+AU,Australia,2018,top_50pct,0.9594
+AU,Australia,2019,bottom_10pct,-0.0156
+AU,Australia,2019,bottom_50pct,0.0406
+AU,Australia,2019,top_10pct,0.5800000000000001
+AU,Australia,2019,top_1pct,0.2363
+AU,Australia,2019,top_50pct,0.9594
+AU,Australia,2020,bottom_10pct,-0.0156
+AU,Australia,2020,bottom_50pct,0.0407
+AU,Australia,2020,top_10pct,0.5785
+AU,Australia,2020,top_1pct,0.2335
+AU,Australia,2020,top_50pct,0.9593
+AU,Australia,2021,bottom_10pct,-0.0155
+AU,Australia,2021,bottom_50pct,0.0404
+AU,Australia,2021,top_10pct,0.5813
+AU,Australia,2021,top_1pct,0.2386
+AU,Australia,2021,top_50pct,0.9596
+AU,Australia,2022,bottom_10pct,-0.0155
+AU,Australia,2022,bottom_50pct,0.0404
+AU,Australia,2022,top_10pct,0.5819
+AU,Australia,2022,top_1pct,0.2397
+AU,Australia,2022,top_50pct,0.9596
+AU,Australia,2023,bottom_10pct,-0.0156
+AU,Australia,2023,bottom_50pct,0.0405
+AU,Australia,2023,top_10pct,0.5810000000000001
+AU,Australia,2023,top_1pct,0.238
+AU,Australia,2023,top_50pct,0.9595
+BR,Brazil,1995,bottom_10pct,-0.017
+BR,Brazil,1995,bottom_50pct,0.0243
+BR,Brazil,1995,top_10pct,0.6941
+BR,Brazil,1995,top_1pct,0.3636
+BR,Brazil,1995,top_50pct,0.9757
+BR,Brazil,1996,bottom_10pct,-0.017
+BR,Brazil,1996,bottom_50pct,0.0243
+BR,Brazil,1996,top_10pct,0.6941
+BR,Brazil,1996,top_1pct,0.3636
+BR,Brazil,1996,top_50pct,0.9757
+BR,Brazil,1997,bottom_10pct,-0.017
+BR,Brazil,1997,bottom_50pct,0.0243
+BR,Brazil,1997,top_10pct,0.6941
+BR,Brazil,1997,top_1pct,0.3637
+BR,Brazil,1997,top_50pct,0.9757
+BR,Brazil,1998,bottom_10pct,-0.017
+BR,Brazil,1998,bottom_50pct,0.0243
+BR,Brazil,1998,top_10pct,0.6940000000000001
+BR,Brazil,1998,top_1pct,0.3635
+BR,Brazil,1998,top_50pct,0.9757
+BR,Brazil,1999,bottom_10pct,-0.017
+BR,Brazil,1999,bottom_50pct,0.0243
+BR,Brazil,1999,top_10pct,0.6941
+BR,Brazil,1999,top_1pct,0.3636
+BR,Brazil,1999,top_50pct,0.9757
+BR,Brazil,2000,bottom_10pct,-0.017
+BR,Brazil,2000,bottom_50pct,0.0243
+BR,Brazil,2000,top_10pct,0.6942
+BR,Brazil,2000,top_1pct,0.3637
+BR,Brazil,2000,top_50pct,0.9757
+BR,Brazil,2001,bottom_10pct,-0.017
+BR,Brazil,2001,bottom_50pct,0.0243
+BR,Brazil,2001,top_10pct,0.6942
+BR,Brazil,2001,top_1pct,0.3637
+BR,Brazil,2001,top_50pct,0.9757
+BR,Brazil,2002,bottom_10pct,-0.0173
+BR,Brazil,2002,bottom_50pct,0.0233
+BR,Brazil,2002,top_10pct,0.6989000000000001
+BR,Brazil,2002,top_1pct,0.3693
+BR,Brazil,2002,top_50pct,0.9767
+BR,Brazil,2003,bottom_10pct,-0.0171
+BR,Brazil,2003,bottom_50pct,0.0238
+BR,Brazil,2003,top_10pct,0.6962
+BR,Brazil,2003,top_1pct,0.3661
+BR,Brazil,2003,top_50pct,0.9762
+BR,Brazil,2004,bottom_10pct,-0.0168
+BR,Brazil,2004,bottom_50pct,0.0249
+BR,Brazil,2004,top_10pct,0.6912
+BR,Brazil,2004,top_1pct,0.3602
+BR,Brazil,2004,top_50pct,0.9751
+BR,Brazil,2005,bottom_10pct,-0.0176
+BR,Brazil,2005,bottom_50pct,0.0226
+BR,Brazil,2005,top_10pct,0.7021000000000001
+BR,Brazil,2005,top_1pct,0.3729
+BR,Brazil,2005,top_50pct,0.9774
+BR,Brazil,2006,bottom_10pct,-0.0176
+BR,Brazil,2006,bottom_50pct,0.0226
+BR,Brazil,2006,top_10pct,0.7020000000000001
+BR,Brazil,2006,top_1pct,0.3728
+BR,Brazil,2006,top_50pct,0.9774
+BR,Brazil,2007,bottom_10pct,-0.017
+BR,Brazil,2007,bottom_50pct,0.0242
+BR,Brazil,2007,top_10pct,0.6944
+BR,Brazil,2007,top_1pct,0.3639
+BR,Brazil,2007,top_50pct,0.9758
+BR,Brazil,2008,bottom_10pct,-0.0171
+BR,Brazil,2008,bottom_50pct,0.0238
+BR,Brazil,2008,top_10pct,0.6965
+BR,Brazil,2008,top_1pct,0.3664
+BR,Brazil,2008,top_50pct,0.9762
+BR,Brazil,2009,bottom_10pct,-0.017
+BR,Brazil,2009,bottom_50pct,0.0242
+BR,Brazil,2009,top_10pct,0.6948000000000001
+BR,Brazil,2009,top_1pct,0.3644
+BR,Brazil,2009,top_50pct,0.9758
+BR,Brazil,2010,bottom_10pct,-0.0173
+BR,Brazil,2010,bottom_50pct,0.0234
+BR,Brazil,2010,top_10pct,0.6982
+BR,Brazil,2010,top_1pct,0.3684
+BR,Brazil,2010,top_50pct,0.9766
+BR,Brazil,2011,bottom_10pct,-0.0176
+BR,Brazil,2011,bottom_50pct,0.0226
+BR,Brazil,2011,top_10pct,0.7021000000000001
+BR,Brazil,2011,top_1pct,0.3729
+BR,Brazil,2011,top_50pct,0.9774
+BR,Brazil,2012,bottom_10pct,-0.0172
+BR,Brazil,2012,bottom_50pct,0.0235
+BR,Brazil,2012,top_10pct,0.6977
+BR,Brazil,2012,top_1pct,0.3678
+BR,Brazil,2012,top_50pct,0.9765
+BR,Brazil,2013,bottom_10pct,-0.0169
+BR,Brazil,2013,bottom_50pct,0.0244
+BR,Brazil,2013,top_10pct,0.6935
+BR,Brazil,2013,top_1pct,0.3629
+BR,Brazil,2013,top_50pct,0.9756
+BR,Brazil,2014,bottom_10pct,-0.017
+BR,Brazil,2014,bottom_50pct,0.0242
+BR,Brazil,2014,top_10pct,0.6947
+BR,Brazil,2014,top_1pct,0.3643
+BR,Brazil,2014,top_50pct,0.9758
+BR,Brazil,2015,bottom_10pct,-0.0175
+BR,Brazil,2015,bottom_50pct,0.0229
+BR,Brazil,2015,top_10pct,0.7006
+BR,Brazil,2015,top_1pct,0.3712
+BR,Brazil,2015,top_50pct,0.9771
+BR,Brazil,2016,bottom_10pct,-0.0171
+BR,Brazil,2016,bottom_50pct,0.0239
+BR,Brazil,2016,top_10pct,0.6959000000000001
+BR,Brazil,2016,top_1pct,0.3657
+BR,Brazil,2016,top_50pct,0.9761
+BR,Brazil,2017,bottom_10pct,-0.0169
+BR,Brazil,2017,bottom_50pct,0.0244
+BR,Brazil,2017,top_10pct,0.6936
+BR,Brazil,2017,top_1pct,0.363
+BR,Brazil,2017,top_50pct,0.9756
+BR,Brazil,2018,bottom_10pct,-0.0168
+BR,Brazil,2018,bottom_50pct,0.0247
+BR,Brazil,2018,top_10pct,0.6920000000000001
+BR,Brazil,2018,top_1pct,0.3612
+BR,Brazil,2018,top_50pct,0.9753
+BR,Brazil,2019,bottom_10pct,-0.0164
+BR,Brazil,2019,bottom_50pct,0.0258
+BR,Brazil,2019,top_10pct,0.6877
+BR,Brazil,2019,top_1pct,0.3571
+BR,Brazil,2019,top_50pct,0.9742
+BR,Brazil,2020,bottom_10pct,-0.0174
+BR,Brazil,2020,bottom_50pct,0.0231
+BR,Brazil,2020,top_10pct,0.6996
+BR,Brazil,2020,top_1pct,0.37
+BR,Brazil,2020,top_50pct,0.9769
+BR,Brazil,2021,bottom_10pct,-0.0169
+BR,Brazil,2021,bottom_50pct,0.0232
+BR,Brazil,2021,top_10pct,0.7027
+BR,Brazil,2021,top_1pct,0.3787
+BR,Brazil,2021,top_50pct,0.9768
+BR,Brazil,2022,bottom_10pct,-0.0171
+BR,Brazil,2022,bottom_50pct,0.0236
+BR,Brazil,2022,top_10pct,0.6987
+BR,Brazil,2022,top_1pct,0.3706
+BR,Brazil,2022,top_50pct,0.9764
+BR,Brazil,2023,bottom_10pct,-0.0172
+BR,Brazil,2023,bottom_50pct,0.0237
+BR,Brazil,2023,top_10pct,0.6970000000000001
+BR,Brazil,2023,top_1pct,0.3669
+BR,Brazil,2023,top_50pct,0.9763
+CA,Canada,1995,bottom_10pct,-0.0156
+CA,Canada,1995,bottom_50pct,0.0408
+CA,Canada,1995,top_10pct,0.5784
+CA,Canada,1995,top_1pct,0.2331
+CA,Canada,1995,top_50pct,0.9592
+CA,Canada,1996,bottom_10pct,-0.0156
+CA,Canada,1996,bottom_50pct,0.0408
+CA,Canada,1996,top_10pct,0.5785
+CA,Canada,1996,top_1pct,0.2326
+CA,Canada,1996,top_50pct,0.9592
+CA,Canada,1997,bottom_10pct,-0.0155
+CA,Canada,1997,bottom_50pct,0.0408
+CA,Canada,1997,top_10pct,0.5796
+CA,Canada,1997,top_1pct,0.2336
+CA,Canada,1997,top_50pct,0.9592
+CA,Canada,1998,bottom_10pct,-0.0154
+CA,Canada,1998,bottom_50pct,0.0407
+CA,Canada,1998,top_10pct,0.5812
+CA,Canada,1998,top_1pct,0.2363
+CA,Canada,1998,top_50pct,0.9593
+CA,Canada,1999,bottom_10pct,-0.0153
+CA,Canada,1999,bottom_50pct,0.0406
+CA,Canada,1999,top_10pct,0.5830000000000001
+CA,Canada,1999,top_1pct,0.2386
+CA,Canada,1999,top_50pct,0.9594
+CA,Canada,2000,bottom_10pct,-0.0151
+CA,Canada,2000,bottom_50pct,0.0403
+CA,Canada,2000,top_10pct,0.5872
+CA,Canada,2000,top_1pct,0.2446
+CA,Canada,2000,top_50pct,0.9597
+CA,Canada,2001,bottom_10pct,-0.0151
+CA,Canada,2001,bottom_50pct,0.0403
+CA,Canada,2001,top_10pct,0.5872
+CA,Canada,2001,top_1pct,0.2448
+CA,Canada,2001,top_50pct,0.9597
+CA,Canada,2002,bottom_10pct,-0.0151
+CA,Canada,2002,bottom_50pct,0.0403
+CA,Canada,2002,top_10pct,0.5870000000000001
+CA,Canada,2002,top_1pct,0.2441
+CA,Canada,2002,top_50pct,0.9597
+CA,Canada,2003,bottom_10pct,-0.0151
+CA,Canada,2003,bottom_50pct,0.0403
+CA,Canada,2003,top_10pct,0.5875
+CA,Canada,2003,top_1pct,0.2446
+CA,Canada,2003,top_50pct,0.9597
+CA,Canada,2004,bottom_10pct,-0.015
+CA,Canada,2004,bottom_50pct,0.0401
+CA,Canada,2004,top_10pct,0.5898
+CA,Canada,2004,top_1pct,0.2484
+CA,Canada,2004,top_50pct,0.9599
+CA,Canada,2005,bottom_10pct,-0.0149
+CA,Canada,2005,bottom_50pct,0.0401
+CA,Canada,2005,top_10pct,0.5900000000000001
+CA,Canada,2005,top_1pct,0.2481
+CA,Canada,2005,top_50pct,0.9599
+CA,Canada,2006,bottom_10pct,-0.0149
+CA,Canada,2006,bottom_50pct,0.0402
+CA,Canada,2006,top_10pct,0.5902000000000001
+CA,Canada,2006,top_1pct,0.2479
+CA,Canada,2006,top_50pct,0.9598
+CA,Canada,2007,bottom_10pct,-0.0149
+CA,Canada,2007,bottom_50pct,0.0402
+CA,Canada,2007,top_10pct,0.5898
+CA,Canada,2007,top_1pct,0.2473
+CA,Canada,2007,top_50pct,0.9598
+CA,Canada,2008,bottom_10pct,-0.015
+CA,Canada,2008,bottom_50pct,0.0401
+CA,Canada,2008,top_10pct,0.5899
+CA,Canada,2008,top_1pct,0.2485
+CA,Canada,2008,top_50pct,0.9599
+CA,Canada,2009,bottom_10pct,-0.0153
+CA,Canada,2009,bottom_50pct,0.0407
+CA,Canada,2009,top_10pct,0.5827
+CA,Canada,2009,top_1pct,0.2374
+CA,Canada,2009,top_50pct,0.9593
+CA,Canada,2010,bottom_10pct,-0.0152
+CA,Canada,2010,bottom_50pct,0.0406
+CA,Canada,2010,top_10pct,0.5846
+CA,Canada,2010,top_1pct,0.2398
+CA,Canada,2010,top_50pct,0.9594
+CA,Canada,2011,bottom_10pct,-0.0152
+CA,Canada,2011,bottom_50pct,0.0405
+CA,Canada,2011,top_10pct,0.5847
+CA,Canada,2011,top_1pct,0.2402
+CA,Canada,2011,top_50pct,0.9595
+CA,Canada,2012,bottom_10pct,-0.0153
+CA,Canada,2012,bottom_50pct,0.0407
+CA,Canada,2012,top_10pct,0.5826
+CA,Canada,2012,top_1pct,0.2372
+CA,Canada,2012,top_50pct,0.9593
+CA,Canada,2013,bottom_10pct,-0.0153
+CA,Canada,2013,bottom_50pct,0.0406
+CA,Canada,2013,top_10pct,0.5833
+CA,Canada,2013,top_1pct,0.2385
+CA,Canada,2013,top_50pct,0.9594
+CA,Canada,2014,bottom_10pct,-0.0153
+CA,Canada,2014,bottom_50pct,0.0405
+CA,Canada,2014,top_10pct,0.5844
+CA,Canada,2014,top_1pct,0.2409
+CA,Canada,2014,top_50pct,0.9595
+CA,Canada,2015,bottom_10pct,-0.0152
+CA,Canada,2015,bottom_50pct,0.0403
+CA,Canada,2015,top_10pct,0.5855
+CA,Canada,2015,top_1pct,0.2432
+CA,Canada,2015,top_50pct,0.9597
+CA,Canada,2016,bottom_10pct,-0.0155
+CA,Canada,2016,bottom_50pct,0.0405
+CA,Canada,2016,top_10pct,0.5815
+CA,Canada,2016,top_1pct,0.2378
+CA,Canada,2016,top_50pct,0.9595
+CA,Canada,2017,bottom_10pct,-0.0154
+CA,Canada,2017,bottom_50pct,0.0405
+CA,Canada,2017,top_10pct,0.5831000000000001
+CA,Canada,2017,top_1pct,0.2398
+CA,Canada,2017,top_50pct,0.9595
+CA,Canada,2018,bottom_10pct,-0.0154
+CA,Canada,2018,bottom_50pct,0.0404
+CA,Canada,2018,top_10pct,0.5834
+CA,Canada,2018,top_1pct,0.2407
+CA,Canada,2018,top_50pct,0.9596
+CA,Canada,2019,bottom_10pct,-0.0154
+CA,Canada,2019,bottom_50pct,0.0404
+CA,Canada,2019,top_10pct,0.5829
+CA,Canada,2019,top_1pct,0.2401
+CA,Canada,2019,top_50pct,0.9596
+CA,Canada,2020,bottom_10pct,-0.0153
+CA,Canada,2020,bottom_50pct,0.0406
+CA,Canada,2020,top_10pct,0.5830000000000001
+CA,Canada,2020,top_1pct,0.2389
+CA,Canada,2020,top_50pct,0.9594
+CA,Canada,2021,bottom_10pct,-0.0151
+CA,Canada,2021,bottom_50pct,0.0403
+CA,Canada,2021,top_10pct,0.5869
+CA,Canada,2021,top_1pct,0.2446
+CA,Canada,2021,top_50pct,0.9597
+CA,Canada,2022,bottom_10pct,-0.015
+CA,Canada,2022,bottom_50pct,0.0401
+CA,Canada,2022,top_10pct,0.5893
+CA,Canada,2022,top_1pct,0.249
+CA,Canada,2022,top_50pct,0.9599
+CA,Canada,2023,bottom_10pct,-0.0151
+CA,Canada,2023,bottom_50pct,0.0403
+CA,Canada,2023,top_10pct,0.5871000000000001
+CA,Canada,2023,top_1pct,0.2449
+CA,Canada,2023,top_50pct,0.9597
+CN,China,1995,bottom_10pct,0.0033
+CN,China,1995,bottom_50pct,0.1598
+CN,China,1995,top_10pct,0.4091
+CN,China,1995,top_1pct,0.1594
+CN,China,1995,top_50pct,0.8402000000000001
+CN,China,1996,bottom_10pct,0.0035
+CN,China,1996,bottom_50pct,0.1537
+CN,China,1996,top_10pct,0.43
+CN,China,1996,top_1pct,0.1701
+CN,China,1996,top_50pct,0.8463
+CN,China,1997,bottom_10pct,0.0036
+CN,China,1997,bottom_50pct,0.149
+CN,China,1997,top_10pct,0.4464
+CN,China,1997,top_1pct,0.1792
+CN,China,1997,top_50pct,0.8510000000000001
+CN,China,1998,bottom_10pct,0.0037
+CN,China,1998,bottom_50pct,0.1453
+CN,China,1998,top_10pct,0.4591
+CN,China,1998,top_1pct,0.1863
+CN,China,1998,top_50pct,0.8547
+CN,China,1999,bottom_10pct,0.0038
+CN,China,1999,bottom_50pct,0.1424
+CN,China,1999,top_10pct,0.4692
+CN,China,1999,top_1pct,0.1919
+CN,China,1999,top_50pct,0.8576
+CN,China,2000,bottom_10pct,0.0039
+CN,China,2000,bottom_50pct,0.14
+CN,China,2000,top_10pct,0.4775
+CN,China,2000,top_1pct,0.1965
+CN,China,2000,top_50pct,0.86
+CN,China,2001,bottom_10pct,0.0039
+CN,China,2001,bottom_50pct,0.138
+CN,China,2001,top_10pct,0.4844
+CN,China,2001,top_1pct,0.2003
+CN,China,2001,top_50pct,0.862
+CN,China,2002,bottom_10pct,0.004
+CN,China,2002,bottom_50pct,0.1363
+CN,China,2002,top_10pct,0.4901
+CN,China,2002,top_1pct,0.2035
+CN,China,2002,top_50pct,0.8637
+CN,China,2003,bottom_10pct,0.004
+CN,China,2003,bottom_50pct,0.1363
+CN,China,2003,top_10pct,0.4903
+CN,China,2003,top_1pct,0.205
+CN,China,2003,top_50pct,0.8637
+CN,China,2004,bottom_10pct,0.0039
+CN,China,2004,bottom_50pct,0.1321
+CN,China,2004,top_10pct,0.5061
+CN,China,2004,top_1pct,0.2245
+CN,China,2004,top_50pct,0.8679
+CN,China,2005,bottom_10pct,0.0037
+CN,China,2005,bottom_50pct,0.1276
+CN,China,2005,top_10pct,0.5229
+CN,China,2005,top_1pct,0.237
+CN,China,2005,top_50pct,0.8724000000000001
+CN,China,2006,bottom_10pct,0.0036
+CN,China,2006,bottom_50pct,0.1232
+CN,China,2006,top_10pct,0.5393
+CN,China,2006,top_1pct,0.262
+CN,China,2006,top_50pct,0.8768
+CN,China,2007,bottom_10pct,0.0035
+CN,China,2007,bottom_50pct,0.1182
+CN,China,2007,top_10pct,0.5582
+CN,China,2007,top_1pct,0.2848
+CN,China,2007,top_50pct,0.8818
+CN,China,2008,bottom_10pct,0.0034
+CN,China,2008,bottom_50pct,0.1152
+CN,China,2008,top_10pct,0.5691
+CN,China,2008,top_1pct,0.2925
+CN,China,2008,top_50pct,0.8848
+CN,China,2009,bottom_10pct,0.0033
+CN,China,2009,bottom_50pct,0.1118
+CN,China,2009,top_10pct,0.5820000000000001
+CN,China,2009,top_1pct,0.3115
+CN,China,2009,top_50pct,0.8882
+CN,China,2010,bottom_10pct,-0.0025
+CN,China,2010,bottom_50pct,0.0701
+CN,China,2010,top_10pct,0.6276
+CN,China,2010,top_1pct,0.3045
+CN,China,2010,top_50pct,0.9299
+CN,China,2011,bottom_10pct,-0.0022
+CN,China,2011,bottom_50pct,0.0657
+CN,China,2011,top_10pct,0.6677000000000001
+CN,China,2011,top_1pct,0.2805
+CN,China,2011,top_50pct,0.9343
+CN,China,2012,bottom_10pct,-0.0023
+CN,China,2012,bottom_50pct,0.0661
+CN,China,2012,top_10pct,0.6655
+CN,China,2012,top_1pct,0.2729
+CN,China,2012,top_50pct,0.9339
+CN,China,2013,bottom_10pct,-0.0023
+CN,China,2013,bottom_50pct,0.0661
+CN,China,2013,top_10pct,0.6656000000000001
+CN,China,2013,top_1pct,0.2725
+CN,China,2013,top_50pct,0.9339
+CN,China,2014,bottom_10pct,-0.0022
+CN,China,2014,bottom_50pct,0.0657
+CN,China,2014,top_10pct,0.6674
+CN,China,2014,top_1pct,0.2783
+CN,China,2014,top_50pct,0.9343
+CN,China,2015,bottom_10pct,-0.0022
+CN,China,2015,bottom_50pct,0.0644
+CN,China,2015,top_10pct,0.6741
+CN,China,2015,top_1pct,0.2963
+CN,China,2015,top_50pct,0.9356
+CN,China,2016,bottom_10pct,-0.0022
+CN,China,2016,bottom_50pct,0.0644
+CN,China,2016,top_10pct,0.6742
+CN,China,2016,top_1pct,0.2965
+CN,China,2016,top_50pct,0.9356
+CN,China,2017,bottom_10pct,-0.0021
+CN,China,2017,bottom_50pct,0.0641
+CN,China,2017,top_10pct,0.6771
+CN,China,2017,top_1pct,0.3003
+CN,China,2017,top_50pct,0.9359
+CN,China,2018,bottom_10pct,-0.0021
+CN,China,2018,bottom_50pct,0.0642
+CN,China,2018,top_10pct,0.6762
+CN,China,2018,top_1pct,0.2991
+CN,China,2018,top_50pct,0.9358
+CN,China,2019,bottom_10pct,-0.0021
+CN,China,2019,bottom_50pct,0.0643
+CN,China,2019,top_10pct,0.6754
+CN,China,2019,top_1pct,0.298
+CN,China,2019,top_50pct,0.9357
+CN,China,2020,bottom_10pct,-0.002
+CN,China,2020,bottom_50pct,0.064
+CN,China,2020,top_10pct,0.6778000000000001
+CN,China,2020,top_1pct,0.3012
+CN,China,2020,top_50pct,0.936
+CN,China,2021,bottom_10pct,-0.002
+CN,China,2021,bottom_50pct,0.0637
+CN,China,2021,top_10pct,0.6795
+CN,China,2021,top_1pct,0.3043
+CN,China,2021,top_50pct,0.9363
+CN,China,2022,bottom_10pct,-0.002
+CN,China,2022,bottom_50pct,0.0639
+CN,China,2022,top_10pct,0.6788000000000001
+CN,China,2022,top_1pct,0.3026
+CN,China,2022,top_50pct,0.9361
+CN,China,2023,bottom_10pct,-0.002
+CN,China,2023,bottom_50pct,0.0639
+CN,China,2023,top_10pct,0.6788000000000001
+CN,China,2023,top_1pct,0.3026
+CN,China,2023,top_50pct,0.9361
+DE,Germany,1995,bottom_10pct,-0.0093
+DE,Germany,1995,bottom_50pct,0.0432
+DE,Germany,1995,top_10pct,0.5753
+DE,Germany,1995,top_1pct,0.2657
+DE,Germany,1995,top_50pct,0.9568
+DE,Germany,1996,bottom_10pct,-0.0092
+DE,Germany,1996,bottom_50pct,0.0431
+DE,Germany,1996,top_10pct,0.5766
+DE,Germany,1996,top_1pct,0.2678
+DE,Germany,1996,top_50pct,0.9569
+DE,Germany,1997,bottom_10pct,-0.0093
+DE,Germany,1997,bottom_50pct,0.0434
+DE,Germany,1997,top_10pct,0.5744
+DE,Germany,1997,top_1pct,0.2638
+DE,Germany,1997,top_50pct,0.9566
+DE,Germany,1998,bottom_10pct,-0.0093
+DE,Germany,1998,bottom_50pct,0.0436
+DE,Germany,1998,top_10pct,0.5724
+DE,Germany,1998,top_1pct,0.2602
+DE,Germany,1998,top_50pct,0.9564
+DE,Germany,1999,bottom_10pct,-0.0105
+DE,Germany,1999,bottom_50pct,0.0414
+DE,Germany,1999,top_10pct,0.5774
+DE,Germany,1999,top_1pct,0.2704
+DE,Germany,1999,top_50pct,0.9586
+DE,Germany,2000,bottom_10pct,-0.0119
+DE,Germany,2000,bottom_50pct,0.0401
+DE,Germany,2000,top_10pct,0.5740000000000001
+DE,Germany,2000,top_1pct,0.266
+DE,Germany,2000,top_50pct,0.9599
+DE,Germany,2001,bottom_10pct,-0.0133
+DE,Germany,2001,bottom_50pct,0.0387
+DE,Germany,2001,top_10pct,0.5708
+DE,Germany,2001,top_1pct,0.262
+DE,Germany,2001,top_50pct,0.9613
+DE,Germany,2002,bottom_10pct,-0.0147
+DE,Germany,2002,bottom_50pct,0.037
+DE,Germany,2002,top_10pct,0.5705
+DE,Germany,2002,top_1pct,0.263
+DE,Germany,2002,top_50pct,0.963
+DE,Germany,2003,bottom_10pct,-0.0161
+DE,Germany,2003,bottom_50pct,0.0352
+DE,Germany,2003,top_10pct,0.5709000000000001
+DE,Germany,2003,top_1pct,0.2653
+DE,Germany,2003,top_50pct,0.9648
+DE,Germany,2004,bottom_10pct,-0.0152
+DE,Germany,2004,bottom_50pct,0.033
+DE,Germany,2004,top_10pct,0.5794
+DE,Germany,2004,top_1pct,0.2735
+DE,Germany,2004,top_50pct,0.967
+DE,Germany,2005,bottom_10pct,-0.0143
+DE,Germany,2005,bottom_50pct,0.031
+DE,Germany,2005,top_10pct,0.5865
+DE,Germany,2005,top_1pct,0.2779
+DE,Germany,2005,top_50pct,0.969
+DE,Germany,2006,bottom_10pct,-0.0135
+DE,Germany,2006,bottom_50pct,0.029
+DE,Germany,2006,top_10pct,0.5917
+DE,Germany,2006,top_1pct,0.28
+DE,Germany,2006,top_50pct,0.971
+DE,Germany,2007,bottom_10pct,-0.0126
+DE,Germany,2007,bottom_50pct,0.0269
+DE,Germany,2007,top_10pct,0.5999
+DE,Germany,2007,top_1pct,0.2858
+DE,Germany,2007,top_50pct,0.9731
+DE,Germany,2008,bottom_10pct,-0.012
+DE,Germany,2008,bottom_50pct,0.0249
+DE,Germany,2008,top_10pct,0.605
+DE,Germany,2008,top_1pct,0.289
+DE,Germany,2008,top_50pct,0.9751
+DE,Germany,2009,bottom_10pct,-0.011
+DE,Germany,2009,bottom_50pct,0.0272
+DE,Germany,2009,top_10pct,0.5962000000000001
+DE,Germany,2009,top_1pct,0.2767
+DE,Germany,2009,top_50pct,0.9728
+DE,Germany,2010,bottom_10pct,-0.0099
+DE,Germany,2010,bottom_50pct,0.0292
+DE,Germany,2010,top_10pct,0.5911000000000001
+DE,Germany,2010,top_1pct,0.2725
+DE,Germany,2010,top_50pct,0.9708
+DE,Germany,2011,bottom_10pct,-0.0088
+DE,Germany,2011,bottom_50pct,0.0311
+DE,Germany,2011,top_10pct,0.5878
+DE,Germany,2011,top_1pct,0.2706
+DE,Germany,2011,top_50pct,0.9689
+DE,Germany,2012,bottom_10pct,-0.0078
+DE,Germany,2012,bottom_50pct,0.0331
+DE,Germany,2012,top_10pct,0.5827
+DE,Germany,2012,top_1pct,0.2664
+DE,Germany,2012,top_50pct,0.9669
+DE,Germany,2013,bottom_10pct,-0.0065
+DE,Germany,2013,bottom_50pct,0.0347
+DE,Germany,2013,top_10pct,0.5831000000000001
+DE,Germany,2013,top_1pct,0.2693
+DE,Germany,2013,top_50pct,0.9653
+DE,Germany,2014,bottom_10pct,-0.0058
+DE,Germany,2014,bottom_50pct,0.0345
+DE,Germany,2014,top_10pct,0.5860000000000001
+DE,Germany,2014,top_1pct,0.2753
+DE,Germany,2014,top_50pct,0.9655
+DE,Germany,2015,bottom_10pct,-0.0051
+DE,Germany,2015,bottom_50pct,0.0344
+DE,Germany,2015,top_10pct,0.5860000000000001
+DE,Germany,2015,top_1pct,0.2765
+DE,Germany,2015,top_50pct,0.9656
+DE,Germany,2016,bottom_10pct,-0.0044
+DE,Germany,2016,bottom_50pct,0.0344
+DE,Germany,2016,top_10pct,0.5862
+DE,Germany,2016,top_1pct,0.2781
+DE,Germany,2016,top_50pct,0.9656
+DE,Germany,2017,bottom_10pct,-0.0038
+DE,Germany,2017,bottom_50pct,0.0344
+DE,Germany,2017,top_10pct,0.5854
+DE,Germany,2017,top_1pct,0.2779
+DE,Germany,2017,top_50pct,0.9656
+DE,Germany,2018,bottom_10pct,-0.0031
+DE,Germany,2018,bottom_50pct,0.0341
+DE,Germany,2018,top_10pct,0.5883
+DE,Germany,2018,top_1pct,0.2845
+DE,Germany,2018,top_50pct,0.9659
+DE,Germany,2019,bottom_10pct,-0.0031
+DE,Germany,2019,bottom_50pct,0.0343
+DE,Germany,2019,top_10pct,0.5857
+DE,Germany,2019,top_1pct,0.2797
+DE,Germany,2019,top_50pct,0.9657
+DE,Germany,2020,bottom_10pct,-0.0031
+DE,Germany,2020,bottom_50pct,0.0345
+DE,Germany,2020,top_10pct,0.5831000000000001
+DE,Germany,2020,top_1pct,0.2753
+DE,Germany,2020,top_50pct,0.9655
+DE,Germany,2021,bottom_10pct,-0.0031
+DE,Germany,2021,bottom_50pct,0.0343
+DE,Germany,2021,top_10pct,0.5856
+DE,Germany,2021,top_1pct,0.2796
+DE,Germany,2021,top_50pct,0.9657
+DE,Germany,2022,bottom_10pct,-0.0031
+DE,Germany,2022,bottom_50pct,0.0344
+DE,Germany,2022,top_10pct,0.5847
+DE,Germany,2022,top_1pct,0.278
+DE,Germany,2022,top_50pct,0.9656
+DE,Germany,2023,bottom_10pct,-0.0031
+DE,Germany,2023,bottom_50pct,0.0345
+DE,Germany,2023,top_10pct,0.5837
+DE,Germany,2023,top_1pct,0.2762
+DE,Germany,2023,top_50pct,0.9655
+FR,France,1995,bottom_10pct,0.0026
+FR,France,1995,bottom_50pct,0.0669
+FR,France,1995,top_10pct,0.5376000000000001
+FR,France,1995,top_1pct,0.2072
+FR,France,1995,top_50pct,0.9331
+FR,France,1996,bottom_10pct,0.0026
+FR,France,1996,bottom_50pct,0.0626
+FR,France,1996,top_10pct,0.5686
+FR,France,1996,top_1pct,0.2462
+FR,France,1996,top_50pct,0.9374
+FR,France,1997,bottom_10pct,0.0025
+FR,France,1997,bottom_50pct,0.0608
+FR,France,1997,top_10pct,0.5822
+FR,France,1997,top_1pct,0.2666
+FR,France,1997,top_50pct,0.9392
+FR,France,1998,bottom_10pct,0.002
+FR,France,1998,bottom_50pct,0.0586
+FR,France,1998,top_10pct,0.5951000000000001
+FR,France,1998,top_1pct,0.2808
+FR,France,1998,top_50pct,0.9414
+FR,France,1999,bottom_10pct,0.0019
+FR,France,1999,bottom_50pct,0.058
+FR,France,1999,top_10pct,0.6032000000000001
+FR,France,1999,top_1pct,0.2981
+FR,France,1999,top_50pct,0.942
+FR,France,2000,bottom_10pct,0.0016
+FR,France,2000,bottom_50pct,0.0566
+FR,France,2000,top_10pct,0.6047
+FR,France,2000,top_1pct,0.2979
+FR,France,2000,top_50pct,0.9434
+FR,France,2001,bottom_10pct,0.0017
+FR,France,2001,bottom_50pct,0.0581
+FR,France,2001,top_10pct,0.596
+FR,France,2001,top_1pct,0.2841
+FR,France,2001,top_50pct,0.9419
+FR,France,2002,bottom_10pct,0.0017
+FR,France,2002,bottom_50pct,0.0603
+FR,France,2002,top_10pct,0.5809000000000001
+FR,France,2002,top_1pct,0.2662
+FR,France,2002,top_50pct,0.9397
+FR,France,2003,bottom_10pct,0.0016
+FR,France,2003,bottom_50pct,0.0602
+FR,France,2003,top_10pct,0.5729000000000001
+FR,France,2003,top_1pct,0.2564
+FR,France,2003,top_50pct,0.9398
+FR,France,2004,bottom_10pct,0.0016
+FR,France,2004,bottom_50pct,0.0605
+FR,France,2004,top_10pct,0.5665
+FR,France,2004,top_1pct,0.2506
+FR,France,2004,top_50pct,0.9395
+FR,France,2005,bottom_10pct,0.0016
+FR,France,2005,bottom_50pct,0.0606
+FR,France,2005,top_10pct,0.5583
+FR,France,2005,top_1pct,0.2379
+FR,France,2005,top_50pct,0.9394
+FR,France,2006,bottom_10pct,0.0014
+FR,France,2006,bottom_50pct,0.0582
+FR,France,2006,top_10pct,0.5612
+FR,France,2006,top_1pct,0.2335
+FR,France,2006,top_50pct,0.9418
+FR,France,2007,bottom_10pct,0.0012
+FR,France,2007,bottom_50pct,0.0558
+FR,France,2007,top_10pct,0.5672
+FR,France,2007,top_1pct,0.2369
+FR,France,2007,top_50pct,0.9442
+FR,France,2008,bottom_10pct,0.0011
+FR,France,2008,bottom_50pct,0.0563
+FR,France,2008,top_10pct,0.5622
+FR,France,2008,top_1pct,0.2301
+FR,France,2008,top_50pct,0.9437
+FR,France,2009,bottom_10pct,0.001
+FR,France,2009,bottom_50pct,0.0536
+FR,France,2009,top_10pct,0.5663
+FR,France,2009,top_1pct,0.2273
+FR,France,2009,top_50pct,0.9464
+FR,France,2010,bottom_10pct,0.0007
+FR,France,2010,bottom_50pct,0.0474
+FR,France,2010,top_10pct,0.5832
+FR,France,2010,top_1pct,0.2461
+FR,France,2010,top_50pct,0.9526
+FR,France,2011,bottom_10pct,0.0007
+FR,France,2011,bottom_50pct,0.0505
+FR,France,2011,top_10pct,0.5766
+FR,France,2011,top_1pct,0.2422
+FR,France,2011,top_50pct,0.9495
+FR,France,2012,bottom_10pct,0.0008
+FR,France,2012,bottom_50pct,0.0533
+FR,France,2012,top_10pct,0.5721
+FR,France,2012,top_1pct,0.2378
+FR,France,2012,top_50pct,0.9467
+FR,France,2013,bottom_10pct,0.0002
+FR,France,2013,bottom_50pct,0.051
+FR,France,2013,top_10pct,0.5785
+FR,France,2013,top_1pct,0.2453
+FR,France,2013,top_50pct,0.949
+FR,France,2014,bottom_10pct,0.0002
+FR,France,2014,bottom_50pct,0.0499
+FR,France,2014,top_10pct,0.5866
+FR,France,2014,top_1pct,0.2571
+FR,France,2014,top_50pct,0.9501
+FR,France,2015,bottom_10pct,0.0003
+FR,France,2015,bottom_50pct,0.0498
+FR,France,2015,top_10pct,0.5884
+FR,France,2015,top_1pct,0.2596
+FR,France,2015,top_50pct,0.9502
+FR,France,2016,bottom_10pct,0.0003
+FR,France,2016,bottom_50pct,0.0501
+FR,France,2016,top_10pct,0.5862
+FR,France,2016,top_1pct,0.2557
+FR,France,2016,top_50pct,0.9499
+FR,France,2017,bottom_10pct,0.0003
+FR,France,2017,bottom_50pct,0.05
+FR,France,2017,top_10pct,0.5871000000000001
+FR,France,2017,top_1pct,0.2572
+FR,France,2017,top_50pct,0.95
+FR,France,2018,bottom_10pct,0.0004
+FR,France,2018,bottom_50pct,0.0497
+FR,France,2018,top_10pct,0.5904
+FR,France,2018,top_1pct,0.2624
+FR,France,2018,top_50pct,0.9503
+FR,France,2019,bottom_10pct,0.0004
+FR,France,2019,bottom_50pct,0.0497
+FR,France,2019,top_10pct,0.5898
+FR,France,2019,top_1pct,0.2616
+FR,France,2019,top_50pct,0.9503
+FR,France,2020,bottom_10pct,0.0003
+FR,France,2020,bottom_50pct,0.0499
+FR,France,2020,top_10pct,0.5879
+FR,France,2020,top_1pct,0.2585
+FR,France,2020,top_50pct,0.9501
+FR,France,2021,bottom_10pct,0.0005
+FR,France,2021,bottom_50pct,0.0492
+FR,France,2021,top_10pct,0.5948
+FR,France,2021,top_1pct,0.2697
+FR,France,2021,top_50pct,0.9508
+FR,France,2022,bottom_10pct,0.0004
+FR,France,2022,bottom_50pct,0.0492
+FR,France,2022,top_10pct,0.5941000000000001
+FR,France,2022,top_1pct,0.2691
+FR,France,2022,top_50pct,0.9508
+FR,France,2023,bottom_10pct,0.0004
+FR,France,2023,bottom_50pct,0.049
+FR,France,2023,top_10pct,0.5957
+FR,France,2023,top_1pct,0.2718
+FR,France,2023,top_50pct,0.951
+GB,United Kingdom,1995,bottom_10pct,-0.0042
+GB,United Kingdom,1995,bottom_50pct,0.0625
+GB,United Kingdom,1995,top_10pct,0.4692
+GB,United Kingdom,1995,top_10pct,0.5256000000000001
+GB,United Kingdom,1995,top_1pct,0.1623
+GB,United Kingdom,1995,top_1pct,0.1857
+GB,United Kingdom,1995,top_50pct,0.9375
+GB,United Kingdom,1996,bottom_10pct,-0.0063
+GB,United Kingdom,1996,bottom_50pct,0.0505
+GB,United Kingdom,1996,top_10pct,0.4838
+GB,United Kingdom,1996,top_10pct,0.5405
+GB,United Kingdom,1996,top_1pct,0.1655
+GB,United Kingdom,1996,top_1pct,0.1899
+GB,United Kingdom,1996,top_50pct,0.9495
+GB,United Kingdom,1997,bottom_10pct,-0.0071
+GB,United Kingdom,1997,bottom_50pct,0.0427
+GB,United Kingdom,1997,top_10pct,0.5157
+GB,United Kingdom,1997,top_10pct,0.5653
+GB,United Kingdom,1997,top_1pct,0.1927
+GB,United Kingdom,1997,top_1pct,0.2075
+GB,United Kingdom,1997,top_50pct,0.9573
+GB,United Kingdom,1998,bottom_10pct,-0.006
+GB,United Kingdom,1998,bottom_50pct,0.0444
+GB,United Kingdom,1998,top_10pct,0.5189
+GB,United Kingdom,1998,top_10pct,0.5668000000000001
+GB,United Kingdom,1998,top_1pct,0.1996
+GB,United Kingdom,1998,top_1pct,0.2118
+GB,United Kingdom,1998,top_50pct,0.9556
+GB,United Kingdom,1999,bottom_10pct,-0.0045
+GB,United Kingdom,1999,bottom_50pct,0.0512
+GB,United Kingdom,1999,top_10pct,0.5007
+GB,United Kingdom,1999,top_10pct,0.5488000000000001
+GB,United Kingdom,1999,top_1pct,0.193
+GB,United Kingdom,1999,top_1pct,0.2045
+GB,United Kingdom,1999,top_50pct,0.9488
+GB,United Kingdom,2000,bottom_10pct,-0.0046
+GB,United Kingdom,2000,bottom_50pct,0.0498
+GB,United Kingdom,2000,top_10pct,0.5056
+GB,United Kingdom,2000,top_10pct,0.5579000000000001
+GB,United Kingdom,2000,top_1pct,0.185
+GB,United Kingdom,2000,top_1pct,0.2037
+GB,United Kingdom,2000,top_50pct,0.9502
+GB,United Kingdom,2001,bottom_10pct,-0.0051
+GB,United Kingdom,2001,bottom_50pct,0.0515
+GB,United Kingdom,2001,top_10pct,0.5024
+GB,United Kingdom,2001,top_10pct,0.5511
+GB,United Kingdom,2001,top_1pct,0.1886
+GB,United Kingdom,2001,top_1pct,0.2044
+GB,United Kingdom,2001,top_50pct,0.9485
+GB,United Kingdom,2002,bottom_10pct,-0.0062
+GB,United Kingdom,2002,bottom_50pct,0.0502
+GB,United Kingdom,2002,top_10pct,0.5085
+GB,United Kingdom,2002,top_10pct,0.5545
+GB,United Kingdom,2002,top_1pct,0.1805
+GB,United Kingdom,2002,top_1pct,0.1998
+GB,United Kingdom,2002,top_50pct,0.9498
+GB,United Kingdom,2003,bottom_10pct,-0.006
+GB,United Kingdom,2003,bottom_50pct,0.0532
+GB,United Kingdom,2003,top_10pct,0.5026
+GB,United Kingdom,2003,top_10pct,0.5449
+GB,United Kingdom,2003,top_1pct,0.1679
+GB,United Kingdom,2003,top_1pct,0.1875
+GB,United Kingdom,2003,top_50pct,0.9468
+GB,United Kingdom,2004,bottom_10pct,-0.0055
+GB,United Kingdom,2004,bottom_50pct,0.0574
+GB,United Kingdom,2004,top_10pct,0.5403
+GB,United Kingdom,2004,top_1pct,0.1932
+GB,United Kingdom,2004,top_50pct,0.9426
+GB,United Kingdom,2005,bottom_10pct,-0.0058
+GB,United Kingdom,2005,bottom_50pct,0.0571
+GB,United Kingdom,2005,top_10pct,0.5119
+GB,United Kingdom,2005,top_10pct,0.5416000000000001
+GB,United Kingdom,2005,top_1pct,0.1877
+GB,United Kingdom,2005,top_1pct,0.2024
+GB,United Kingdom,2005,top_50pct,0.9429
+GB,United Kingdom,2006,bottom_10pct,-0.0059
+GB,United Kingdom,2006,bottom_50pct,0.0561
+GB,United Kingdom,2006,top_10pct,0.5198
+GB,United Kingdom,2006,top_10pct,0.5445
+GB,United Kingdom,2006,top_1pct,0.1987
+GB,United Kingdom,2006,top_1pct,0.2052
+GB,United Kingdom,2006,top_50pct,0.9439
+GB,United Kingdom,2007,bottom_10pct,-0.005
+GB,United Kingdom,2007,bottom_50pct,0.0602
+GB,United Kingdom,2007,top_10pct,0.5439
+GB,United Kingdom,2007,top_1pct,0.2056
+GB,United Kingdom,2007,top_50pct,0.9398
+GB,United Kingdom,2008,bottom_10pct,-0.0044
+GB,United Kingdom,2008,bottom_50pct,0.0631
+GB,United Kingdom,2008,top_10pct,0.5382
+GB,United Kingdom,2008,top_1pct,0.2024
+GB,United Kingdom,2008,top_50pct,0.9369
+GB,United Kingdom,2009,bottom_10pct,-0.0075
+GB,United Kingdom,2009,bottom_50pct,0.0481
+GB,United Kingdom,2009,top_10pct,0.5401
+GB,United Kingdom,2009,top_10pct,0.5442
+GB,United Kingdom,2009,top_1pct,0.2058
+GB,United Kingdom,2009,top_1pct,0.201
+GB,United Kingdom,2009,top_50pct,0.9519
+GB,United Kingdom,2010,bottom_10pct,-0.0064
+GB,United Kingdom,2010,bottom_50pct,0.0494
+GB,United Kingdom,2010,top_10pct,0.5463
+GB,United Kingdom,2010,top_1pct,0.2006
+GB,United Kingdom,2010,top_50pct,0.9506
+GB,United Kingdom,2011,bottom_10pct,-0.0073
+GB,United Kingdom,2011,bottom_50pct,0.0422
+GB,United Kingdom,2011,top_10pct,0.5585
+GB,United Kingdom,2011,top_1pct,0.2027
+GB,United Kingdom,2011,top_50pct,0.9578
+GB,United Kingdom,2012,bottom_10pct,-0.0054
+GB,United Kingdom,2012,bottom_50pct,0.0447
+GB,United Kingdom,2012,top_10pct,0.5192
+GB,United Kingdom,2012,top_10pct,0.5569000000000001
+GB,United Kingdom,2012,top_1pct,0.1988
+GB,United Kingdom,2012,top_1pct,0.2075
+GB,United Kingdom,2012,top_50pct,0.9553
+GB,United Kingdom,2013,bottom_10pct,-0.0046
+GB,United Kingdom,2013,bottom_50pct,0.0427
+GB,United Kingdom,2013,top_10pct,0.5678000000000001
+GB,United Kingdom,2013,top_1pct,0.2264
+GB,United Kingdom,2013,top_50pct,0.9573
+GB,United Kingdom,2014,bottom_10pct,-0.0054
+GB,United Kingdom,2014,bottom_50pct,0.0392
+GB,United Kingdom,2014,top_10pct,0.5782
+GB,United Kingdom,2014,top_1pct,0.2261
+GB,United Kingdom,2014,top_50pct,0.9608
+GB,United Kingdom,2015,bottom_10pct,-0.0047
+GB,United Kingdom,2015,bottom_50pct,0.0454
+GB,United Kingdom,2015,top_10pct,0.5662
+GB,United Kingdom,2015,top_1pct,0.2139
+GB,United Kingdom,2015,top_50pct,0.9546
+GB,United Kingdom,2016,bottom_10pct,-0.004
+GB,United Kingdom,2016,bottom_50pct,0.0438
+GB,United Kingdom,2016,top_10pct,0.5715
+GB,United Kingdom,2016,top_1pct,0.213
+GB,United Kingdom,2016,top_50pct,0.9562
+GB,United Kingdom,2017,bottom_10pct,-0.0031
+GB,United Kingdom,2017,bottom_50pct,0.0428
+GB,United Kingdom,2017,top_10pct,0.5756
+GB,United Kingdom,2017,top_1pct,0.2125
+GB,United Kingdom,2017,top_50pct,0.9572
+GB,United Kingdom,2018,bottom_10pct,-0.0025
+GB,United Kingdom,2018,bottom_50pct,0.0464
+GB,United Kingdom,2018,top_10pct,0.5715
+GB,United Kingdom,2018,top_1pct,0.2134
+GB,United Kingdom,2018,top_50pct,0.9536
+GB,United Kingdom,2019,bottom_10pct,-0.0026
+GB,United Kingdom,2019,bottom_50pct,0.0465
+GB,United Kingdom,2019,top_10pct,0.5702
+GB,United Kingdom,2019,top_1pct,0.2115
+GB,United Kingdom,2019,top_50pct,0.9535
+GB,United Kingdom,2020,bottom_10pct,-0.0025
+GB,United Kingdom,2020,bottom_50pct,0.0466
+GB,United Kingdom,2020,top_10pct,0.5700000000000001
+GB,United Kingdom,2020,top_1pct,0.2103
+GB,United Kingdom,2020,top_50pct,0.9534
+GB,United Kingdom,2021,bottom_10pct,-0.0025
+GB,United Kingdom,2021,bottom_50pct,0.0465
+GB,United Kingdom,2021,top_10pct,0.5710000000000001
+GB,United Kingdom,2021,top_1pct,0.2122
+GB,United Kingdom,2021,top_50pct,0.9535
+GB,United Kingdom,2022,bottom_10pct,-0.0025
+GB,United Kingdom,2022,bottom_50pct,0.0465
+GB,United Kingdom,2022,top_10pct,0.5706
+GB,United Kingdom,2022,top_1pct,0.2115
+GB,United Kingdom,2022,top_50pct,0.9535
+GB,United Kingdom,2023,bottom_10pct,-0.0025
+GB,United Kingdom,2023,bottom_50pct,0.0465
+GB,United Kingdom,2023,top_10pct,0.5712
+GB,United Kingdom,2023,top_1pct,0.2125
+GB,United Kingdom,2023,top_50pct,0.9535
+ID,Indonesia,1995,bottom_10pct,0.0001
+ID,Indonesia,1995,bottom_50pct,0.05
+ID,Indonesia,1995,top_10pct,0.5989
+ID,Indonesia,1995,top_1pct,0.2139
+ID,Indonesia,1995,top_50pct,0.95
+ID,Indonesia,1996,bottom_10pct,0.0001
+ID,Indonesia,1996,bottom_50pct,0.0496
+ID,Indonesia,1996,top_10pct,0.602
+ID,Indonesia,1996,top_1pct,0.2175
+ID,Indonesia,1996,top_50pct,0.9504
+ID,Indonesia,1997,bottom_10pct,-0.0001
+ID,Indonesia,1997,bottom_50pct,0.0506
+ID,Indonesia,1997,top_10pct,0.5911000000000001
+ID,Indonesia,1997,top_1pct,0.2088
+ID,Indonesia,1997,top_50pct,0.9494
+ID,Indonesia,1998,bottom_10pct,-0.0005
+ID,Indonesia,1998,bottom_50pct,0.0508
+ID,Indonesia,1998,top_10pct,0.5852
+ID,Indonesia,1998,top_1pct,0.2044
+ID,Indonesia,1998,top_50pct,0.9492
+ID,Indonesia,1999,bottom_10pct,-0.0006
+ID,Indonesia,1999,bottom_50pct,0.0512
+ID,Indonesia,1999,top_10pct,0.5818
+ID,Indonesia,1999,top_1pct,0.1986
+ID,Indonesia,1999,top_50pct,0.9488
+ID,Indonesia,2000,bottom_10pct,-0.0006
+ID,Indonesia,2000,bottom_50pct,0.0513
+ID,Indonesia,2000,top_10pct,0.5811000000000001
+ID,Indonesia,2000,top_1pct,0.1969
+ID,Indonesia,2000,top_50pct,0.9487
+ID,Indonesia,2001,bottom_10pct,-0.0008
+ID,Indonesia,2001,bottom_50pct,0.0496
+ID,Indonesia,2001,top_10pct,0.5809000000000001
+ID,Indonesia,2001,top_1pct,0.1949
+ID,Indonesia,2001,top_50pct,0.9504
+ID,Indonesia,2002,bottom_10pct,-0.0011
+ID,Indonesia,2002,bottom_50pct,0.048
+ID,Indonesia,2002,top_10pct,0.5804
+ID,Indonesia,2002,top_1pct,0.1924
+ID,Indonesia,2002,top_50pct,0.952
+ID,Indonesia,2003,bottom_10pct,-0.0014
+ID,Indonesia,2003,bottom_50pct,0.0463
+ID,Indonesia,2003,top_10pct,0.5802
+ID,Indonesia,2003,top_1pct,0.1905
+ID,Indonesia,2003,top_50pct,0.9537
+ID,Indonesia,2004,bottom_10pct,-0.0016
+ID,Indonesia,2004,bottom_50pct,0.0446
+ID,Indonesia,2004,top_10pct,0.5804
+ID,Indonesia,2004,top_1pct,0.1894
+ID,Indonesia,2004,top_50pct,0.9554
+ID,Indonesia,2005,bottom_10pct,-0.0019
+ID,Indonesia,2005,bottom_50pct,0.0429
+ID,Indonesia,2005,top_10pct,0.5808
+ID,Indonesia,2005,top_1pct,0.1886
+ID,Indonesia,2005,top_50pct,0.9571
+ID,Indonesia,2006,bottom_10pct,-0.0021
+ID,Indonesia,2006,bottom_50pct,0.0412
+ID,Indonesia,2006,top_10pct,0.5803
+ID,Indonesia,2006,top_1pct,0.186
+ID,Indonesia,2006,top_50pct,0.9588
+ID,Indonesia,2007,bottom_10pct,-0.0024
+ID,Indonesia,2007,bottom_50pct,0.0396
+ID,Indonesia,2007,top_10pct,0.5797
+ID,Indonesia,2007,top_1pct,0.1834
+ID,Indonesia,2007,top_50pct,0.9604
+ID,Indonesia,2008,bottom_10pct,-0.0035
+ID,Indonesia,2008,bottom_50pct,0.0377
+ID,Indonesia,2008,top_10pct,0.5809000000000001
+ID,Indonesia,2008,top_1pct,0.185
+ID,Indonesia,2008,top_50pct,0.9623
+ID,Indonesia,2009,bottom_10pct,-0.0047
+ID,Indonesia,2009,bottom_50pct,0.0361
+ID,Indonesia,2009,top_10pct,0.5789000000000001
+ID,Indonesia,2009,top_1pct,0.1808
+ID,Indonesia,2009,top_50pct,0.9639
+ID,Indonesia,2010,bottom_10pct,-0.0058
+ID,Indonesia,2010,bottom_50pct,0.0344
+ID,Indonesia,2010,top_10pct,0.5791000000000001
+ID,Indonesia,2010,top_1pct,0.1807
+ID,Indonesia,2010,top_50pct,0.9656
+ID,Indonesia,2011,bottom_10pct,-0.0069
+ID,Indonesia,2011,bottom_50pct,0.0325
+ID,Indonesia,2011,top_10pct,0.5808
+ID,Indonesia,2011,top_1pct,0.1834
+ID,Indonesia,2011,top_50pct,0.9675
+ID,Indonesia,2012,bottom_10pct,-0.008
+ID,Indonesia,2012,bottom_50pct,0.0308
+ID,Indonesia,2012,top_10pct,0.5808
+ID,Indonesia,2012,top_1pct,0.1831
+ID,Indonesia,2012,top_50pct,0.9692
+ID,Indonesia,2013,bottom_10pct,-0.0091
+ID,Indonesia,2013,bottom_50pct,0.029
+ID,Indonesia,2013,top_10pct,0.5827
+ID,Indonesia,2013,top_1pct,0.1864
+ID,Indonesia,2013,top_50pct,0.971
+ID,Indonesia,2014,bottom_10pct,-0.0102
+ID,Indonesia,2014,bottom_50pct,0.0274
+ID,Indonesia,2014,top_10pct,0.5809000000000001
+ID,Indonesia,2014,top_1pct,0.1824
+ID,Indonesia,2014,top_50pct,0.9726
+ID,Indonesia,2015,bottom_10pct,-0.0102
+ID,Indonesia,2015,bottom_50pct,0.0272
+ID,Indonesia,2015,top_10pct,0.5836
+ID,Indonesia,2015,top_1pct,0.1845
+ID,Indonesia,2015,top_50pct,0.9728
+ID,Indonesia,2016,bottom_10pct,-0.0103
+ID,Indonesia,2016,bottom_50pct,0.0275
+ID,Indonesia,2016,top_10pct,0.5789000000000001
+ID,Indonesia,2016,top_1pct,0.1791
+ID,Indonesia,2016,top_50pct,0.9725
+ID,Indonesia,2017,bottom_10pct,-0.0104
+ID,Indonesia,2017,bottom_50pct,0.0277
+ID,Indonesia,2017,top_10pct,0.5769000000000001
+ID,Indonesia,2017,top_1pct,0.178
+ID,Indonesia,2017,top_50pct,0.9723
+ID,Indonesia,2018,bottom_10pct,-0.0101
+ID,Indonesia,2018,bottom_50pct,0.0266
+ID,Indonesia,2018,top_10pct,0.5906
+ID,Indonesia,2018,top_1pct,0.1924
+ID,Indonesia,2018,top_50pct,0.9734
+ID,Indonesia,2019,bottom_10pct,-0.0101
+ID,Indonesia,2019,bottom_50pct,0.0266
+ID,Indonesia,2019,top_10pct,0.5902000000000001
+ID,Indonesia,2019,top_1pct,0.1916
+ID,Indonesia,2019,top_50pct,0.9734
+ID,Indonesia,2020,bottom_10pct,-0.0101
+ID,Indonesia,2020,bottom_50pct,0.0268
+ID,Indonesia,2020,top_10pct,0.5868
+ID,Indonesia,2020,top_1pct,0.1849
+ID,Indonesia,2020,top_50pct,0.9732
+ID,Indonesia,2021,bottom_10pct,-0.01
+ID,Indonesia,2021,bottom_50pct,0.0265
+ID,Indonesia,2021,top_10pct,0.5910000000000001
+ID,Indonesia,2021,top_1pct,0.1932
+ID,Indonesia,2021,top_50pct,0.9735
+ID,Indonesia,2022,bottom_10pct,-0.01
+ID,Indonesia,2022,bottom_50pct,0.0264
+ID,Indonesia,2022,top_10pct,0.5923
+ID,Indonesia,2022,top_1pct,0.1958
+ID,Indonesia,2022,top_50pct,0.9736
+ID,Indonesia,2023,bottom_10pct,-0.01
+ID,Indonesia,2023,bottom_50pct,0.0263
+ID,Indonesia,2023,top_10pct,0.5942000000000001
+ID,Indonesia,2023,top_1pct,0.1995
+ID,Indonesia,2023,top_50pct,0.9737
+IN,India,1995,bottom_10pct,-0.0062
+IN,India,1995,bottom_50pct,0.0701
+IN,India,1995,top_10pct,0.5632
+IN,India,1995,top_1pct,0.244
+IN,India,1995,top_50pct,0.9299
+IN,India,1996,bottom_10pct,-0.0063
+IN,India,1996,bottom_50pct,0.0701
+IN,India,1996,top_10pct,0.5628000000000001
+IN,India,1996,top_1pct,0.2435
+IN,India,1996,top_50pct,0.9299
+IN,India,1997,bottom_10pct,-0.0062
+IN,India,1997,bottom_50pct,0.07
+IN,India,1997,top_10pct,0.5639000000000001
+IN,India,1997,top_1pct,0.2449
+IN,India,1997,top_50pct,0.93
+IN,India,1998,bottom_10pct,-0.0062
+IN,India,1998,bottom_50pct,0.07
+IN,India,1998,top_10pct,0.5646
+IN,India,1998,top_1pct,0.2458
+IN,India,1998,top_50pct,0.93
+IN,India,1999,bottom_10pct,-0.0061
+IN,India,1999,bottom_50pct,0.0699
+IN,India,1999,top_10pct,0.5651
+IN,India,1999,top_1pct,0.2464
+IN,India,1999,top_50pct,0.9301
+IN,India,2000,bottom_10pct,-0.0061
+IN,India,2000,bottom_50pct,0.0699
+IN,India,2000,top_10pct,0.5657
+IN,India,2000,top_1pct,0.2472
+IN,India,2000,top_50pct,0.9301
+IN,India,2001,bottom_10pct,-0.006
+IN,India,2001,bottom_50pct,0.0696
+IN,India,2001,top_10pct,0.5680000000000001
+IN,India,2001,top_1pct,0.2501
+IN,India,2001,top_50pct,0.9304
+IN,India,2002,bottom_10pct,-0.0059
+IN,India,2002,bottom_50pct,0.0693
+IN,India,2002,top_10pct,0.5715
+IN,India,2002,top_1pct,0.2545
+IN,India,2002,top_50pct,0.9307
+IN,India,2003,bottom_10pct,-0.0059
+IN,India,2003,bottom_50pct,0.0696
+IN,India,2003,top_10pct,0.5694
+IN,India,2003,top_1pct,0.2512
+IN,India,2003,top_50pct,0.9304
+IN,India,2004,bottom_10pct,-0.0058
+IN,India,2004,bottom_50pct,0.0681
+IN,India,2004,top_10pct,0.5789000000000001
+IN,India,2004,top_1pct,0.2676
+IN,India,2004,top_50pct,0.9319
+IN,India,2005,bottom_10pct,-0.0057
+IN,India,2005,bottom_50pct,0.0676
+IN,India,2005,top_10pct,0.5820000000000001
+IN,India,2005,top_1pct,0.2728
+IN,India,2005,top_50pct,0.9324
+IN,India,2006,bottom_10pct,-0.0055
+IN,India,2006,bottom_50pct,0.0652
+IN,India,2006,top_10pct,0.5968
+IN,India,2006,top_1pct,0.2988
+IN,India,2006,top_50pct,0.9348
+IN,India,2007,bottom_10pct,-0.0052
+IN,India,2007,bottom_50pct,0.0614
+IN,India,2007,top_10pct,0.6206
+IN,India,2007,top_1pct,0.3401
+IN,India,2007,top_50pct,0.9386
+IN,India,2008,bottom_10pct,-0.0003
+IN,India,2008,bottom_50pct,0.0633
+IN,India,2008,top_10pct,0.6313000000000001
+IN,India,2008,top_1pct,0.3136
+IN,India,2008,top_50pct,0.9367
+IN,India,2009,bottom_10pct,-0.0003
+IN,India,2009,bottom_50pct,0.0658
+IN,India,2009,top_10pct,0.6171
+IN,India,2009,top_1pct,0.2871
+IN,India,2009,top_50pct,0.9342
+IN,India,2010,bottom_10pct,-0.0003
+IN,India,2010,bottom_50pct,0.063
+IN,India,2010,top_10pct,0.6336
+IN,India,2010,top_1pct,0.3178
+IN,India,2010,top_50pct,0.937
+IN,India,2011,bottom_10pct,-0.0002
+IN,India,2011,bottom_50pct,0.0615
+IN,India,2011,top_10pct,0.6418
+IN,India,2011,top_1pct,0.3331
+IN,India,2011,top_50pct,0.9385
+IN,India,2012,bottom_10pct,-0.0003
+IN,India,2012,bottom_50pct,0.0639
+IN,India,2012,top_10pct,0.6283000000000001
+IN,India,2012,top_1pct,0.308
+IN,India,2012,top_50pct,0.9361
+IN,India,2013,bottom_10pct,-0.0003
+IN,India,2013,bottom_50pct,0.0636
+IN,India,2013,top_10pct,0.6299
+IN,India,2013,top_1pct,0.3109
+IN,India,2013,top_50pct,0.9364
+IN,India,2014,bottom_10pct,-0.0003
+IN,India,2014,bottom_50pct,0.0642
+IN,India,2014,top_10pct,0.6262
+IN,India,2014,top_1pct,0.3042
+IN,India,2014,top_50pct,0.9358
+IN,India,2015,bottom_10pct,-0.0002
+IN,India,2015,bottom_50pct,0.0616
+IN,India,2015,top_10pct,0.6415000000000001
+IN,India,2015,top_1pct,0.3325
+IN,India,2015,top_50pct,0.9384
+IN,India,2016,bottom_10pct,-0.0002
+IN,India,2016,bottom_50pct,0.0622
+IN,India,2016,top_10pct,0.6378
+IN,India,2016,top_1pct,0.3257
+IN,India,2016,top_50pct,0.9378
+IN,India,2017,bottom_10pct,-0.0002
+IN,India,2017,bottom_50pct,0.0613
+IN,India,2017,top_10pct,0.6435000000000001
+IN,India,2017,top_1pct,0.3362
+IN,India,2017,top_50pct,0.9387
+IN,India,2018,bottom_10pct,-0.0014
+IN,India,2018,bottom_50pct,0.0671
+IN,India,2018,top_10pct,0.634
+IN,India,2018,top_1pct,0.3738
+IN,India,2018,top_50pct,0.9329
+IN,India,2019,bottom_10pct,-0.0014
+IN,India,2019,bottom_50pct,0.068
+IN,India,2019,top_10pct,0.6292
+IN,India,2019,top_1pct,0.3654
+IN,India,2019,top_50pct,0.932
+IN,India,2020,bottom_10pct,-0.0014
+IN,India,2020,bottom_50pct,0.0694
+IN,India,2020,top_10pct,0.6215
+IN,India,2020,top_1pct,0.3525
+IN,India,2020,top_50pct,0.9306
+IN,India,2021,bottom_10pct,-0.0014
+IN,India,2021,bottom_50pct,0.0654
+IN,India,2021,top_10pct,0.6437
+IN,India,2021,top_1pct,0.3904
+IN,India,2021,top_50pct,0.9346
+IN,India,2022,bottom_10pct,-0.0013
+IN,India,2022,bottom_50pct,0.0642
+IN,India,2022,top_10pct,0.6501
+IN,India,2022,top_1pct,0.4013
+IN,India,2022,top_50pct,0.9358
+IN,India,2023,bottom_10pct,-0.0013
+IN,India,2023,bottom_50pct,0.0642
+IN,India,2023,top_10pct,0.6501
+IN,India,2023,top_1pct,0.4014
+IN,India,2023,top_50pct,0.9358
+IT,Italy,1995,bottom_10pct,-0.0097
+IT,Italy,1995,bottom_50pct,0.1022
+IT,Italy,1995,top_10pct,0.4472
+IT,Italy,1995,top_1pct,0.1637
+IT,Italy,1995,top_50pct,0.8978
+IT,Italy,1996,bottom_10pct,-0.0106
+IT,Italy,1996,bottom_50pct,0.0995
+IT,Italy,1996,top_10pct,0.4545
+IT,Italy,1996,top_1pct,0.1653
+IT,Italy,1996,top_50pct,0.9005000000000001
+IT,Italy,1997,bottom_10pct,-0.0114
+IT,Italy,1997,bottom_50pct,0.0967
+IT,Italy,1997,top_10pct,0.4625
+IT,Italy,1997,top_1pct,0.1679
+IT,Italy,1997,top_50pct,0.9033
+IT,Italy,1998,bottom_10pct,-0.0122
+IT,Italy,1998,bottom_50pct,0.0938
+IT,Italy,1998,top_10pct,0.4711
+IT,Italy,1998,top_1pct,0.1715
+IT,Italy,1998,top_50pct,0.9062
+IT,Italy,1999,bottom_10pct,-0.0121
+IT,Italy,1999,bottom_50pct,0.0902
+IT,Italy,1999,top_10pct,0.4698
+IT,Italy,1999,top_1pct,0.1767
+IT,Italy,1999,top_50pct,0.9098
+IT,Italy,2000,bottom_10pct,-0.0118
+IT,Italy,2000,bottom_50pct,0.0861
+IT,Italy,2000,top_10pct,0.4725
+IT,Italy,2000,top_1pct,0.187
+IT,Italy,2000,top_50pct,0.9139
+IT,Italy,2001,bottom_10pct,-0.0132
+IT,Italy,2001,bottom_50pct,0.0747
+IT,Italy,2001,top_10pct,0.5287000000000001
+IT,Italy,2001,top_1pct,0.2033
+IT,Italy,2001,top_50pct,0.9253
+IT,Italy,2002,bottom_10pct,-0.0147
+IT,Italy,2002,bottom_50pct,0.0628
+IT,Italy,2002,top_10pct,0.5840000000000001
+IT,Italy,2002,top_1pct,0.2147
+IT,Italy,2002,top_50pct,0.9372
+IT,Italy,2003,bottom_10pct,-0.0142
+IT,Italy,2003,bottom_50pct,0.0667
+IT,Italy,2003,top_10pct,0.5895
+IT,Italy,2003,top_1pct,0.2093
+IT,Italy,2003,top_50pct,0.9333
+IT,Italy,2004,bottom_10pct,-0.0135
+IT,Italy,2004,bottom_50pct,0.0702
+IT,Italy,2004,top_10pct,0.5977
+IT,Italy,2004,top_1pct,0.2079
+IT,Italy,2004,top_50pct,0.9298
+IT,Italy,2005,bottom_10pct,-0.0149
+IT,Italy,2005,bottom_50pct,0.0641
+IT,Italy,2005,top_10pct,0.5746
+IT,Italy,2005,top_1pct,0.2126
+IT,Italy,2005,top_50pct,0.9359
+IT,Italy,2006,bottom_10pct,-0.016
+IT,Italy,2006,bottom_50pct,0.0575
+IT,Italy,2006,top_10pct,0.5547000000000001
+IT,Italy,2006,top_1pct,0.2184
+IT,Italy,2006,top_50pct,0.9425
+IT,Italy,2007,bottom_10pct,-0.0182
+IT,Italy,2007,bottom_50pct,0.0515
+IT,Italy,2007,top_10pct,0.551
+IT,Italy,2007,top_1pct,0.2121
+IT,Italy,2007,top_50pct,0.9485
+IT,Italy,2008,bottom_10pct,-0.0206
+IT,Italy,2008,bottom_50pct,0.0451
+IT,Italy,2008,top_10pct,0.5461
+IT,Italy,2008,top_1pct,0.2061
+IT,Italy,2008,top_50pct,0.9549
+IT,Italy,2009,bottom_10pct,-0.0247
+IT,Italy,2009,bottom_50pct,0.0377
+IT,Italy,2009,top_10pct,0.5563
+IT,Italy,2009,top_1pct,0.2072
+IT,Italy,2009,top_50pct,0.9623
+IT,Italy,2010,bottom_10pct,-0.0286
+IT,Italy,2010,bottom_50pct,0.0295
+IT,Italy,2010,top_10pct,0.5740000000000001
+IT,Italy,2010,top_1pct,0.2206
+IT,Italy,2010,top_50pct,0.9705
+IT,Italy,2011,bottom_10pct,-0.0296
+IT,Italy,2011,bottom_50pct,0.0234
+IT,Italy,2011,top_10pct,0.5803
+IT,Italy,2011,top_1pct,0.2204
+IT,Italy,2011,top_50pct,0.9766
+IT,Italy,2012,bottom_10pct,-0.0303
+IT,Italy,2012,bottom_50pct,0.0164
+IT,Italy,2012,top_10pct,0.5948
+IT,Italy,2012,top_1pct,0.2355
+IT,Italy,2012,top_50pct,0.9836
+IT,Italy,2013,bottom_10pct,-0.0286
+IT,Italy,2013,bottom_50pct,0.0209
+IT,Italy,2013,top_10pct,0.5845
+IT,Italy,2013,top_1pct,0.2348
+IT,Italy,2013,top_50pct,0.9791
+IT,Italy,2014,bottom_10pct,-0.026
+IT,Italy,2014,bottom_50pct,0.0247
+IT,Italy,2014,top_10pct,0.5854
+IT,Italy,2014,top_1pct,0.2552
+IT,Italy,2014,top_50pct,0.9753
+IT,Italy,2015,bottom_10pct,-0.0268
+IT,Italy,2015,bottom_50pct,0.0256
+IT,Italy,2015,top_10pct,0.5637
+IT,Italy,2015,top_1pct,0.2226
+IT,Italy,2015,top_50pct,0.9744
+IT,Italy,2016,bottom_10pct,-0.0264
+IT,Italy,2016,bottom_50pct,0.0254
+IT,Italy,2016,top_10pct,0.5608000000000001
+IT,Italy,2016,top_1pct,0.22
+IT,Italy,2016,top_50pct,0.9746
+IT,Italy,2017,bottom_10pct,-0.0263
+IT,Italy,2017,bottom_50pct,0.0254
+IT,Italy,2017,top_10pct,0.5619000000000001
+IT,Italy,2017,top_1pct,0.2211
+IT,Italy,2017,top_50pct,0.9746
+IT,Italy,2018,bottom_10pct,-0.0263
+IT,Italy,2018,bottom_50pct,0.0254
+IT,Italy,2018,top_10pct,0.5618000000000001
+IT,Italy,2018,top_1pct,0.2211
+IT,Italy,2018,top_50pct,0.9746
+IT,Italy,2019,bottom_10pct,-0.0263
+IT,Italy,2019,bottom_50pct,0.0254
+IT,Italy,2019,top_10pct,0.5616
+IT,Italy,2019,top_1pct,0.2208
+IT,Italy,2019,top_50pct,0.9746
+IT,Italy,2020,bottom_10pct,-0.0264
+IT,Italy,2020,bottom_50pct,0.0254
+IT,Italy,2020,top_10pct,0.5613
+IT,Italy,2020,top_1pct,0.2205
+IT,Italy,2020,top_50pct,0.9746
+IT,Italy,2021,bottom_10pct,-0.0264
+IT,Italy,2021,bottom_50pct,0.0254
+IT,Italy,2021,top_10pct,0.5613
+IT,Italy,2021,top_1pct,0.2206
+IT,Italy,2021,top_50pct,0.9746
+IT,Italy,2022,bottom_10pct,-0.0264
+IT,Italy,2022,bottom_50pct,0.0254
+IT,Italy,2022,top_10pct,0.5614
+IT,Italy,2022,top_1pct,0.2206
+IT,Italy,2022,top_50pct,0.9746
+IT,Italy,2023,bottom_10pct,-0.0264
+IT,Italy,2023,bottom_50pct,0.0254
+IT,Italy,2023,top_10pct,0.5614
+IT,Italy,2023,top_1pct,0.2206
+IT,Italy,2023,top_50pct,0.9746
+JP,Japan,1995,bottom_10pct,-0.0152
+JP,Japan,1995,bottom_50pct,0.0407
+JP,Japan,1995,top_10pct,0.5834
+JP,Japan,1995,top_1pct,0.2368
+JP,Japan,1995,top_50pct,0.9593
+JP,Japan,1996,bottom_10pct,-0.0151
+JP,Japan,1996,bottom_50pct,0.0406
+JP,Japan,1996,top_10pct,0.5851000000000001
+JP,Japan,1996,top_1pct,0.2388
+JP,Japan,1996,top_50pct,0.9594
+JP,Japan,1997,bottom_10pct,-0.0152
+JP,Japan,1997,bottom_50pct,0.0407
+JP,Japan,1997,top_10pct,0.5844
+JP,Japan,1997,top_1pct,0.2378
+JP,Japan,1997,top_50pct,0.9593
+JP,Japan,1998,bottom_10pct,-0.0151
+JP,Japan,1998,bottom_50pct,0.0406
+JP,Japan,1998,top_10pct,0.5851000000000001
+JP,Japan,1998,top_1pct,0.2386
+JP,Japan,1998,top_50pct,0.9594
+JP,Japan,1999,bottom_10pct,-0.015
+JP,Japan,1999,bottom_50pct,0.0406
+JP,Japan,1999,top_10pct,0.5860000000000001
+JP,Japan,1999,top_1pct,0.2396
+JP,Japan,1999,top_50pct,0.9594
+JP,Japan,2000,bottom_10pct,-0.0149
+JP,Japan,2000,bottom_50pct,0.0405
+JP,Japan,2000,top_10pct,0.5880000000000001
+JP,Japan,2000,top_1pct,0.2422
+JP,Japan,2000,top_50pct,0.9595
+JP,Japan,2001,bottom_10pct,-0.0149
+JP,Japan,2001,bottom_50pct,0.0404
+JP,Japan,2001,top_10pct,0.5888
+JP,Japan,2001,top_1pct,0.2426
+JP,Japan,2001,top_50pct,0.9596
+JP,Japan,2002,bottom_10pct,-0.0148
+JP,Japan,2002,bottom_50pct,0.0403
+JP,Japan,2002,top_10pct,0.5908
+JP,Japan,2002,top_1pct,0.2447
+JP,Japan,2002,top_50pct,0.9597
+JP,Japan,2003,bottom_10pct,-0.0147
+JP,Japan,2003,bottom_50pct,0.0402
+JP,Japan,2003,top_10pct,0.5925
+JP,Japan,2003,top_1pct,0.2466
+JP,Japan,2003,top_50pct,0.9598
+JP,Japan,2004,bottom_10pct,-0.0146
+JP,Japan,2004,bottom_50pct,0.04
+JP,Japan,2004,top_10pct,0.5948
+JP,Japan,2004,top_1pct,0.2491
+JP,Japan,2004,top_50pct,0.96
+JP,Japan,2005,bottom_10pct,-0.0146
+JP,Japan,2005,bottom_50pct,0.04
+JP,Japan,2005,top_10pct,0.5952000000000001
+JP,Japan,2005,top_1pct,0.2495
+JP,Japan,2005,top_50pct,0.96
+JP,Japan,2006,bottom_10pct,-0.0145
+JP,Japan,2006,bottom_50pct,0.0399
+JP,Japan,2006,top_10pct,0.5956
+JP,Japan,2006,top_1pct,0.25
+JP,Japan,2006,top_50pct,0.9601
+JP,Japan,2007,bottom_10pct,-0.0145
+JP,Japan,2007,bottom_50pct,0.0399
+JP,Japan,2007,top_10pct,0.5961000000000001
+JP,Japan,2007,top_1pct,0.2505
+JP,Japan,2007,top_50pct,0.9601
+JP,Japan,2008,bottom_10pct,-0.0146
+JP,Japan,2008,bottom_50pct,0.04
+JP,Japan,2008,top_10pct,0.5943
+JP,Japan,2008,top_1pct,0.2485
+JP,Japan,2008,top_50pct,0.96
+JP,Japan,2009,bottom_10pct,-0.0147
+JP,Japan,2009,bottom_50pct,0.0402
+JP,Japan,2009,top_10pct,0.5917
+JP,Japan,2009,top_1pct,0.2457
+JP,Japan,2009,top_50pct,0.9598
+JP,Japan,2010,bottom_10pct,-0.0147
+JP,Japan,2010,bottom_50pct,0.0401
+JP,Japan,2010,top_10pct,0.5932000000000001
+JP,Japan,2010,top_1pct,0.2473
+JP,Japan,2010,top_50pct,0.9599
+JP,Japan,2011,bottom_10pct,-0.0147
+JP,Japan,2011,bottom_50pct,0.0401
+JP,Japan,2011,top_10pct,0.5930000000000001
+JP,Japan,2011,top_1pct,0.2471
+JP,Japan,2011,top_50pct,0.9599
+JP,Japan,2012,bottom_10pct,-0.0147
+JP,Japan,2012,bottom_50pct,0.0401
+JP,Japan,2012,top_10pct,0.5931000000000001
+JP,Japan,2012,top_1pct,0.2472
+JP,Japan,2012,top_50pct,0.9599
+JP,Japan,2013,bottom_10pct,-0.0146
+JP,Japan,2013,bottom_50pct,0.0401
+JP,Japan,2013,top_10pct,0.5934
+JP,Japan,2013,top_1pct,0.2476
+JP,Japan,2013,top_50pct,0.9599
+JP,Japan,2014,bottom_10pct,-0.0146
+JP,Japan,2014,bottom_50pct,0.0401
+JP,Japan,2014,top_10pct,0.5934
+JP,Japan,2014,top_1pct,0.2475
+JP,Japan,2014,top_50pct,0.9599
+JP,Japan,2015,bottom_10pct,-0.0146
+JP,Japan,2015,bottom_50pct,0.0401
+JP,Japan,2015,top_10pct,0.5936
+JP,Japan,2015,top_1pct,0.2477
+JP,Japan,2015,top_50pct,0.9599
+JP,Japan,2016,bottom_10pct,-0.0146
+JP,Japan,2016,bottom_50pct,0.0401
+JP,Japan,2016,top_10pct,0.5935
+JP,Japan,2016,top_1pct,0.2476
+JP,Japan,2016,top_50pct,0.9599
+JP,Japan,2017,bottom_10pct,-0.0147
+JP,Japan,2017,bottom_50pct,0.0401
+JP,Japan,2017,top_10pct,0.5933
+JP,Japan,2017,top_1pct,0.2475
+JP,Japan,2017,top_50pct,0.9599
+JP,Japan,2018,bottom_10pct,-0.0147
+JP,Japan,2018,bottom_50pct,0.0401
+JP,Japan,2018,top_10pct,0.5933
+JP,Japan,2018,top_1pct,0.2474
+JP,Japan,2018,top_50pct,0.9599
+JP,Japan,2019,bottom_10pct,-0.0147
+JP,Japan,2019,bottom_50pct,0.0401
+JP,Japan,2019,top_10pct,0.5933
+JP,Japan,2019,top_1pct,0.2475
+JP,Japan,2019,top_50pct,0.9599
+JP,Japan,2020,bottom_10pct,-0.0147
+JP,Japan,2020,bottom_50pct,0.0401
+JP,Japan,2020,top_10pct,0.5934
+JP,Japan,2020,top_1pct,0.2475
+JP,Japan,2020,top_50pct,0.9599
+JP,Japan,2021,bottom_10pct,-0.0147
+JP,Japan,2021,bottom_50pct,0.0401
+JP,Japan,2021,top_10pct,0.5933
+JP,Japan,2021,top_1pct,0.2474
+JP,Japan,2021,top_50pct,0.9599
+JP,Japan,2022,bottom_10pct,-0.0147
+JP,Japan,2022,bottom_50pct,0.0401
+JP,Japan,2022,top_10pct,0.5934
+JP,Japan,2022,top_1pct,0.2475
+JP,Japan,2022,top_50pct,0.9599
+JP,Japan,2023,bottom_10pct,-0.0147
+JP,Japan,2023,bottom_50pct,0.0401
+JP,Japan,2023,top_10pct,0.5934
+JP,Japan,2023,top_1pct,0.2475
+JP,Japan,2023,top_50pct,0.9599
+KR,South Korea,1995,bottom_50pct,0.0258
+KR,South Korea,1995,top_10pct,0.6465000000000001
+KR,South Korea,1995,top_1pct,0.2354
+KR,South Korea,1995,top_50pct,0.9742
+KR,South Korea,1996,bottom_50pct,0.0258
+KR,South Korea,1996,top_10pct,0.6459
+KR,South Korea,1996,top_1pct,0.2343
+KR,South Korea,1996,top_50pct,0.9742
+KR,South Korea,1997,bottom_50pct,0.026
+KR,South Korea,1997,top_10pct,0.6436000000000001
+KR,South Korea,1997,top_1pct,0.2292
+KR,South Korea,1997,top_50pct,0.974
+KR,South Korea,1998,bottom_50pct,0.0262
+KR,South Korea,1998,top_10pct,0.6403
+KR,South Korea,1998,top_1pct,0.2221
+KR,South Korea,1998,top_50pct,0.9738
+KR,South Korea,1999,bottom_50pct,0.0262
+KR,South Korea,1999,top_10pct,0.6409
+KR,South Korea,1999,top_1pct,0.2232
+KR,South Korea,1999,top_50pct,0.9738
+KR,South Korea,2000,bottom_50pct,0.0262
+KR,South Korea,2000,bottom_50pct,0.0262
+KR,South Korea,2000,top_10pct,0.6406000000000001
+KR,South Korea,2000,top_10pct,0.64
+KR,South Korea,2000,top_1pct,0.2224
+KR,South Korea,2000,top_1pct,0.2211
+KR,South Korea,2000,top_50pct,0.9738
+KR,South Korea,2000,top_50pct,0.9738
+KR,South Korea,2001,bottom_50pct,0.027
+KR,South Korea,2001,bottom_50pct,0.027
+KR,South Korea,2001,top_10pct,0.6488
+KR,South Korea,2001,top_10pct,0.6482
+KR,South Korea,2001,top_1pct,0.2426
+KR,South Korea,2001,top_1pct,0.2413
+KR,South Korea,2001,top_50pct,0.973
+KR,South Korea,2001,top_50pct,0.973
+KR,South Korea,2002,bottom_50pct,0.0228
+KR,South Korea,2002,bottom_50pct,0.0228
+KR,South Korea,2002,top_10pct,0.6377
+KR,South Korea,2002,top_10pct,0.6367
+KR,South Korea,2002,top_1pct,0.2212
+KR,South Korea,2002,top_1pct,0.2192
+KR,South Korea,2002,top_50pct,0.9772
+KR,South Korea,2002,top_50pct,0.9772
+KR,South Korea,2003,bottom_50pct,0.0232
+KR,South Korea,2003,bottom_50pct,0.0231
+KR,South Korea,2003,top_10pct,0.6546000000000001
+KR,South Korea,2003,top_10pct,0.6536
+KR,South Korea,2003,top_1pct,0.2401
+KR,South Korea,2003,top_1pct,0.2378
+KR,South Korea,2003,top_50pct,0.9769
+KR,South Korea,2003,top_50pct,0.9768
+KR,South Korea,2004,bottom_50pct,0.0213
+KR,South Korea,2004,bottom_50pct,0.0212
+KR,South Korea,2004,top_10pct,0.6365000000000001
+KR,South Korea,2004,top_10pct,0.6355
+KR,South Korea,2004,top_1pct,0.2534
+KR,South Korea,2004,top_1pct,0.2512
+KR,South Korea,2004,top_50pct,0.9788
+KR,South Korea,2004,top_50pct,0.9787
+KR,South Korea,2005,bottom_50pct,0.0216
+KR,South Korea,2005,bottom_50pct,0.0215
+KR,South Korea,2005,top_10pct,0.6536000000000001
+KR,South Korea,2005,top_10pct,0.6525
+KR,South Korea,2005,top_1pct,0.2717
+KR,South Korea,2005,top_1pct,0.2694
+KR,South Korea,2005,top_50pct,0.9785
+KR,South Korea,2005,top_50pct,0.9784
+KR,South Korea,2006,bottom_10pct,0.0001
+KR,South Korea,2006,bottom_50pct,0.0213
+KR,South Korea,2006,bottom_50pct,0.0212
+KR,South Korea,2006,top_10pct,0.5898
+KR,South Korea,2006,top_10pct,0.5877
+KR,South Korea,2006,top_1pct,0.2218
+KR,South Korea,2006,top_1pct,0.2179
+KR,South Korea,2006,top_50pct,0.9788
+KR,South Korea,2006,top_50pct,0.9787
+KR,South Korea,2007,bottom_50pct,0.0191
+KR,South Korea,2007,bottom_50pct,0.019
+KR,South Korea,2007,top_10pct,0.6116
+KR,South Korea,2007,top_10pct,0.6106
+KR,South Korea,2007,top_1pct,0.2598
+KR,South Korea,2007,top_1pct,0.2578
+KR,South Korea,2007,top_50pct,0.981
+KR,South Korea,2007,top_50pct,0.9809
+KR,South Korea,2008,bottom_50pct,0.017
+KR,South Korea,2008,top_10pct,0.6302
+KR,South Korea,2008,top_1pct,0.2592
+KR,South Korea,2008,top_50pct,0.983
+KR,South Korea,2009,bottom_10pct,-0.0001
+KR,South Korea,2009,bottom_50pct,0.015
+KR,South Korea,2009,top_10pct,0.6454000000000001
+KR,South Korea,2009,top_1pct,0.2524
+KR,South Korea,2009,top_50pct,0.985
+KR,South Korea,2010,bottom_50pct,0.0127
+KR,South Korea,2010,bottom_50pct,0.0126
+KR,South Korea,2010,top_10pct,0.6684
+KR,South Korea,2010,top_10pct,0.6658
+KR,South Korea,2010,top_1pct,0.2577
+KR,South Korea,2010,top_1pct,0.2519
+KR,South Korea,2010,top_50pct,0.9874
+KR,South Korea,2010,top_50pct,0.9873
+KR,South Korea,2011,bottom_50pct,0.0159
+KR,South Korea,2011,bottom_50pct,0.0157
+KR,South Korea,2011,top_10pct,0.6273000000000001
+KR,South Korea,2011,top_10pct,0.6228
+KR,South Korea,2011,top_1pct,0.2416
+KR,South Korea,2011,top_1pct,0.2324
+KR,South Korea,2011,top_50pct,0.9843
+KR,South Korea,2011,top_50pct,0.9841
+KR,South Korea,2012,bottom_50pct,0.018
+KR,South Korea,2012,bottom_50pct,0.0178
+KR,South Korea,2012,top_10pct,0.6763
+KR,South Korea,2012,top_10pct,0.6721
+KR,South Korea,2012,top_1pct,0.2786
+KR,South Korea,2012,top_1pct,0.2692
+KR,South Korea,2012,top_50pct,0.9822
+KR,South Korea,2012,top_50pct,0.982
+KR,South Korea,2013,bottom_50pct,0.018
+KR,South Korea,2013,bottom_50pct,0.0178
+KR,South Korea,2013,top_10pct,0.6618
+KR,South Korea,2013,top_10pct,0.6567
+KR,South Korea,2013,top_1pct,0.261
+KR,South Korea,2013,top_1pct,0.2498
+KR,South Korea,2013,top_50pct,0.9822
+KR,South Korea,2013,top_50pct,0.982
+KR,South Korea,2014,bottom_10pct,0.0001
+KR,South Korea,2014,bottom_50pct,0.0177
+KR,South Korea,2014,top_10pct,0.6624
+KR,South Korea,2014,top_1pct,0.2614
+KR,South Korea,2014,top_50pct,0.9823
+KR,South Korea,2015,bottom_10pct,0.0002
+KR,South Korea,2015,bottom_50pct,0.0177
+KR,South Korea,2015,top_10pct,0.6641
+KR,South Korea,2015,top_1pct,0.2637
+KR,South Korea,2015,top_50pct,0.9823
+KR,South Korea,2016,bottom_10pct,0.0002
+KR,South Korea,2016,bottom_50pct,0.0176
+KR,South Korea,2016,top_10pct,0.6652
+KR,South Korea,2016,top_1pct,0.2645
+KR,South Korea,2016,top_50pct,0.9824
+KR,South Korea,2017,bottom_10pct,0.0003
+KR,South Korea,2017,bottom_50pct,0.0175
+KR,South Korea,2017,top_10pct,0.6673
+KR,South Korea,2017,top_1pct,0.2675
+KR,South Korea,2017,top_50pct,0.9825
+KR,South Korea,2018,bottom_10pct,0.0003
+KR,South Korea,2018,bottom_50pct,0.0174
+KR,South Korea,2018,top_10pct,0.6691
+KR,South Korea,2018,top_1pct,0.2713
+KR,South Korea,2018,top_50pct,0.9826
+KR,South Korea,2019,bottom_10pct,0.0001
+KR,South Korea,2019,bottom_50pct,0.0177
+KR,South Korea,2019,top_10pct,0.6632
+KR,South Korea,2019,top_1pct,0.2632
+KR,South Korea,2019,top_50pct,0.9823
+KR,South Korea,2020,bottom_10pct,0.0001
+KR,South Korea,2020,bottom_50pct,0.0178
+KR,South Korea,2020,top_10pct,0.6608
+KR,South Korea,2020,top_1pct,0.2584
+KR,South Korea,2020,top_50pct,0.9822
+KR,South Korea,2021,bottom_50pct,0.0177
+KR,South Korea,2021,top_10pct,0.6622
+KR,South Korea,2021,top_1pct,0.2622
+KR,South Korea,2021,top_50pct,0.9823
+KR,South Korea,2022,bottom_50pct,0.0178
+KR,South Korea,2022,top_10pct,0.661
+KR,South Korea,2022,top_1pct,0.2595
+KR,South Korea,2022,top_50pct,0.9822
+KR,South Korea,2023,bottom_50pct,0.0179
+KR,South Korea,2023,top_10pct,0.6595000000000001
+KR,South Korea,2023,top_1pct,0.2563
+KR,South Korea,2023,top_50pct,0.9821
+MX,Mexico,1995,bottom_10pct,-0.015
+MX,Mexico,1995,bottom_50pct,0.0308
+MX,Mexico,1995,top_10pct,0.661
+MX,Mexico,1995,top_1pct,0.325
+MX,Mexico,1995,top_50pct,0.9692
+MX,Mexico,1996,bottom_10pct,-0.015
+MX,Mexico,1996,bottom_50pct,0.0308
+MX,Mexico,1996,top_10pct,0.6608
+MX,Mexico,1996,top_1pct,0.3248
+MX,Mexico,1996,top_50pct,0.9692
+MX,Mexico,1997,bottom_10pct,-0.015
+MX,Mexico,1997,bottom_50pct,0.0308
+MX,Mexico,1997,top_10pct,0.6608
+MX,Mexico,1997,top_1pct,0.3248
+MX,Mexico,1997,top_50pct,0.9692
+MX,Mexico,1998,bottom_10pct,-0.015
+MX,Mexico,1998,bottom_50pct,0.0308
+MX,Mexico,1998,top_10pct,0.661
+MX,Mexico,1998,top_1pct,0.3249
+MX,Mexico,1998,top_50pct,0.9692
+MX,Mexico,1999,bottom_10pct,-0.015
+MX,Mexico,1999,bottom_50pct,0.0308
+MX,Mexico,1999,top_10pct,0.6609
+MX,Mexico,1999,top_1pct,0.3248
+MX,Mexico,1999,top_50pct,0.9692
+MX,Mexico,2000,bottom_10pct,-0.015
+MX,Mexico,2000,bottom_50pct,0.0308
+MX,Mexico,2000,top_10pct,0.6609
+MX,Mexico,2000,top_1pct,0.3249
+MX,Mexico,2000,top_50pct,0.9692
+MX,Mexico,2001,bottom_10pct,-0.015
+MX,Mexico,2001,bottom_50pct,0.0308
+MX,Mexico,2001,top_10pct,0.661
+MX,Mexico,2001,top_1pct,0.325
+MX,Mexico,2001,top_50pct,0.9692
+MX,Mexico,2002,bottom_10pct,-0.015
+MX,Mexico,2002,bottom_50pct,0.0308
+MX,Mexico,2002,top_10pct,0.6609
+MX,Mexico,2002,top_1pct,0.3249
+MX,Mexico,2002,top_50pct,0.9692
+MX,Mexico,2003,bottom_10pct,-0.0165
+MX,Mexico,2003,bottom_50pct,0.0256
+MX,Mexico,2003,top_10pct,0.6878000000000001
+MX,Mexico,2003,top_1pct,0.3563
+MX,Mexico,2003,top_50pct,0.9744
+MX,Mexico,2004,bottom_10pct,-0.0175
+MX,Mexico,2004,bottom_50pct,0.0228
+MX,Mexico,2004,top_10pct,0.7010000000000001
+MX,Mexico,2004,top_1pct,0.3716
+MX,Mexico,2004,top_50pct,0.9772
+MX,Mexico,2005,bottom_10pct,-0.0174
+MX,Mexico,2005,bottom_50pct,0.0232
+MX,Mexico,2005,top_10pct,0.6994
+MX,Mexico,2005,top_1pct,0.3698
+MX,Mexico,2005,top_50pct,0.9768
+MX,Mexico,2006,bottom_10pct,-0.0172
+MX,Mexico,2006,bottom_50pct,0.0235
+MX,Mexico,2006,top_10pct,0.6977
+MX,Mexico,2006,top_1pct,0.3679
+MX,Mexico,2006,top_50pct,0.9765
+MX,Mexico,2007,bottom_10pct,-0.018
+MX,Mexico,2007,bottom_50pct,0.0215
+MX,Mexico,2007,top_10pct,0.7068
+MX,Mexico,2007,top_1pct,0.3784
+MX,Mexico,2007,top_50pct,0.9785
+MX,Mexico,2008,bottom_10pct,-0.0183
+MX,Mexico,2008,bottom_50pct,0.0205
+MX,Mexico,2008,top_10pct,0.7114
+MX,Mexico,2008,top_1pct,0.3839
+MX,Mexico,2008,top_50pct,0.9795
+MX,Mexico,2009,bottom_10pct,-0.0182
+MX,Mexico,2009,bottom_50pct,0.021
+MX,Mexico,2009,top_10pct,0.7090000000000001
+MX,Mexico,2009,top_1pct,0.381
+MX,Mexico,2009,top_50pct,0.979
+MX,Mexico,2010,bottom_10pct,-0.018
+MX,Mexico,2010,bottom_50pct,0.0214
+MX,Mexico,2010,top_10pct,0.7076
+MX,Mexico,2010,top_1pct,0.3798
+MX,Mexico,2010,top_50pct,0.9786
+MX,Mexico,2011,bottom_10pct,-0.0179
+MX,Mexico,2011,bottom_50pct,0.0208
+MX,Mexico,2011,top_10pct,0.7128
+MX,Mexico,2011,top_1pct,0.3895
+MX,Mexico,2011,top_50pct,0.9792
+MX,Mexico,2012,bottom_10pct,-0.0179
+MX,Mexico,2012,bottom_50pct,0.0207
+MX,Mexico,2012,top_10pct,0.7138
+MX,Mexico,2012,top_1pct,0.3908
+MX,Mexico,2012,top_50pct,0.9793
+MX,Mexico,2013,bottom_10pct,-0.0178
+MX,Mexico,2013,bottom_50pct,0.0206
+MX,Mexico,2013,top_10pct,0.7145
+MX,Mexico,2013,top_1pct,0.3925
+MX,Mexico,2013,top_50pct,0.9794
+MX,Mexico,2014,bottom_10pct,-0.0178
+MX,Mexico,2014,bottom_50pct,0.0207
+MX,Mexico,2014,top_10pct,0.7143
+MX,Mexico,2014,top_1pct,0.3923
+MX,Mexico,2014,top_50pct,0.9793
+MX,Mexico,2015,bottom_10pct,-0.0177
+MX,Mexico,2015,bottom_50pct,0.0206
+MX,Mexico,2015,top_10pct,0.7160000000000001
+MX,Mexico,2015,top_1pct,0.396
+MX,Mexico,2015,top_50pct,0.9794
+MX,Mexico,2016,bottom_10pct,-0.0179
+MX,Mexico,2016,bottom_50pct,0.0208
+MX,Mexico,2016,top_10pct,0.7126
+MX,Mexico,2016,top_1pct,0.3889
+MX,Mexico,2016,top_50pct,0.9792
+MX,Mexico,2017,bottom_10pct,-0.0179
+MX,Mexico,2017,bottom_50pct,0.0203
+MX,Mexico,2017,top_10pct,0.7159
+MX,Mexico,2017,top_1pct,0.3943
+MX,Mexico,2017,top_50pct,0.9797
+MX,Mexico,2018,bottom_10pct,-0.018
+MX,Mexico,2018,bottom_50pct,0.0196
+MX,Mexico,2018,top_10pct,0.7210000000000001
+MX,Mexico,2018,top_1pct,0.4027
+MX,Mexico,2018,top_50pct,0.9804
+MX,Mexico,2019,bottom_10pct,-0.0179
+MX,Mexico,2019,bottom_50pct,0.0203
+MX,Mexico,2019,top_10pct,0.7166
+MX,Mexico,2019,top_1pct,0.3957
+MX,Mexico,2019,top_50pct,0.9797
+MX,Mexico,2020,bottom_10pct,-0.0179
+MX,Mexico,2020,bottom_50pct,0.0209
+MX,Mexico,2020,top_10pct,0.7123
+MX,Mexico,2020,top_1pct,0.3884
+MX,Mexico,2020,top_50pct,0.9791
+MX,Mexico,2021,bottom_10pct,-0.0175
+MX,Mexico,2021,bottom_50pct,0.0215
+MX,Mexico,2021,top_10pct,0.7106
+MX,Mexico,2021,top_1pct,0.388
+MX,Mexico,2021,top_50pct,0.9785
+MX,Mexico,2022,bottom_10pct,-0.017
+MX,Mexico,2022,bottom_50pct,0.0228
+MX,Mexico,2022,top_10pct,0.7048
+MX,Mexico,2022,top_1pct,0.3813
+MX,Mexico,2022,top_50pct,0.9772
+MX,Mexico,2023,bottom_10pct,-0.0172
+MX,Mexico,2023,bottom_50pct,0.023
+MX,Mexico,2023,top_10pct,0.7016
+MX,Mexico,2023,top_1pct,0.3747
+MX,Mexico,2023,top_50pct,0.977
+RU,Russia,1995,bottom_10pct,0.0001
+RU,Russia,1995,bottom_50pct,0.0854
+RU,Russia,1995,top_10pct,0.5255000000000001
+RU,Russia,1995,top_1pct,0.215
+RU,Russia,1995,top_50pct,0.9146
+RU,Russia,1996,bottom_10pct,0.0005
+RU,Russia,1996,bottom_50pct,0.0817
+RU,Russia,1996,top_10pct,0.5441
+RU,Russia,1996,top_1pct,0.2342
+RU,Russia,1996,top_50pct,0.9183
+RU,Russia,1997,bottom_10pct,0.0006
+RU,Russia,1997,bottom_50pct,0.0713
+RU,Russia,1997,top_10pct,0.5957
+RU,Russia,1997,top_1pct,0.3151
+RU,Russia,1997,top_50pct,0.9287
+RU,Russia,1998,bottom_10pct,0.0008
+RU,Russia,1998,bottom_50pct,0.0662
+RU,Russia,1998,top_10pct,0.624
+RU,Russia,1998,top_1pct,0.3574
+RU,Russia,1998,top_50pct,0.9338
+RU,Russia,1999,bottom_10pct,0.0009
+RU,Russia,1999,bottom_50pct,0.0608
+RU,Russia,1999,top_10pct,0.6574
+RU,Russia,1999,top_1pct,0.4125
+RU,Russia,1999,top_50pct,0.9392
+RU,Russia,2000,bottom_10pct,0.0008
+RU,Russia,2000,bottom_50pct,0.0624
+RU,Russia,2000,top_10pct,0.6465000000000001
+RU,Russia,2000,top_1pct,0.3918
+RU,Russia,2000,top_50pct,0.9376
+RU,Russia,2001,bottom_10pct,0.0005
+RU,Russia,2001,bottom_50pct,0.0581
+RU,Russia,2001,top_10pct,0.6674
+RU,Russia,2001,top_1pct,0.4289
+RU,Russia,2001,top_50pct,0.9419
+RU,Russia,2002,bottom_10pct,0.0002
+RU,Russia,2002,bottom_50pct,0.062
+RU,Russia,2002,top_10pct,0.643
+RU,Russia,2002,top_1pct,0.3848
+RU,Russia,2002,top_50pct,0.938
+RU,Russia,2003,bottom_10pct,0.0002
+RU,Russia,2003,bottom_50pct,0.0572
+RU,Russia,2003,top_10pct,0.6671
+RU,Russia,2003,top_1pct,0.4273
+RU,Russia,2003,top_50pct,0.9428
+RU,Russia,2004,bottom_10pct,-0.0014
+RU,Russia,2004,bottom_50pct,0.0555
+RU,Russia,2004,top_10pct,0.6702
+RU,Russia,2004,top_1pct,0.4308
+RU,Russia,2004,top_50pct,0.9445
+RU,Russia,2005,bottom_10pct,-0.0015
+RU,Russia,2005,bottom_50pct,0.0572
+RU,Russia,2005,top_10pct,0.6571
+RU,Russia,2005,top_1pct,0.4045
+RU,Russia,2005,top_50pct,0.9428
+RU,Russia,2006,bottom_10pct,-0.0019
+RU,Russia,2006,bottom_50pct,0.0589
+RU,Russia,2006,top_10pct,0.6383
+RU,Russia,2006,top_1pct,0.3672
+RU,Russia,2006,top_50pct,0.9411
+RU,Russia,2007,bottom_10pct,-0.0026
+RU,Russia,2007,bottom_50pct,0.0568
+RU,Russia,2007,top_10pct,0.6386000000000001
+RU,Russia,2007,top_1pct,0.3596
+RU,Russia,2007,top_50pct,0.9432
+RU,Russia,2008,bottom_10pct,-0.0039
+RU,Russia,2008,bottom_50pct,0.0494
+RU,Russia,2008,top_10pct,0.6644
+RU,Russia,2008,top_1pct,0.3932
+RU,Russia,2008,top_50pct,0.9506
+RU,Russia,2009,bottom_10pct,-0.0058
+RU,Russia,2009,bottom_50pct,0.051
+RU,Russia,2009,top_10pct,0.6288
+RU,Russia,2009,top_1pct,0.3175
+RU,Russia,2009,top_50pct,0.949
+RU,Russia,2010,bottom_10pct,-0.007
+RU,Russia,2010,bottom_50pct,0.0349
+RU,Russia,2010,top_10pct,0.6599
+RU,Russia,2010,top_1pct,0.3428
+RU,Russia,2010,top_50pct,0.9651
+RU,Russia,2011,bottom_10pct,-0.0062
+RU,Russia,2011,bottom_50pct,0.0342
+RU,Russia,2011,top_10pct,0.6831
+RU,Russia,2011,top_1pct,0.3598
+RU,Russia,2011,top_50pct,0.9658
+RU,Russia,2012,bottom_10pct,-0.0056
+RU,Russia,2012,bottom_50pct,0.0367
+RU,Russia,2012,top_10pct,0.6793
+RU,Russia,2012,top_1pct,0.3547
+RU,Russia,2012,top_50pct,0.9633
+RU,Russia,2013,bottom_10pct,-0.0047
+RU,Russia,2013,bottom_50pct,0.0383
+RU,Russia,2013,top_10pct,0.6785
+RU,Russia,2013,top_1pct,0.3546
+RU,Russia,2013,top_50pct,0.9617
+RU,Russia,2014,bottom_10pct,-0.004
+RU,Russia,2014,bottom_50pct,0.0382
+RU,Russia,2014,top_10pct,0.6863
+RU,Russia,2014,top_1pct,0.3719
+RU,Russia,2014,top_50pct,0.9618
+RU,Russia,2015,bottom_10pct,-0.0037
+RU,Russia,2015,bottom_50pct,0.0348
+RU,Russia,2015,top_10pct,0.7139
+RU,Russia,2015,top_1pct,0.4271
+RU,Russia,2015,top_50pct,0.9652
+RU,Russia,2016,bottom_10pct,-0.0036
+RU,Russia,2016,bottom_50pct,0.0346
+RU,Russia,2016,top_10pct,0.7157
+RU,Russia,2016,top_1pct,0.4295
+RU,Russia,2016,top_50pct,0.9654
+RU,Russia,2017,bottom_10pct,-0.0036
+RU,Russia,2017,bottom_50pct,0.0345
+RU,Russia,2017,top_10pct,0.7169
+RU,Russia,2017,top_1pct,0.4328
+RU,Russia,2017,top_50pct,0.9655
+RU,Russia,2018,bottom_10pct,-0.0035
+RU,Russia,2018,bottom_50pct,0.0338
+RU,Russia,2018,top_10pct,0.7229
+RU,Russia,2018,top_1pct,0.4423
+RU,Russia,2018,top_50pct,0.9662
+RU,Russia,2019,bottom_10pct,-0.0034
+RU,Russia,2019,bottom_50pct,0.0338
+RU,Russia,2019,top_10pct,0.7231000000000001
+RU,Russia,2019,top_1pct,0.4424
+RU,Russia,2019,top_50pct,0.9662
+RU,Russia,2020,bottom_10pct,-0.003
+RU,Russia,2020,bottom_50pct,0.0299
+RU,Russia,2020,top_10pct,0.7531
+RU,Russia,2020,top_1pct,0.4836
+RU,Russia,2020,top_50pct,0.9701
+RU,Russia,2021,bottom_10pct,-0.0029
+RU,Russia,2021,bottom_50pct,0.0293
+RU,Russia,2021,top_10pct,0.7584000000000001
+RU,Russia,2021,top_1pct,0.4948
+RU,Russia,2021,top_50pct,0.9707
+RU,Russia,2022,bottom_10pct,-0.003
+RU,Russia,2022,bottom_50pct,0.0299
+RU,Russia,2022,top_10pct,0.7532
+RU,Russia,2022,top_1pct,0.4837
+RU,Russia,2022,top_50pct,0.9701
+RU,Russia,2023,bottom_10pct,-0.003
+RU,Russia,2023,bottom_50pct,0.0297
+RU,Russia,2023,top_10pct,0.7545000000000001
+RU,Russia,2023,top_1pct,0.4865
+RU,Russia,2023,top_50pct,0.9703
+SA,Saudi Arabia,1995,bottom_10pct,-0.0155
+SA,Saudi Arabia,1995,bottom_50pct,0.0287
+SA,Saudi Arabia,1995,top_10pct,0.672
+SA,Saudi Arabia,1995,top_1pct,0.3378
+SA,Saudi Arabia,1995,top_50pct,0.9713
+SA,Saudi Arabia,1996,bottom_10pct,-0.0156
+SA,Saudi Arabia,1996,bottom_50pct,0.0286
+SA,Saudi Arabia,1996,top_10pct,0.6725
+SA,Saudi Arabia,1996,top_1pct,0.3384
+SA,Saudi Arabia,1996,top_50pct,0.9714
+SA,Saudi Arabia,1997,bottom_10pct,-0.0155
+SA,Saudi Arabia,1997,bottom_50pct,0.0285
+SA,Saudi Arabia,1997,top_10pct,0.6738000000000001
+SA,Saudi Arabia,1997,top_1pct,0.3411
+SA,Saudi Arabia,1997,top_50pct,0.9715
+SA,Saudi Arabia,1998,bottom_10pct,-0.0153
+SA,Saudi Arabia,1998,bottom_50pct,0.0282
+SA,Saudi Arabia,1998,top_10pct,0.6776
+SA,Saudi Arabia,1998,top_1pct,0.3489
+SA,Saudi Arabia,1998,top_50pct,0.9718
+SA,Saudi Arabia,1999,bottom_10pct,-0.0155
+SA,Saudi Arabia,1999,bottom_50pct,0.0287
+SA,Saudi Arabia,1999,top_10pct,0.672
+SA,Saudi Arabia,1999,top_1pct,0.3379
+SA,Saudi Arabia,1999,top_50pct,0.9713
+SA,Saudi Arabia,2000,bottom_10pct,-0.0155
+SA,Saudi Arabia,2000,bottom_50pct,0.0286
+SA,Saudi Arabia,2000,top_10pct,0.6729
+SA,Saudi Arabia,2000,top_1pct,0.3394
+SA,Saudi Arabia,2000,top_50pct,0.9714
+SA,Saudi Arabia,2001,bottom_10pct,-0.0155
+SA,Saudi Arabia,2001,bottom_50pct,0.0286
+SA,Saudi Arabia,2001,top_10pct,0.6731
+SA,Saudi Arabia,2001,top_1pct,0.3398
+SA,Saudi Arabia,2001,top_50pct,0.9714
+SA,Saudi Arabia,2002,bottom_10pct,-0.0155
+SA,Saudi Arabia,2002,bottom_50pct,0.0286
+SA,Saudi Arabia,2002,top_10pct,0.6732
+SA,Saudi Arabia,2002,top_1pct,0.3401
+SA,Saudi Arabia,2002,top_50pct,0.9714
+SA,Saudi Arabia,2003,bottom_10pct,-0.0156
+SA,Saudi Arabia,2003,bottom_50pct,0.0287
+SA,Saudi Arabia,2003,top_10pct,0.6724
+SA,Saudi Arabia,2003,top_1pct,0.3383
+SA,Saudi Arabia,2003,top_50pct,0.9713
+SA,Saudi Arabia,2004,bottom_10pct,-0.0156
+SA,Saudi Arabia,2004,bottom_50pct,0.0287
+SA,Saudi Arabia,2004,top_10pct,0.6724
+SA,Saudi Arabia,2004,top_1pct,0.3383
+SA,Saudi Arabia,2004,top_50pct,0.9713
+SA,Saudi Arabia,2005,bottom_10pct,-0.0155
+SA,Saudi Arabia,2005,bottom_50pct,0.0287
+SA,Saudi Arabia,2005,top_10pct,0.6722
+SA,Saudi Arabia,2005,top_1pct,0.338
+SA,Saudi Arabia,2005,top_50pct,0.9713
+SA,Saudi Arabia,2006,bottom_10pct,-0.0155
+SA,Saudi Arabia,2006,bottom_50pct,0.0285
+SA,Saudi Arabia,2006,top_10pct,0.6736000000000001
+SA,Saudi Arabia,2006,top_1pct,0.3406
+SA,Saudi Arabia,2006,top_50pct,0.9715
+SA,Saudi Arabia,2007,bottom_10pct,-0.0155
+SA,Saudi Arabia,2007,bottom_50pct,0.0287
+SA,Saudi Arabia,2007,top_10pct,0.6727000000000001
+SA,Saudi Arabia,2007,top_1pct,0.3394
+SA,Saudi Arabia,2007,top_50pct,0.9713
+SA,Saudi Arabia,2008,bottom_10pct,-0.0153
+SA,Saudi Arabia,2008,bottom_50pct,0.0282
+SA,Saudi Arabia,2008,top_10pct,0.6775
+SA,Saudi Arabia,2008,top_1pct,0.3488
+SA,Saudi Arabia,2008,top_50pct,0.9718
+SA,Saudi Arabia,2009,bottom_10pct,-0.0156
+SA,Saudi Arabia,2009,bottom_50pct,0.0286
+SA,Saudi Arabia,2009,top_10pct,0.673
+SA,Saudi Arabia,2009,top_1pct,0.3393
+SA,Saudi Arabia,2009,top_50pct,0.9714
+SA,Saudi Arabia,2010,bottom_10pct,-0.0156
+SA,Saudi Arabia,2010,bottom_50pct,0.0287
+SA,Saudi Arabia,2010,top_10pct,0.6723
+SA,Saudi Arabia,2010,top_1pct,0.3382
+SA,Saudi Arabia,2010,top_50pct,0.9713
+SA,Saudi Arabia,2011,bottom_10pct,-0.0156
+SA,Saudi Arabia,2011,bottom_50pct,0.0287
+SA,Saudi Arabia,2011,top_10pct,0.6724
+SA,Saudi Arabia,2011,top_1pct,0.3383
+SA,Saudi Arabia,2011,top_50pct,0.9713
+SA,Saudi Arabia,2012,bottom_10pct,-0.0155
+SA,Saudi Arabia,2012,bottom_50pct,0.0287
+SA,Saudi Arabia,2012,top_10pct,0.6721
+SA,Saudi Arabia,2012,top_1pct,0.3379
+SA,Saudi Arabia,2012,top_50pct,0.9713
+SA,Saudi Arabia,2013,bottom_10pct,-0.0155
+SA,Saudi Arabia,2013,bottom_50pct,0.0288
+SA,Saudi Arabia,2013,top_10pct,0.6719
+SA,Saudi Arabia,2013,top_1pct,0.3378
+SA,Saudi Arabia,2013,top_50pct,0.9712
+SA,Saudi Arabia,2014,bottom_10pct,-0.0155
+SA,Saudi Arabia,2014,bottom_50pct,0.0288
+SA,Saudi Arabia,2014,top_10pct,0.6719
+SA,Saudi Arabia,2014,top_1pct,0.3377
+SA,Saudi Arabia,2014,top_50pct,0.9712
+SA,Saudi Arabia,2015,bottom_10pct,-0.0156
+SA,Saudi Arabia,2015,bottom_50pct,0.0286
+SA,Saudi Arabia,2015,top_10pct,0.6726000000000001
+SA,Saudi Arabia,2015,top_1pct,0.3385
+SA,Saudi Arabia,2015,top_50pct,0.9714
+SA,Saudi Arabia,2016,bottom_10pct,-0.0155
+SA,Saudi Arabia,2016,bottom_50pct,0.0287
+SA,Saudi Arabia,2016,top_10pct,0.6721
+SA,Saudi Arabia,2016,top_1pct,0.3379
+SA,Saudi Arabia,2016,top_50pct,0.9713
+SA,Saudi Arabia,2017,bottom_10pct,-0.0155
+SA,Saudi Arabia,2017,bottom_50pct,0.0288
+SA,Saudi Arabia,2017,top_10pct,0.6718000000000001
+SA,Saudi Arabia,2017,top_1pct,0.3376
+SA,Saudi Arabia,2017,top_50pct,0.9712
+SA,Saudi Arabia,2018,bottom_10pct,-0.0156
+SA,Saudi Arabia,2018,bottom_50pct,0.0286
+SA,Saudi Arabia,2018,top_10pct,0.6725
+SA,Saudi Arabia,2018,top_1pct,0.3384
+SA,Saudi Arabia,2018,top_50pct,0.9714
+SA,Saudi Arabia,2019,bottom_10pct,-0.0155
+SA,Saudi Arabia,2019,bottom_50pct,0.0287
+SA,Saudi Arabia,2019,top_10pct,0.672
+SA,Saudi Arabia,2019,top_1pct,0.3378
+SA,Saudi Arabia,2019,top_50pct,0.9713
+SA,Saudi Arabia,2020,bottom_10pct,-0.0155
+SA,Saudi Arabia,2020,bottom_50pct,0.0288
+SA,Saudi Arabia,2020,top_10pct,0.6719
+SA,Saudi Arabia,2020,top_1pct,0.3377
+SA,Saudi Arabia,2020,top_50pct,0.9712
+SA,Saudi Arabia,2021,bottom_10pct,-0.0156
+SA,Saudi Arabia,2021,bottom_50pct,0.0287
+SA,Saudi Arabia,2021,top_10pct,0.6722
+SA,Saudi Arabia,2021,top_1pct,0.3381
+SA,Saudi Arabia,2021,top_50pct,0.9713
+SA,Saudi Arabia,2022,bottom_10pct,-0.0155
+SA,Saudi Arabia,2022,bottom_50pct,0.0287
+SA,Saudi Arabia,2022,top_10pct,0.6722
+SA,Saudi Arabia,2022,top_1pct,0.338
+SA,Saudi Arabia,2022,top_50pct,0.9713
+SA,Saudi Arabia,2023,bottom_10pct,-0.0156
+SA,Saudi Arabia,2023,bottom_50pct,0.0286
+SA,Saudi Arabia,2023,top_10pct,0.6725
+SA,Saudi Arabia,2023,top_1pct,0.3385
+SA,Saudi Arabia,2023,top_50pct,0.9714
+TR,Turkey,1995,bottom_10pct,-0.0155
+TR,Turkey,1995,bottom_50pct,0.029
+TR,Turkey,1995,top_10pct,0.6706000000000001
+TR,Turkey,1995,top_1pct,0.3362
+TR,Turkey,1995,top_50pct,0.971
+TR,Turkey,1996,bottom_10pct,-0.0156
+TR,Turkey,1996,bottom_50pct,0.0286
+TR,Turkey,1996,top_10pct,0.6727000000000001
+TR,Turkey,1996,top_1pct,0.3386
+TR,Turkey,1996,top_50pct,0.9714
+TR,Turkey,1997,bottom_10pct,-0.0156
+TR,Turkey,1997,bottom_50pct,0.0285
+TR,Turkey,1997,top_10pct,0.6731
+TR,Turkey,1997,top_1pct,0.3391
+TR,Turkey,1997,top_50pct,0.9715
+TR,Turkey,1998,bottom_10pct,-0.0156
+TR,Turkey,1998,bottom_50pct,0.0284
+TR,Turkey,1998,top_10pct,0.674
+TR,Turkey,1998,top_1pct,0.3401
+TR,Turkey,1998,top_50pct,0.9716
+TR,Turkey,1999,bottom_10pct,-0.0157
+TR,Turkey,1999,bottom_50pct,0.0282
+TR,Turkey,1999,top_10pct,0.6746
+TR,Turkey,1999,top_1pct,0.3409
+TR,Turkey,1999,top_50pct,0.9718
+TR,Turkey,2000,bottom_10pct,-0.0157
+TR,Turkey,2000,bottom_50pct,0.0282
+TR,Turkey,2000,top_10pct,0.675
+TR,Turkey,2000,top_1pct,0.3414
+TR,Turkey,2000,top_50pct,0.9718
+TR,Turkey,2001,bottom_10pct,-0.0158
+TR,Turkey,2001,bottom_50pct,0.028
+TR,Turkey,2001,top_10pct,0.6759000000000001
+TR,Turkey,2001,top_1pct,0.3424
+TR,Turkey,2001,top_50pct,0.972
+TR,Turkey,2002,bottom_10pct,-0.0158
+TR,Turkey,2002,bottom_50pct,0.0279
+TR,Turkey,2002,top_10pct,0.6762
+TR,Turkey,2002,top_1pct,0.3427
+TR,Turkey,2002,top_50pct,0.9721
+TR,Turkey,2003,bottom_10pct,-0.0152
+TR,Turkey,2003,bottom_50pct,0.0301
+TR,Turkey,2003,top_10pct,0.6648000000000001
+TR,Turkey,2003,top_1pct,0.3294
+TR,Turkey,2003,top_50pct,0.9699
+TR,Turkey,2004,bottom_10pct,-0.0144
+TR,Turkey,2004,bottom_50pct,0.0338
+TR,Turkey,2004,top_10pct,0.6437
+TR,Turkey,2004,top_1pct,0.3048
+TR,Turkey,2004,top_50pct,0.9662
+TR,Turkey,2005,bottom_10pct,-0.0141
+TR,Turkey,2005,bottom_50pct,0.0363
+TR,Turkey,2005,top_10pct,0.6271
+TR,Turkey,2005,top_1pct,0.2855
+TR,Turkey,2005,top_50pct,0.9637
+TR,Turkey,2006,bottom_10pct,-0.014
+TR,Turkey,2006,bottom_50pct,0.0372
+TR,Turkey,2006,top_10pct,0.6208
+TR,Turkey,2006,top_1pct,0.2783
+TR,Turkey,2006,top_50pct,0.9628
+TR,Turkey,2007,bottom_10pct,-0.0141
+TR,Turkey,2007,bottom_50pct,0.0378
+TR,Turkey,2007,top_10pct,0.6157
+TR,Turkey,2007,top_1pct,0.2725
+TR,Turkey,2007,top_50pct,0.9622
+TR,Turkey,2008,bottom_10pct,-0.014
+TR,Turkey,2008,bottom_50pct,0.0369
+TR,Turkey,2008,top_10pct,0.6227
+TR,Turkey,2008,top_1pct,0.2804
+TR,Turkey,2008,top_50pct,0.9631
+TR,Turkey,2009,bottom_10pct,-0.0141
+TR,Turkey,2009,bottom_50pct,0.0353
+TR,Turkey,2009,top_10pct,0.634
+TR,Turkey,2009,top_1pct,0.2935
+TR,Turkey,2009,top_50pct,0.9647
+TR,Turkey,2010,bottom_10pct,-0.0141
+TR,Turkey,2010,bottom_50pct,0.0359
+TR,Turkey,2010,top_10pct,0.6299
+TR,Turkey,2010,top_1pct,0.2887
+TR,Turkey,2010,top_50pct,0.9641
+TR,Turkey,2011,bottom_10pct,-0.0141
+TR,Turkey,2011,bottom_50pct,0.0357
+TR,Turkey,2011,top_10pct,0.6312
+TR,Turkey,2011,top_1pct,0.2903
+TR,Turkey,2011,top_50pct,0.9643
+TR,Turkey,2012,bottom_10pct,-0.0141
+TR,Turkey,2012,bottom_50pct,0.0356
+TR,Turkey,2012,top_10pct,0.6317
+TR,Turkey,2012,top_1pct,0.2909
+TR,Turkey,2012,top_50pct,0.9644
+TR,Turkey,2013,bottom_10pct,-0.0141
+TR,Turkey,2013,bottom_50pct,0.0363
+TR,Turkey,2013,top_10pct,0.6273000000000001
+TR,Turkey,2013,top_1pct,0.2858
+TR,Turkey,2013,top_50pct,0.9637
+TR,Turkey,2014,bottom_10pct,-0.0141
+TR,Turkey,2014,bottom_50pct,0.0355
+TR,Turkey,2014,top_10pct,0.6326
+TR,Turkey,2014,top_1pct,0.2919
+TR,Turkey,2014,top_50pct,0.9645
+TR,Turkey,2015,bottom_10pct,-0.0142
+TR,Turkey,2015,bottom_50pct,0.0348
+TR,Turkey,2015,top_10pct,0.6368
+TR,Turkey,2015,top_1pct,0.2968
+TR,Turkey,2015,top_50pct,0.9652
+TR,Turkey,2016,bottom_10pct,-0.0142
+TR,Turkey,2016,bottom_50pct,0.0345
+TR,Turkey,2016,top_10pct,0.6389
+TR,Turkey,2016,top_1pct,0.2992
+TR,Turkey,2016,top_50pct,0.9655
+TR,Turkey,2017,bottom_10pct,-0.0144
+TR,Turkey,2017,bottom_50pct,0.0335
+TR,Turkey,2017,top_10pct,0.6455000000000001
+TR,Turkey,2017,top_1pct,0.3069
+TR,Turkey,2017,top_50pct,0.9665
+TR,Turkey,2018,bottom_10pct,-0.0144
+TR,Turkey,2018,bottom_50pct,0.0334
+TR,Turkey,2018,top_10pct,0.6458
+TR,Turkey,2018,top_1pct,0.3072
+TR,Turkey,2018,top_50pct,0.9666
+TR,Turkey,2019,bottom_10pct,-0.0141
+TR,Turkey,2019,bottom_50pct,0.0354
+TR,Turkey,2019,top_10pct,0.6329
+TR,Turkey,2019,top_1pct,0.2922
+TR,Turkey,2019,top_50pct,0.9646
+TR,Turkey,2020,bottom_10pct,-0.0144
+TR,Turkey,2020,bottom_50pct,0.0336
+TR,Turkey,2020,top_10pct,0.6447
+TR,Turkey,2020,top_1pct,0.306
+TR,Turkey,2020,top_50pct,0.9664
+TR,Turkey,2021,bottom_10pct,-0.0142
+TR,Turkey,2021,bottom_50pct,0.0352
+TR,Turkey,2021,top_10pct,0.6348
+TR,Turkey,2021,top_1pct,0.2945
+TR,Turkey,2021,top_50pct,0.9648
+TR,Turkey,2022,bottom_10pct,-0.0148
+TR,Turkey,2022,bottom_50pct,0.0315
+TR,Turkey,2022,top_10pct,0.6567000000000001
+TR,Turkey,2022,top_1pct,0.32
+TR,Turkey,2022,top_50pct,0.9685
+TR,Turkey,2023,bottom_10pct,-0.0163
+TR,Turkey,2023,bottom_50pct,0.0263
+TR,Turkey,2023,top_10pct,0.6843
+TR,Turkey,2023,top_1pct,0.3523
+TR,Turkey,2023,top_50pct,0.9737
+US,United States,1995,bottom_10pct,-0.0093
+US,United States,1995,bottom_50pct,0.0083
+US,United States,1995,bottom_50pct,0.0109
+US,United States,1995,bottom_50pct,0.0003
+US,United States,1995,bottom_50pct,0.0094
+US,United States,1995,top_10pct,0.6685
+US,United States,1995,top_10pct,0.6695
+US,United States,1995,top_10pct,0.6705
+US,United States,1995,top_10pct,0.7061
+US,United States,1995,top_10pct,0.6712
+US,United States,1995,top_1pct,0.2818
+US,United States,1995,top_1pct,0.2893
+US,United States,1995,top_1pct,0.2975
+US,United States,1995,top_1pct,0.3105
+US,United States,1995,top_1pct,0.293
+US,United States,1995,top_50pct,0.9906
+US,United States,1996,bottom_10pct,-0.0089
+US,United States,1996,bottom_50pct,0.0072
+US,United States,1996,bottom_50pct,0.0088
+US,United States,1996,bottom_50pct,-0.0014
+US,United States,1996,bottom_50pct,0.0079
+US,United States,1996,top_10pct,0.6714
+US,United States,1996,top_10pct,0.6731
+US,United States,1996,top_10pct,0.6747
+US,United States,1996,top_10pct,0.7106
+US,United States,1996,top_10pct,0.6732
+US,United States,1996,top_1pct,0.287
+US,United States,1996,top_1pct,0.2962
+US,United States,1996,top_1pct,0.306
+US,United States,1996,top_1pct,0.3171
+US,United States,1996,top_1pct,0.2964
+US,United States,1996,top_50pct,0.9921
+US,United States,1997,bottom_10pct,-0.0086
+US,United States,1997,bottom_50pct,0.004
+US,United States,1997,bottom_50pct,0.0074
+US,United States,1997,bottom_50pct,-0.0031
+US,United States,1997,bottom_50pct,0.0055
+US,United States,1997,top_10pct,0.6796
+US,United States,1997,top_10pct,0.6801
+US,United States,1997,top_10pct,0.6806
+US,United States,1997,top_10pct,0.7173
+US,United States,1997,top_10pct,0.68
+US,United States,1997,top_1pct,0.2981
+US,United States,1997,top_1pct,0.305
+US,United States,1997,top_1pct,0.3123
+US,United States,1997,top_1pct,0.3264
+US,United States,1997,top_1pct,0.3047
+US,United States,1997,top_50pct,0.9945
+US,United States,1998,bottom_10pct,-0.0082
+US,United States,1998,bottom_50pct,0.0035
+US,United States,1998,bottom_50pct,0.0071
+US,United States,1998,bottom_50pct,-0.0034
+US,United States,1998,bottom_50pct,0.0051
+US,United States,1998,top_10pct,0.6859
+US,United States,1998,top_10pct,0.6865
+US,United States,1998,top_10pct,0.6869
+US,United States,1998,top_10pct,0.7226
+US,United States,1998,top_10pct,0.6864
+US,United States,1998,top_1pct,0.3054
+US,United States,1998,top_1pct,0.315
+US,United States,1998,top_1pct,0.3253
+US,United States,1998,top_1pct,0.3367
+US,United States,1998,top_1pct,0.3148
+US,United States,1998,top_50pct,0.9949
+US,United States,1999,bottom_10pct,-0.0081
+US,United States,1999,bottom_50pct,0.0049
+US,United States,1999,bottom_50pct,0.0083
+US,United States,1999,bottom_50pct,-0.0027
+US,United States,1999,bottom_50pct,0.0064
+US,United States,1999,top_10pct,0.6844
+US,United States,1999,top_10pct,0.6863
+US,United States,1999,top_10pct,0.6882
+US,United States,1999,top_10pct,0.723
+US,United States,1999,top_10pct,0.6862
+US,United States,1999,top_1pct,0.3066
+US,United States,1999,top_1pct,0.3182
+US,United States,1999,top_1pct,0.3308
+US,United States,1999,top_1pct,0.3407
+US,United States,1999,top_1pct,0.3181
+US,United States,1999,top_50pct,0.9936
+US,United States,2000,bottom_10pct,-0.0086
+US,United States,2000,bottom_50pct,0.005
+US,United States,2000,bottom_50pct,0.0074
+US,United States,2000,bottom_50pct,-0.0035
+US,United States,2000,bottom_50pct,0.0061
+US,United States,2000,top_10pct,0.686
+US,United States,2000,top_10pct,0.6865
+US,United States,2000,top_10pct,0.687
+US,United States,2000,top_10pct,0.7243
+US,United States,2000,top_10pct,0.6865
+US,United States,2000,top_1pct,0.3151
+US,United States,2000,top_1pct,0.3234
+US,United States,2000,top_1pct,0.3323
+US,United States,2000,top_1pct,0.3468
+US,United States,2000,top_1pct,0.3234
+US,United States,2000,top_50pct,0.9939
+US,United States,2001,bottom_10pct,-0.01
+US,United States,2001,bottom_50pct,0.0049
+US,United States,2001,bottom_50pct,0.0076
+US,United States,2001,bottom_50pct,-0.0038
+US,United States,2001,bottom_50pct,0.0062
+US,United States,2001,top_10pct,0.6776
+US,United States,2001,top_10pct,0.6808
+US,United States,2001,top_10pct,0.6842
+US,United States,2001,top_10pct,0.7181
+US,United States,2001,top_10pct,0.6819000000000001
+US,United States,2001,top_1pct,0.3087
+US,United States,2001,top_1pct,0.319
+US,United States,2001,top_1pct,0.3298
+US,United States,2001,top_1pct,0.3408
+US,United States,2001,top_1pct,0.3214
+US,United States,2001,top_50pct,0.9938
+US,United States,2002,bottom_10pct,-0.0108
+US,United States,2002,bottom_50pct,0.0051
+US,United States,2002,bottom_50pct,0.0074
+US,United States,2002,bottom_50pct,-0.0037
+US,United States,2002,bottom_50pct,0.0062
+US,United States,2002,top_10pct,0.6793
+US,United States,2002,top_10pct,0.6806
+US,United States,2002,top_10pct,0.682
+US,United States,2002,top_10pct,0.7177
+US,United States,2002,top_10pct,0.6815
+US,United States,2002,top_1pct,0.3055
+US,United States,2002,top_1pct,0.3127
+US,United States,2002,top_1pct,0.3207
+US,United States,2002,top_1pct,0.3346
+US,United States,2002,top_1pct,0.3147
+US,United States,2002,top_50pct,0.9938
+US,United States,2003,bottom_10pct,-0.0119
+US,United States,2003,bottom_50pct,0.0033
+US,United States,2003,bottom_50pct,0.0053
+US,United States,2003,bottom_50pct,-0.0045
+US,United States,2003,bottom_50pct,0.0042
+US,United States,2003,top_10pct,0.6794
+US,United States,2003,top_10pct,0.6817
+US,United States,2003,top_10pct,0.6842
+US,United States,2003,top_10pct,0.7185
+US,United States,2003,top_10pct,0.6817000000000001
+US,United States,2003,top_1pct,0.3022
+US,United States,2003,top_1pct,0.311
+US,United States,2003,top_1pct,0.3204
+US,United States,2003,top_1pct,0.3334
+US,United States,2003,top_1pct,0.311
+US,United States,2003,top_50pct,0.9958
+US,United States,2004,bottom_10pct,-0.012
+US,United States,2004,bottom_50pct,0.0027
+US,United States,2004,bottom_50pct,0.0052
+US,United States,2004,bottom_50pct,-0.0046
+US,United States,2004,bottom_50pct,0.0039
+US,United States,2004,top_10pct,0.6842
+US,United States,2004,top_10pct,0.686
+US,United States,2004,top_10pct,0.6879
+US,United States,2004,top_10pct,0.7218
+US,United States,2004,top_10pct,0.6866
+US,United States,2004,top_1pct,0.3063
+US,United States,2004,top_1pct,0.3154
+US,United States,2004,top_1pct,0.3252
+US,United States,2004,top_1pct,0.3373
+US,United States,2004,top_1pct,0.3168
+US,United States,2004,top_50pct,0.9961
+US,United States,2005,bottom_10pct,-0.012
+US,United States,2005,bottom_50pct,0.0037
+US,United States,2005,bottom_50pct,0.0057
+US,United States,2005,bottom_50pct,-0.0041
+US,United States,2005,bottom_50pct,0.0047
+US,United States,2005,top_10pct,0.6845
+US,United States,2005,top_10pct,0.686
+US,United States,2005,top_10pct,0.6877
+US,United States,2005,top_10pct,0.7235
+US,United States,2005,top_10pct,0.6863
+US,United States,2005,top_1pct,0.3138
+US,United States,2005,top_1pct,0.3225
+US,United States,2005,top_1pct,0.3317
+US,United States,2005,top_1pct,0.3453
+US,United States,2005,top_1pct,0.3232
+US,United States,2005,top_50pct,0.9953
+US,United States,2006,bottom_10pct,-0.013
+US,United States,2006,bottom_50pct,0.0014
+US,United States,2006,bottom_50pct,0.0023
+US,United States,2006,bottom_50pct,-0.0065
+US,United States,2006,bottom_50pct,0.0018
+US,United States,2006,top_10pct,0.6816
+US,United States,2006,top_10pct,0.6874
+US,United States,2006,top_10pct,0.6936
+US,United States,2006,top_10pct,0.7245
+US,United States,2006,top_10pct,0.6877
+US,United States,2006,top_1pct,0.3145
+US,United States,2006,top_1pct,0.3265
+US,United States,2006,top_1pct,0.3393
+US,United States,2006,top_1pct,0.35
+US,United States,2006,top_1pct,0.3271
+US,United States,2006,top_50pct,0.9982
+US,United States,2007,bottom_10pct,-0.0149
+US,United States,2007,bottom_50pct,-0.0041
+US,United States,2007,bottom_50pct,-0.0038
+US,United States,2007,bottom_50pct,-0.0115
+US,United States,2007,bottom_50pct,-0.0039
+US,United States,2007,top_10pct,0.6909
+US,United States,2007,top_10pct,0.6963
+US,United States,2007,top_10pct,0.7022
+US,United States,2007,top_10pct,0.7338
+US,United States,2007,top_10pct,0.6966
+US,United States,2007,top_1pct,0.3235
+US,United States,2007,top_1pct,0.3332
+US,United States,2007,top_1pct,0.3437
+US,United States,2007,top_1pct,0.3571
+US,United States,2007,top_1pct,0.3339
+US,United States,2007,top_50pct,1.0039
+US,United States,2008,bottom_10pct,-0.0183
+US,United States,2008,bottom_50pct,-0.0122
+US,United States,2008,bottom_50pct,-0.0123
+US,United States,2008,bottom_50pct,-0.0186
+US,United States,2008,bottom_50pct,-0.0123
+US,United States,2008,top_10pct,0.7054
+US,United States,2008,top_10pct,0.7114
+US,United States,2008,top_10pct,0.7177
+US,United States,2008,top_10pct,0.75
+US,United States,2008,top_10pct,0.7117
+US,United States,2008,top_1pct,0.3274
+US,United States,2008,top_1pct,0.339
+US,United States,2008,top_1pct,0.3513
+US,United States,2008,top_1pct,0.3625
+US,United States,2008,top_1pct,0.3397
+US,United States,2008,top_50pct,1.0123
+US,United States,2009,bottom_10pct,-0.0215
+US,United States,2009,bottom_50pct,-0.0186
+US,United States,2009,bottom_50pct,-0.0178
+US,United States,2009,bottom_50pct,-0.0238
+US,United States,2009,bottom_50pct,-0.0183
+US,United States,2009,top_10pct,0.712
+US,United States,2009,top_10pct,0.7168
+US,United States,2009,top_10pct,0.722
+US,United States,2009,top_10pct,0.7568
+US,United States,2009,top_10pct,0.7168
+US,United States,2009,top_1pct,0.3198
+US,United States,2009,top_1pct,0.3312
+US,United States,2009,top_1pct,0.3433
+US,United States,2009,top_1pct,0.3536
+US,United States,2009,top_1pct,0.3312
+US,United States,2009,top_50pct,1.0183
+US,United States,2010,bottom_10pct,-0.0208
+US,United States,2010,bottom_50pct,-0.0179
+US,United States,2010,bottom_50pct,-0.0185
+US,United States,2010,bottom_50pct,-0.0234
+US,United States,2010,bottom_50pct,-0.0182
+US,United States,2010,top_10pct,0.7241
+US,United States,2010,top_10pct,0.7297
+US,United States,2010,top_10pct,0.7356
+US,United States,2010,top_10pct,0.7695
+US,United States,2010,top_10pct,0.7297
+US,United States,2010,top_1pct,0.3343
+US,United States,2010,top_1pct,0.3459
+US,United States,2010,top_1pct,0.3584
+US,United States,2010,top_1pct,0.3687
+US,United States,2010,top_1pct,0.3461
+US,United States,2010,top_50pct,1.0182
+US,United States,2011,bottom_10pct,-0.0199
+US,United States,2011,bottom_50pct,-0.0175
+US,United States,2011,bottom_50pct,-0.0181
+US,United States,2011,bottom_50pct,-0.0228
+US,United States,2011,bottom_50pct,-0.0178
+US,United States,2011,top_10pct,0.7279
+US,United States,2011,top_10pct,0.735
+US,United States,2011,top_10pct,0.7425
+US,United States,2011,top_10pct,0.7747
+US,United States,2011,top_10pct,0.7352000000000001
+US,United States,2011,top_1pct,0.3398
+US,United States,2011,top_1pct,0.352
+US,United States,2011,top_1pct,0.3651
+US,United States,2011,top_1pct,0.3769
+US,United States,2011,top_1pct,0.3527
+US,United States,2011,top_50pct,1.0178
+US,United States,2012,bottom_10pct,-0.0184
+US,United States,2012,bottom_50pct,-0.0162
+US,United States,2012,bottom_50pct,-0.0167
+US,United States,2012,bottom_50pct,-0.0217
+US,United States,2012,bottom_50pct,-0.0164
+US,United States,2012,top_10pct,0.7371
+US,United States,2012,top_10pct,0.7435
+US,United States,2012,top_10pct,0.7503
+US,United States,2012,top_10pct,0.7832
+US,United States,2012,top_10pct,0.7433000000000001
+US,United States,2012,top_1pct,0.3546
+US,United States,2012,top_1pct,0.3666
+US,United States,2012,top_1pct,0.3794
+US,United States,2012,top_1pct,0.3912
+US,United States,2012,top_1pct,0.3662
+US,United States,2012,top_50pct,1.0164
+US,United States,2013,bottom_10pct,-0.0161
+US,United States,2013,bottom_50pct,-0.0121
+US,United States,2013,bottom_50pct,-0.0117
+US,United States,2013,bottom_50pct,-0.0174
+US,United States,2013,bottom_50pct,-0.0119
+US,United States,2013,top_10pct,0.7354
+US,United States,2013,top_10pct,0.7392
+US,United States,2013,top_10pct,0.7432
+US,United States,2013,top_10pct,0.7798
+US,United States,2013,top_10pct,0.7391000000000001
+US,United States,2013,top_1pct,0.3467
+US,United States,2013,top_1pct,0.3566
+US,United States,2013,top_1pct,0.3672
+US,United States,2013,top_1pct,0.3801
+US,United States,2013,top_1pct,0.3564
+US,United States,2013,top_50pct,1.0119
+US,United States,2014,bottom_10pct,-0.0141
+US,United States,2014,bottom_50pct,-0.0081
+US,United States,2014,bottom_50pct,-0.0075
+US,United States,2014,bottom_50pct,-0.0138
+US,United States,2014,bottom_50pct,-0.0078
+US,United States,2014,top_10pct,0.7336
+US,United States,2014,top_10pct,0.7364
+US,United States,2014,top_10pct,0.7393
+US,United States,2014,top_10pct,0.7775
+US,United States,2014,top_10pct,0.7363000000000001
+US,United States,2014,top_1pct,0.35
+US,United States,2014,top_1pct,0.3586
+US,United States,2014,top_1pct,0.3677
+US,United States,2014,top_1pct,0.3836
+US,United States,2014,top_1pct,0.3583
+US,United States,2014,top_50pct,1.0078
+US,United States,2015,bottom_10pct,-0.0129
+US,United States,2015,bottom_50pct,-0.0062
+US,United States,2015,bottom_50pct,-0.005
+US,United States,2015,bottom_50pct,-0.0118
+US,United States,2015,bottom_50pct,-0.0056
+US,United States,2015,top_10pct,0.7282
+US,United States,2015,top_10pct,0.7366
+US,United States,2015,top_10pct,0.7738
+US,United States,2015,top_10pct,0.7321000000000001
+US,United States,2015,top_1pct,0.3478
+US,United States,2015,top_1pct,0.3695
+US,United States,2015,top_1pct,0.3843
+US,United States,2015,top_1pct,0.3581
+US,United States,2015,top_50pct,1.0056
+US,United States,2016,bottom_10pct,-0.0124
+US,United States,2016,bottom_50pct,-0.0045
+US,United States,2016,bottom_50pct,-0.0034
+US,United States,2016,bottom_50pct,-0.0106
+US,United States,2016,bottom_50pct,-0.004
+US,United States,2016,top_10pct,0.7245
+US,United States,2016,top_10pct,0.7314
+US,United States,2016,top_10pct,0.7708
+US,United States,2016,top_10pct,0.7278
+US,United States,2016,top_1pct,0.3451
+US,United States,2016,top_1pct,0.3659
+US,United States,2016,top_1pct,0.381
+US,United States,2016,top_1pct,0.355
+US,United States,2016,top_50pct,1.004
+US,United States,2017,bottom_10pct,-0.0113
+US,United States,2017,bottom_50pct,-0.0004
+US,United States,2017,bottom_50pct,-0.0002
+US,United States,2017,bottom_50pct,-0.0082
+US,United States,2017,bottom_50pct,-0.0003
+US,United States,2017,top_10pct,0.7124
+US,United States,2017,top_10pct,0.725
+US,United States,2017,top_10pct,0.7597
+US,United States,2017,top_10pct,0.7184
+US,United States,2017,top_1pct,0.3444
+US,United States,2017,top_1pct,0.3662
+US,United States,2017,top_1pct,0.3808
+US,United States,2017,top_1pct,0.3548
+US,United States,2017,top_50pct,1.0003
+US,United States,2018,bottom_10pct,-0.0112
+US,United States,2018,bottom_50pct,0.0006
+US,United States,2018,bottom_50pct,0.0007
+US,United States,2018,bottom_50pct,-0.0076
+US,United States,2018,bottom_50pct,0.0006
+US,United States,2018,top_10pct,0.7104
+US,United States,2018,top_10pct,0.7231
+US,United States,2018,top_10pct,0.7583
+US,United States,2018,top_10pct,0.7165
+US,United States,2018,top_1pct,0.3419
+US,United States,2018,top_1pct,0.3629
+US,United States,2018,top_1pct,0.3784
+US,United States,2018,top_1pct,0.352
+US,United States,2018,top_50pct,0.9994
+US,United States,2019,bottom_10pct,-0.0107
+US,United States,2019,bottom_50pct,0.0021
+US,United States,2019,bottom_50pct,0.0023
+US,United States,2019,bottom_50pct,-0.0063
+US,United States,2019,bottom_50pct,0.0022
+US,United States,2019,top_10pct,0.7085
+US,United States,2019,top_10pct,0.7203
+US,United States,2019,top_10pct,0.755
+US,United States,2019,top_10pct,0.7141000000000001
+US,United States,2019,top_1pct,0.3389
+US,United States,2019,top_1pct,0.3592
+US,United States,2019,top_1pct,0.3744
+US,United States,2019,top_1pct,0.3485
+US,United States,2019,top_50pct,0.9978
+US,United States,2020,bottom_10pct,-0.0086
+US,United States,2020,bottom_50pct,0.0036
+US,United States,2020,top_10pct,0.7103
+US,United States,2020,top_1pct,0.3513
+US,United States,2020,top_50pct,0.9964
+US,United States,2021,bottom_10pct,-0.0068
+US,United States,2021,bottom_50pct,0.0078
+US,United States,2021,top_10pct,0.7085
+US,United States,2021,top_1pct,0.3626
+US,United States,2021,top_50pct,0.9922
+US,United States,2022,bottom_10pct,-0.0068
+US,United States,2022,bottom_50pct,0.0094
+US,United States,2022,top_10pct,0.6962
+US,United States,2022,top_1pct,0.3489
+US,United States,2022,top_50pct,0.9906
+US,United States,2023,bottom_10pct,-0.0068
+US,United States,2023,bottom_50pct,0.0095
+US,United States,2023,top_10pct,0.6958000000000001
+US,United States,2023,top_1pct,0.3483
+US,United States,2023,top_50pct,0.9905
+ZA,South Africa,1995,bottom_10pct,-0.0609
+ZA,South Africa,1995,bottom_10pct,-0.0608
+ZA,South Africa,1995,bottom_50pct,-0.0513
+ZA,South Africa,1995,bottom_50pct,-0.0512
+ZA,South Africa,1995,top_10pct,0.8619
+ZA,South Africa,1995,top_10pct,0.862
+ZA,South Africa,1995,top_1pct,0.4704
+ZA,South Africa,1995,top_1pct,0.4708
+ZA,South Africa,1995,top_50pct,1.0513
+ZA,South Africa,1995,top_50pct,1.0512
+ZA,South Africa,1996,bottom_10pct,-0.0604
+ZA,South Africa,1996,bottom_10pct,-0.0601
+ZA,South Africa,1996,bottom_50pct,-0.0512
+ZA,South Africa,1996,bottom_50pct,-0.051
+ZA,South Africa,1996,top_10pct,0.8643
+ZA,South Africa,1996,top_10pct,0.8648
+ZA,South Africa,1996,top_1pct,0.482
+ZA,South Africa,1996,top_1pct,0.4841
+ZA,South Africa,1996,top_50pct,1.0512
+ZA,South Africa,1996,top_50pct,1.051
+ZA,South Africa,1997,bottom_10pct,-0.0529
+ZA,South Africa,1997,bottom_10pct,-0.0527
+ZA,South Africa,1997,bottom_50pct,-0.0438
+ZA,South Africa,1997,bottom_50pct,-0.0436
+ZA,South Africa,1997,top_10pct,0.8534
+ZA,South Africa,1997,top_10pct,0.8540000000000001
+ZA,South Africa,1997,top_1pct,0.4768
+ZA,South Africa,1997,top_1pct,0.4789
+ZA,South Africa,1997,top_50pct,1.0438
+ZA,South Africa,1997,top_50pct,1.0436
+ZA,South Africa,1998,bottom_10pct,-0.0441
+ZA,South Africa,1998,bottom_10pct,-0.044
+ZA,South Africa,1998,bottom_50pct,-0.0355
+ZA,South Africa,1998,bottom_50pct,-0.0354
+ZA,South Africa,1998,top_10pct,0.8447
+ZA,South Africa,1998,top_10pct,0.8452000000000001
+ZA,South Africa,1998,top_1pct,0.4752
+ZA,South Africa,1998,top_1pct,0.4768
+ZA,South Africa,1998,top_50pct,1.0355
+ZA,South Africa,1998,top_50pct,1.0354
+ZA,South Africa,1999,bottom_10pct,-0.03
+ZA,South Africa,1999,bottom_10pct,-0.0299
+ZA,South Africa,1999,bottom_50pct,-0.0217
+ZA,South Africa,1999,bottom_50pct,-0.0216
+ZA,South Africa,1999,top_10pct,0.8401
+ZA,South Africa,1999,top_10pct,0.8408
+ZA,South Africa,1999,top_1pct,0.5017
+ZA,South Africa,1999,top_1pct,0.5038
+ZA,South Africa,1999,top_50pct,1.0217
+ZA,South Africa,1999,top_50pct,1.0216
+ZA,South Africa,2000,bottom_10pct,-0.0239
+ZA,South Africa,2000,bottom_10pct,-0.0238
+ZA,South Africa,2000,bottom_50pct,-0.0158
+ZA,South Africa,2000,bottom_50pct,-0.0157
+ZA,South Africa,2000,top_10pct,0.836
+ZA,South Africa,2000,top_10pct,0.8365
+ZA,South Africa,2000,top_1pct,0.4904
+ZA,South Africa,2000,top_1pct,0.492
+ZA,South Africa,2000,top_50pct,1.0158
+ZA,South Africa,2000,top_50pct,1.0157
+ZA,South Africa,2001,bottom_10pct,-0.0163
+ZA,South Africa,2001,bottom_10pct,-0.0161
+ZA,South Africa,2001,bottom_50pct,-0.0078
+ZA,South Africa,2001,bottom_50pct,-0.0078
+ZA,South Africa,2001,top_10pct,0.8292
+ZA,South Africa,2001,top_10pct,0.8304
+ZA,South Africa,2001,top_1pct,0.4986
+ZA,South Africa,2001,top_1pct,0.5022
+ZA,South Africa,2001,top_50pct,1.0078
+ZA,South Africa,2001,top_50pct,1.0078
+ZA,South Africa,2002,bottom_10pct,-0.012
+ZA,South Africa,2002,bottom_10pct,-0.012
+ZA,South Africa,2002,bottom_50pct,-0.0038
+ZA,South Africa,2002,bottom_50pct,-0.0038
+ZA,South Africa,2002,top_10pct,0.8251
+ZA,South Africa,2002,top_10pct,0.8263
+ZA,South Africa,2002,top_1pct,0.4916
+ZA,South Africa,2002,top_1pct,0.4952
+ZA,South Africa,2002,top_50pct,1.0038
+ZA,South Africa,2002,top_50pct,1.0038
+ZA,South Africa,2003,bottom_10pct,-0.0098
+ZA,South Africa,2003,bottom_10pct,-0.0098
+ZA,South Africa,2003,bottom_50pct,-0.0013
+ZA,South Africa,2003,bottom_50pct,-0.0013
+ZA,South Africa,2003,top_10pct,0.8238
+ZA,South Africa,2003,top_10pct,0.8247
+ZA,South Africa,2003,top_1pct,0.4946
+ZA,South Africa,2003,top_1pct,0.4973
+ZA,South Africa,2003,top_50pct,1.0013
+ZA,South Africa,2003,top_50pct,1.0013
+ZA,South Africa,2004,bottom_10pct,-0.0078
+ZA,South Africa,2004,bottom_10pct,-0.0078
+ZA,South Africa,2004,bottom_50pct,0.0018
+ZA,South Africa,2004,bottom_50pct,0.0018
+ZA,South Africa,2004,top_10pct,0.8159
+ZA,South Africa,2004,top_10pct,0.8172
+ZA,South Africa,2004,top_1pct,0.483
+ZA,South Africa,2004,top_1pct,0.4864
+ZA,South Africa,2004,top_50pct,0.9982
+ZA,South Africa,2004,top_50pct,0.9982
+ZA,South Africa,2005,bottom_10pct,-0.0082
+ZA,South Africa,2005,bottom_10pct,-0.0082
+ZA,South Africa,2005,bottom_50pct,0.0003
+ZA,South Africa,2005,bottom_50pct,0.0003
+ZA,South Africa,2005,top_10pct,0.8297
+ZA,South Africa,2005,top_10pct,0.8313
+ZA,South Africa,2005,top_1pct,0.5024
+ZA,South Africa,2005,top_1pct,0.5071
+ZA,South Africa,2005,top_50pct,0.9997
+ZA,South Africa,2005,top_50pct,0.9997
+ZA,South Africa,2006,bottom_10pct,-0.0177
+ZA,South Africa,2006,bottom_10pct,-0.0175
+ZA,South Africa,2006,bottom_50pct,-0.0118
+ZA,South Africa,2006,bottom_50pct,-0.0117
+ZA,South Africa,2006,top_10pct,0.8504
+ZA,South Africa,2006,top_10pct,0.8517
+ZA,South Africa,2006,top_1pct,0.5132
+ZA,South Africa,2006,top_1pct,0.5173
+ZA,South Africa,2006,top_50pct,1.0118
+ZA,South Africa,2006,top_50pct,1.0117
+ZA,South Africa,2007,bottom_10pct,-0.0474
+ZA,South Africa,2007,bottom_10pct,-0.0469
+ZA,South Africa,2007,bottom_50pct,-0.0426
+ZA,South Africa,2007,bottom_50pct,-0.0422
+ZA,South Africa,2007,top_10pct,0.8822
+ZA,South Africa,2007,top_10pct,0.8835000000000001
+ZA,South Africa,2007,top_1pct,0.5099
+ZA,South Africa,2007,top_1pct,0.5151
+ZA,South Africa,2007,top_50pct,1.0426
+ZA,South Africa,2007,top_50pct,1.0422
+ZA,South Africa,2008,bottom_10pct,-0.0886
+ZA,South Africa,2008,bottom_10pct,-0.0872
+ZA,South Africa,2008,bottom_50pct,-0.0836
+ZA,South Africa,2008,bottom_50pct,-0.0822
+ZA,South Africa,2008,top_10pct,0.9068
+ZA,South Africa,2008,top_10pct,0.9083
+ZA,South Africa,2008,top_1pct,0.4881
+ZA,South Africa,2008,top_1pct,0.4965
+ZA,South Africa,2008,top_50pct,1.0836
+ZA,South Africa,2008,top_50pct,1.0822
+ZA,South Africa,2009,bottom_10pct,-0.0819
+ZA,South Africa,2009,bottom_10pct,-0.0812
+ZA,South Africa,2009,bottom_50pct,-0.0769
+ZA,South Africa,2009,bottom_50pct,-0.0762
+ZA,South Africa,2009,top_10pct,0.8973
+ZA,South Africa,2009,top_10pct,0.8982
+ZA,South Africa,2009,top_1pct,0.5242
+ZA,South Africa,2009,top_1pct,0.5285000000000001
+ZA,South Africa,2009,top_50pct,1.0769
+ZA,South Africa,2009,top_50pct,1.0762
+ZA,South Africa,2010,bottom_10pct,-0.0739
+ZA,South Africa,2010,bottom_10pct,-0.0739
+ZA,South Africa,2010,bottom_50pct,-0.068
+ZA,South Africa,2010,bottom_50pct,-0.068
+ZA,South Africa,2010,top_10pct,0.9017
+ZA,South Africa,2010,top_10pct,0.9017
+ZA,South Africa,2010,top_1pct,0.5729
+ZA,South Africa,2010,top_1pct,0.5729000000000001
+ZA,South Africa,2010,top_50pct,1.068
+ZA,South Africa,2010,top_50pct,1.068
+ZA,South Africa,2011,bottom_10pct,-0.0696
+ZA,South Africa,2011,bottom_10pct,-0.0687
+ZA,South Africa,2011,bottom_50pct,-0.0643
+ZA,South Africa,2011,bottom_50pct,-0.0635
+ZA,South Africa,2011,top_10pct,0.8975
+ZA,South Africa,2011,top_10pct,0.8989
+ZA,South Africa,2011,top_1pct,0.5703
+ZA,South Africa,2011,top_1pct,0.5760000000000001
+ZA,South Africa,2011,top_50pct,1.0643
+ZA,South Africa,2011,top_50pct,1.0635
+ZA,South Africa,2012,bottom_10pct,-0.0588
+ZA,South Africa,2012,bottom_10pct,-0.0588
+ZA,South Africa,2012,bottom_50pct,-0.0534
+ZA,South Africa,2012,bottom_50pct,-0.0534
+ZA,South Africa,2012,top_10pct,0.8886
+ZA,South Africa,2012,top_10pct,0.8886000000000001
+ZA,South Africa,2012,top_1pct,0.5724
+ZA,South Africa,2012,top_1pct,0.5724
+ZA,South Africa,2012,top_50pct,1.0534
+ZA,South Africa,2012,top_50pct,1.0534
+ZA,South Africa,2013,bottom_10pct,-0.0468
+ZA,South Africa,2013,bottom_10pct,-0.0468
+ZA,South Africa,2013,bottom_50pct,-0.0397
+ZA,South Africa,2013,bottom_50pct,-0.0397
+ZA,South Africa,2013,top_10pct,0.8794
+ZA,South Africa,2013,top_10pct,0.8794000000000001
+ZA,South Africa,2013,top_1pct,0.5626
+ZA,South Africa,2013,top_1pct,0.5626
+ZA,South Africa,2013,top_50pct,1.0397
+ZA,South Africa,2013,top_50pct,1.0397
+ZA,South Africa,2014,bottom_10pct,-0.0384
+ZA,South Africa,2014,bottom_10pct,-0.0382
+ZA,South Africa,2014,bottom_50pct,-0.0302
+ZA,South Africa,2014,bottom_50pct,-0.03
+ZA,South Africa,2014,top_10pct,0.8682
+ZA,South Africa,2014,top_10pct,0.869
+ZA,South Africa,2014,top_1pct,0.5454
+ZA,South Africa,2014,top_1pct,0.5481
+ZA,South Africa,2014,top_50pct,1.0302
+ZA,South Africa,2014,top_50pct,1.03
+ZA,South Africa,2015,bottom_10pct,-0.037
+ZA,South Africa,2015,bottom_10pct,-0.037
+ZA,South Africa,2015,bottom_50pct,-0.0291
+ZA,South Africa,2015,bottom_50pct,-0.0291
+ZA,South Africa,2015,top_10pct,0.8692
+ZA,South Africa,2015,top_10pct,0.8692000000000001
+ZA,South Africa,2015,top_1pct,0.5504
+ZA,South Africa,2015,top_1pct,0.5504
+ZA,South Africa,2015,top_50pct,1.0291
+ZA,South Africa,2015,top_50pct,1.0291
+ZA,South Africa,2016,bottom_10pct,-0.0367
+ZA,South Africa,2016,bottom_10pct,-0.0365
+ZA,South Africa,2016,bottom_50pct,-0.0287
+ZA,South Africa,2016,bottom_50pct,-0.0285
+ZA,South Africa,2016,top_10pct,0.8669
+ZA,South Africa,2016,top_10pct,0.8676
+ZA,South Africa,2016,top_1pct,0.5354
+ZA,South Africa,2016,top_1pct,0.5378000000000001
+ZA,South Africa,2016,top_50pct,1.0287
+ZA,South Africa,2016,top_50pct,1.0285
+ZA,South Africa,2017,bottom_10pct,-0.0342
+ZA,South Africa,2017,bottom_10pct,-0.0342
+ZA,South Africa,2017,bottom_50pct,-0.0246
+ZA,South Africa,2017,bottom_50pct,-0.0246
+ZA,South Africa,2017,top_10pct,0.8556
+ZA,South Africa,2017,top_10pct,0.8556
+ZA,South Africa,2017,top_1pct,0.5473
+ZA,South Africa,2017,top_1pct,0.5473
+ZA,South Africa,2017,top_50pct,1.0246
+ZA,South Africa,2017,top_50pct,1.0246
+ZA,South Africa,2018,bottom_10pct,-0.0342
+ZA,South Africa,2018,bottom_50pct,-0.0246
+ZA,South Africa,2018,top_10pct,0.8557
+ZA,South Africa,2018,top_1pct,0.5474
+ZA,South Africa,2018,top_50pct,1.0246
+ZA,South Africa,2019,bottom_10pct,-0.0342
+ZA,South Africa,2019,bottom_50pct,-0.0246
+ZA,South Africa,2019,top_10pct,0.8556
+ZA,South Africa,2019,top_1pct,0.5473
+ZA,South Africa,2019,top_50pct,1.0246
+ZA,South Africa,2020,bottom_10pct,-0.0342
+ZA,South Africa,2020,bottom_50pct,-0.0246
+ZA,South Africa,2020,top_10pct,0.8557
+ZA,South Africa,2020,top_1pct,0.5474
+ZA,South Africa,2020,top_50pct,1.0246
+ZA,South Africa,2021,bottom_10pct,-0.0342
+ZA,South Africa,2021,bottom_50pct,-0.0245
+ZA,South Africa,2021,top_10pct,0.8554
+ZA,South Africa,2021,top_1pct,0.5471
+ZA,South Africa,2021,top_50pct,1.0245
+ZA,South Africa,2022,bottom_10pct,-0.0342
+ZA,South Africa,2022,bottom_50pct,-0.0245
+ZA,South Africa,2022,top_10pct,0.8556
+ZA,South Africa,2022,top_1pct,0.5473
+ZA,South Africa,2022,top_50pct,1.0245
+ZA,South Africa,2023,bottom_10pct,-0.0342
+ZA,South Africa,2023,bottom_50pct,-0.0245
+ZA,South Africa,2023,top_10pct,0.8556
+ZA,South Africa,2023,top_1pct,0.5473
+ZA,South Africa,2023,top_50pct,1.0245
