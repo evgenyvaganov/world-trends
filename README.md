@@ -1,5 +1,8 @@
 # World Trends Analysis: G20 Economic Inequality (1995-2023)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+
 A comprehensive data analysis project examining economic inequality trends across G20 nations using the World Inequality Database (WID). This project analyzes five key metrics: Median PPP income, Mean PPP income, Mean to Median Ratio (MMR), Wealth distribution across percentiles, and Gini coefficients.
 
 ## 📊 Project Overview
@@ -44,6 +47,30 @@ This project provides a complete pipeline for analyzing economic inequality acro
 Argentina (AR), Australia (AU), Brazil (BR), Canada (CA), China (CN), France (FR), Germany (DE), India (IN), Indonesia (ID), Italy (IT), Japan (JP), South Korea (KR), Mexico (MX), Russia (RU), Saudi Arabia (SA), South Africa (ZA), Turkey (TR), United Kingdom (GB), United States (US)
 
 ## 🚀 Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/world-trends.git
+cd world-trends
+
+# Set up environment (conda)
+conda create -n world-trends python=3.11 -y
+conda activate world-trends
+conda install pandas numpy matplotlib seaborn -y
+
+# Download WID data (if running extraction)
+# Visit https://wid.world/data/ and download full dataset to datasets/wid_all_data/
+
+# Run the complete pipeline
+python main.py all
+
+# Or run individual components
+python main.py verify    # Check data completeness
+python main.py extract   # Extract and process data
+python main.py visualize # Generate visualizations
+```
+
+## 📦 Installation
 
 ### Prerequisites
 
@@ -292,7 +319,9 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 ## 📄 License
 
-This project is for research and educational purposes. Please refer to the World Inequality Database terms of use for data usage restrictions.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**Data License Note**: The underlying data from the World Inequality Database (WID) is subject to its own terms of use. Please refer to [WID's terms](https://wid.world/terms-of-use/) for data usage restrictions.
 
 ## 🙏 Acknowledgments
 
@@ -301,7 +330,10 @@ This project is for research and educational purposes. Please refer to the World
 
 ## 📧 Contact
 
-For questions or feedback about this project, please open an issue on the project repository.
+For questions, feedback, or collaboration opportunities, please:
+- Open an issue on this repository
+- Submit a pull request with improvements
+- Refer to the [Contributing](#-contributing) section
 
 ---
 
