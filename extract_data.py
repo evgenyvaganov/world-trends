@@ -16,6 +16,7 @@ import pandas as pd
 import numpy as np
 from typing import Dict, List
 from ppp_conversion_factors_2011 import convert_to_international_dollars, get_ppp_factor
+from datetime import datetime
 
 class WIDDataExtractor:
     """Extracts and cleans WID data into analysis-ready CSV files"""
@@ -525,6 +526,7 @@ class WIDDataExtractor:
     def extract_all_metrics(self) -> Dict[str, pd.DataFrame]:
         """Extract all four metrics and save to clean CSV files"""
         print("=== WID DATA EXTRACTION ===")
+        print(f"Source: World Inequality Database (wid.world, accessed {datetime.now().strftime('%Y-%m-%d')})")
         print("Extracting 4 key metrics from WID datasets...\n")
         
         results = {}
@@ -570,6 +572,7 @@ class WIDDataExtractor:
         
         if total_records > 0:
             print("\n✅ Data extraction completed successfully!")
+            print(f"Data Source: World Inequality Database (wid.world, accessed {datetime.now().strftime('%Y-%m-%d')})")
             print("Ready for visualization phase.")
         else:
             print("\n❌ No data extracted. Check source datasets.")

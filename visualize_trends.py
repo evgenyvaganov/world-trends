@@ -17,6 +17,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from typing import Dict, List, Optional
+from datetime import datetime
 
 class TrendsVisualizer:
     """Creates visualizations from clean extracted datasets"""
@@ -36,6 +37,7 @@ class TrendsVisualizer:
         """Configure matplotlib and seaborn styling"""
         plt.style.use('default')  # Use default instead of deprecated seaborn style
         sns.set_palette("tab10")
+        self.attribution_text = f"Source: World Inequality Database (wid.world, accessed {datetime.now().strftime('%Y-%m-%d')})"
         
         # Set global plot parameters
         plt.rcParams.update({
@@ -50,6 +52,11 @@ class TrendsVisualizer:
             'axes.grid': True,
             'grid.alpha': 0.3
         })
+    
+    def add_attribution(self, fig):
+        """Add WID attribution text to figure"""
+        fig.text(0.5, 0.01, self.attribution_text, ha='center', fontsize=8, 
+                style='italic', color='gray')
     
     def load_clean_datasets(self) -> Dict[str, pd.DataFrame]:
         """Load all clean CSV datasets"""
@@ -115,6 +122,7 @@ class TrendsVisualizer:
         ax.yaxis.set_major_formatter(plt.FuncFormatter(lambda x, p: f'${x:,.0f}'))
         
         plt.tight_layout()
+        self.add_attribution(fig)
         
         if save:
             plt.savefig(os.path.join(self.output_path, 'income_trends_g20.png'), 
@@ -244,6 +252,7 @@ class TrendsVisualizer:
         
         plt.suptitle(f'G20 Wealth Distribution Analysis ({target_year})', fontsize=16, fontweight='bold')
         plt.tight_layout()
+        self.add_attribution(fig)
         
         if save:
             plt.savefig(os.path.join(self.output_path, f'wealth_distribution_{target_year}.png'), 
@@ -326,6 +335,7 @@ class TrendsVisualizer:
         plt.suptitle('Wealth Distribution Trends by Percentile Group - G20 Countries (1995-2023)', 
                     fontsize=14, fontweight='bold')
         plt.tight_layout()
+        self.add_attribution(fig)
         
         if save:
             plt.savefig(os.path.join(self.output_path, 'wealth_trends_g20.png'), 
@@ -406,6 +416,7 @@ class TrendsVisualizer:
         
         plt.suptitle('Income Distribution Skewness Analysis', fontsize=16, fontweight='bold')
         plt.tight_layout()
+        self.add_attribution(fig)
         
         if save:
             plt.savefig(os.path.join(self.output_path, 'mmr_trends_g20.png'), 
@@ -480,6 +491,7 @@ class TrendsVisualizer:
         
         plt.suptitle('G20 Income Inequality Analysis', fontsize=16, fontweight='bold')
         plt.tight_layout()
+        self.add_attribution(fig)
         
         if save:
             plt.savefig(os.path.join(self.output_path, 'inequality_trends_g20.png'), 
@@ -530,6 +542,8 @@ class TrendsVisualizer:
         
         plt.suptitle('G20 Economic Inequality Dashboard - Key Metrics Overview', 
                     fontsize=16, fontweight='bold')
+        
+        self.add_attribution(fig)
         
         if save:
             plt.savefig(os.path.join(self.output_path, 'comparative_dashboard.png'), 
